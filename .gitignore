@@ -1,0 +1,11 @@
+.env
+.vscode/
+__pycache__/
+pagesarch/
+Pipelines/ETL/
+notes.txt
+pandasai.log
+test.py
+*.png
+*.ipynb
+.DS_Store

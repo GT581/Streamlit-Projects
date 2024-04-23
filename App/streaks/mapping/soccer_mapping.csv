@@ -1,0 +1,167 @@
+﻿team,sport,sofa_team_id,sofa_team,dk_team_id,dk_team
+Burnley,soccer,6,Burnley,83627,Burnley
+Brighton,soccer,30,Brighton & Hove Albion,83606,Brighton
+West Ham,soccer,37,West Ham United,83719,West Ham
+Chelsea,soccer,38,Chelsea,83632,Chelsea
+Aston Villa,soccer,40,Aston Villa,83582,Aston Villa
+Arsenal,soccer,42,Arsenal,83591,Arsenal
+Fulham,soccer,43,Fulham,83728,Fulham
+Liverpool,soccer,44,Liverpool,83785,Liverpool
+Bournemouth,soccer,60,Bournemouth,83603,Bournemouth
+Luton Town,soccer,72,Luton Town,83308,Luton Town
+Marseille,soccer,1641,Olympique de Marseille,84394,Marseille
+Montpellier,soccer,1642,Montpellier,84401,Montpellier
+Lille,soccer,1643,Lille,84418,Lille
+Paris St-Germain,soccer,1644,Paris Saint-Germain,84427,Paris St-Germain
+Nantes,soccer,1647,Nantes,84421,Nantes
+Lens,soccer,1648,Lens,302421,Lens
+Metz,soccer,1651,Metz,84437,Metz
+Monaco,soccer,1653,AS Monaco,84370,Monaco
+Stade Rennes,soccer,1658,Stade Rennais,84403,Stade Rennes
+Strasbourg,soccer,1659,RC Strasbourg,84436,Strasbourg
+Clermont,soccer,1680,Clermont Foot,569067,Clermont
+Toulouse,soccer,1681,Toulouse,84384,Toulouse
+Reims,soccer,1682,Stade de Reims,84396,Reims
+Stade Brest,soccer,1715,Stade Brestois,84382,Stade Brest
+Rangers,soccer,2351,Rangers,85346,Rangers
+DC United,soccer,2502,DC United,74307,DC Utd
+Columbus Crew,soccer,2504,Columbus Crew,74289,Columbus Crew
+Chicago Fire,soccer,2505,Chicago Fire,74311,CHI Fire
+New York Red Bulls,soccer,2506,New York Red Bulls,74290,New York Red Bulls
+Sporting Kansas City,soccer,2509,Sporting Kansas City,74320,Sporting KC
+New England Revolution,soccer,2511,New England Revolution,74293,NE Revolution
+FC Dallas,soccer,2512,FC Dallas,74292,FC Dallas
+LA Galaxy,soccer,2513,LA Galaxy,74310,LA Galaxy
+Wolfsburg,soccer,2524,VfL Wolfsburg,88109,Wolfsburg
+Freiburg,soccer,2538,SC Freiburg,302423,Freiburg
+Bochum,soccer,2542,VfL Bochum 1848,507752,Bochum
+Union Berlin,soccer,2547,1. FC Union Berlin,489924,Union Berlin
+Mainz,soccer,2556,1. FSV Mainz 05,302484,Mainz
+Hoffenheim,soccer,2569,TSG Hoffenheim,302562,Hoffenheim
+Cologne,soccer,2671,1. FC Köln,302454,Cologne
+Dortmund,soccer,2673,Borussia Dortmund,87928,Dortmund
+Eintracht Frankfurt,soccer,2674,Eintracht Frankfurt,85568,Eintracht Frankfurt
+Leverkusen,soccer,2681,Bayer 04 Leverkusen,87974,Leverkusen
+Atalanta,soccer,2686,Atalanta,87597,Atalanta
+Juventus,soccer,2687,Juventus,84088,Juventus
+Lecce,soccer,2689,Lecce,87362,Lecce
+AC Milan,soccer,2692,Milan,84090,AC Milan
+Fiorentina,soccer,2693,Fiorentina,84077,Fiorentina
+Udinese,soccer,2695,Udinese,87382,Udinese
+Inter Milan,soccer,2697,Inter,84084,Inter Milan
+Lazio,soccer,2699,Lazio,87599,Lazio
+Verona,soccer,2701,Hellas Verona,87386,Verona
+AS Roma,soccer,2702,Roma,87595,AS Roma
+Empoli,soccer,2705,Empoli,87272,Empoli
+Salernitana,soccer,2710,Salernitana,87310,Salernitana
+Genoa,soccer,2713,Genoa,87331,Genoa
+Monza Brianza,soccer,2729,Monza,87164,Monza Brianza
+Frosinone,soccer,2801,Frosinone,87275,Frosinone
+Real Betis,soccer,2816,Real Betis,85594,Real Betis
+Barcelona,soccer,2817,Barcelona,85547,Barcelona
+Vallecano,soccer,2818,Rayo Vallecano,95462,Vallecano
+Villarreal,soccer,2819,Villarreal,85573,Villarreal
+Osasuna,soccer,2820,Osasuna,85557,Osasuna
+Real Sociedad,soccer,2824,Real Sociedad,85569,Real Sociedad
+Mallorca,soccer,2826,Mallorca,85561,Mallorca
+Real Madrid,soccer,2829,Real Madrid,84086,Real Madrid
+Sevilla,soccer,2833,Sevilla,85590,Sevilla
+Atletico Madrid,soccer,2836,Atlético Madrid,84092,Atletico Madrid
+Almeria,soccer,2858,Almería,95840,Almeria
+Getafe,soccer,2859,Getafe,85586,Getafe
+Alaves,soccer,2885,Deportivo Alavés,85579,Alaves
+Real Salt Lake,soccer,5133,Real Salt Lake,74296,Real Salt Lake
+FC Heidenheim,soccer,5885,1. FC Heidenheim,716993,FC Heidenheim
+Las Palmas,soccer,6577,Las Palmas,95457,Las Palmas
+Toronto FC,soccer,7080,Toronto FC,74302,Toronto FC
+San Jose Earthquakes,soccer,21825,San Jose Earthquakes,74313,SJ Earthquakes
+Seattle Sounders,soccer,22009,Seattle Sounders FC,74316,Seattle Sounders
+Vancouver Whitecaps,soccer,22010,Vancouver Whitecaps,74304,Vancouver Whitecaps
+Girona,soccer,24264,Girona FC,302665,Girona
+Granada,soccer,33779,Granada,85575,Granada CF
+Philadelphia Union,soccer,39833,Philadelphia Union,74301,PHI Union
+Orlando City,soccer,52237,Orlando City SC,74298,Orlando City
+NYCFC,soccer,187643,New York City FC,74299,NYCFC
+FC Cincinnati,soccer,215167,FC Cincinnati,74317,FC Cincinnati
+Atlanta United,soccer,243211,Atlanta United,74308,Atlanta Utd
+LAFC,soccer,274650,Los Angeles FC,74319,LAFC
+Inter Miami,soccer,337602,Inter Miami CF,457321,Inter Miami
+Nashville SC,soccer,337612,Nashville SC,457319,Nashville SC
+Austin FC,soccer,377973,Austin FC,553570,Austin FC
+Charlotte FC,soccer,404108,Charlotte FC,615157,Charlotte FC
+Nottingham Forest,soccer,14,Nottingham Forest,83635,Nottingham Forest
+Manchester City,soccer,17,Manchester City,83734,Man City
+Tottenham,soccer,33,Tottenham Hotspur,83571,Tottenham
+Newcastle,soccer,39,Newcastle United,83684,Newcastle
+Brentford,soccer,50,Brentford,83612,Brentford
+Lyon,soccer,1649,Olympique Lyonnais,84372,Lyon
+Lorient,soccer,1656,Lorient,302477,Lorient
+Nice,soccer,1661,Nice,84409,Nice
+Sparta Prague,soccer,2218,Sparta Praha,85824,Sparta Prague
+Colorado Rapids,soccer,2510,Colorado Rapids,74286,COL Rapids
+Monchengladbach,soccer,2527,Borussia M'gladbach,88047,Monchengladbach
+Werder Bremen,soccer,2534,SV Werder Bremen,302427,Werder Bremen
+Augsburg,soccer,2600,FC Augsburg,302539,Augsburg
+Stuttgart,soccer,2677,VfB Stuttgart,302426,Stuttgart
+Bologna,soccer,2685,Bologna,87371,Bologna
+Torino,soccer,2696,Torino,85627,Torino
+Napoli,soccer,2714,Napoli,87591,Napoli
+Cagliari,soccer,2719,Cagliari,87341,Cagliari
+Sassuolo,soccer,2793,Sassuolo,87378,Sassuolo
+Real Betis,soccer,2816,Real Betis,85594,Real Betis
+Barcelona,soccer,2817,Barcelona,85547,Barcelona
+Vallecano,soccer,2818,Rayo Vallecano,95462,Vallecano
+Villarreal,soccer,2819,Villarreal,85573,Villarreal
+Osasuna,soccer,2820,Osasuna,85557,Osasuna
+Celta Vigo,soccer,2821,Celta Vigo,85551,Celta Vigo
+Real Sociedad,soccer,2824,Real Sociedad,85569,Real Sociedad
+Athletic Bilbao,soccer,2825,Athletic Club,85545,Athletic Bilbao
+Valencia,soccer,2828,Valencia,85567,Valencia
+Real Madrid,soccer,2829,Real Madrid,84086,Real Madrid
+Sevilla,soccer,2833,Sevilla,85590,Sevilla
+Almeria,soccer,2858,Almería,95840,Almeria
+PSV Eindhoven,soccer,2952,PSV Eindhoven,84400,PSV Eindhoven
+Sporting Lisbon,soccer,3001,Sporting,88099,Sporting Lisbon
+Porto,soccer,3002,FC Porto,84694,Porto
+Benfica,soccer,3006,Benfica,84082,Benfica
+Cadiz,soccer,4488,Cádiz,302536,Cadiz
+Real Salt Lake,soccer,5133,Real Salt Lake,74296,Real Salt Lake
+FK Qarabag,soccer,5962,Qarabağ,84487,FK Qarabag
+Toronto FC,soccer,7080,Toronto FC,74302,Toronto FC
+CF Montreal,soccer,22006,CF Montreal,74314,CF Montreal
+Seattle Sounders,soccer,22009,Seattle Sounders FC,74316,Seattle Sounders
+Vancouver Whitecaps,soccer,22010,Vancouver Whitecaps,74304,Vancouver Whitecaps
+Girona,soccer,24264,Girona FC,302665,Girona
+Granada,soccer,33779,Granada,85575,Granada CF
+RB Leipzig,soccer,36360,RB Leipzig,87922,RB Leipzig
+Philadelphia Union,soccer,39833,Philadelphia Union,74301,PHI Union
+Minnesota United,soccer,41618,Minnesota United,74305,Minnesota Utd
+Orlando City,soccer,52237,Orlando City SC,74298,Orlando City
+NYCFC,soccer,187643,New York City FC,74299,NYCFC
+FC Cincinnati,soccer,215167,FC Cincinnati,74317,FC Cincinnati
+Atlanta United,soccer,243211,Atlanta United,74308,Atlanta Utd
+Inter Miami,soccer,337602,Inter Miami CF,457321,Inter Miami
+Nashville SC,soccer,337612,Nashville SC,457319,Nashville SC
+Austin FC,soccer,377973,Austin FC,553570,Austin FC
+Charlotte FC,soccer,404108,Charlotte FC,615157,Charlotte FC
+St.Louis City,soccer,407803,St.Louis City,684585,St Louis City SC
+Houston Dynamo,soccer,2508,Houston Dynamo,74295,HOU Dynamo
+Manchester United,soccer,35,Manchester United,83669,Man Utd
+Crystal Palace,soccer,7,Crystal Palace,83641,Crystal Palace
+Bayern Munchen,soccer,2672,FC Bayern München,84079,Bayern Munchen
+Portland Timbers,soccer,22007,Portland Timbers,74287,POR Timbers
+Sheffield United,soccer,15,Sheffield United,83773,Sheffield Utd
+Everton,soccer,48,Everton,83654,Everton
+Le Havre,soccer,1662,Le Havre,,Le Havre
+Wolves,soccer,3,Wolverhampton,83783,Wolves
+SV Darmstadt 98,soccer,2576,Darmstadt 98,543355,SV Darmstadt 98
+Fenerbahçe,soccer,3052,Fenerbahçe,,
+Viktoria Plzeň,soccer,4502,Viktoria Plzeň,,
+GNK Dinamo Zagreb,soccer,2032,GNK Dinamo Zagreb,,
+Royale Union Saint-Gilloise,soccer,4860,Royale Union Saint-Gilloise,,
+PAOK,soccer,3251,PAOK,,
+Servette FC,soccer,2448,Servette FC,,
+Maccabi Tel Aviv,soccer,5198,Maccabi Tel Aviv,,
+Club Brugge KV,soccer,2888,Club Brugge KV,,
+Molde FK,soccer,661,Molde FK,,
+Olympiacos,soccer,3245,Olympiacos,,

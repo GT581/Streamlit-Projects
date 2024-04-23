@@ -1,0 +1,13 @@
+streamlit
+langchain
+pandas
+numpy
+requests
+langchain_google_genai
+pandasai
+google-generativeai
+pytz
+datetime
+langchain_groq
+groq
+bs4
