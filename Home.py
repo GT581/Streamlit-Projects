@@ -7,7 +7,7 @@ st.set_page_config(
     layout="wide",
     initial_sidebar_state="expanded",
     menu_items={
-        'About': "# This is a header. This is an *extremely* cool app!"
+        'About': "https://github.com/GT581/Streamlit-Projects/blob/main/Home.py"
     }
 )
 
@@ -26,7 +26,7 @@ Current and future projects will be mainly focused around applying my data and s
 
 Each page on this app hosts a different project, which can be accessed in the sidebar. Below are the summaries of each project deployed so far.
 
-All code for this app can be found on my Github: 
+All code for this app can be found on my Github: https://github.com/GT581/Streamlit-Projects/tree/main
 
 *Note: for "AI" labeled projects, an API key must be provided. These were puposely designed around platforms that are currently offering free API keys to models, and you can get one at the corresponding links below:*
 - Google: [https://ai.google.dev/pricing](https://ai.google.dev/pricing)

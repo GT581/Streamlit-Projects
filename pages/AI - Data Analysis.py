@@ -8,7 +8,7 @@ st.set_page_config(
     layout="wide",
     initial_sidebar_state="expanded",
     menu_items={
-        'About': "# This is a header. This is an *extremely* cool app!"
+        'About': "https://github.com/GT581/Streamlit-Projects/blob/main/pages/AI%20-%20Data%20Analysis.py"
     }
 )
 

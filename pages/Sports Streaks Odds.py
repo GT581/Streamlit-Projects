@@ -8,7 +8,7 @@ st.set_page_config(
     layout="wide",
     initial_sidebar_state="expanded",
     menu_items={
-        'About': "# This is a header. This is an *extremely* cool app!"
+        'About': "https://github.com/GT581/Streamlit-Projects/blob/main/pages/Sports%20Streaks%20Odds.py"
     }
 )
 
