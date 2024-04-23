@@ -114,4 +114,4 @@ This involved a local postgres database with designed schemas, DDL and CDC scrip
 """)
 
 
-st.write('*Disclaimer: This app is for demonstration purposes only and not intended to provide advice of any kind. Use the app at your own risk.')
+st.write('*Disclaimer: This app is for demonstration purposes only and not intended to provide advice of any kind.')

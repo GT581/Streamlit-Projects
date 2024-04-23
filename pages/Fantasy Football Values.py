@@ -15,5 +15,14 @@ st.set_page_config(
 
 st.title("Fantasy Football Values")
 
+st.markdown("""
+*Notes:*
+- When choosing player result size, pick according to the expected draft pool (ex: 12 person league, 16 normal roster size, at least ~200 drafted players)
+- QB stats are best to be looked at alone unless playing in 2QB / superflex leagues
+
+---
+
+""")
+
 
 espnAdpValues()
