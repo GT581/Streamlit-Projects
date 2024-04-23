@@ -64,7 +64,7 @@ def selectEspnPos(positions):
         selectedPositions: list of selected positions
     '''
 
-    selectedPositions = st.multiselect('Select one or more positions (QBs will tend to skew total projections relative to flex players):', positions)
+    selectedPositions = st.multiselect('Select one or more positions: ', positions)
 
     if selectedPositions is None:
         st.stop()
