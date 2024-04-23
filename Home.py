@@ -20,7 +20,7 @@ st.markdown("""
 
 ## About This App
 
-This Streamlit app is designed to showcase various Data Engineering and Data Science projects I have created.
+This Streamlit app is designed to showcase various Data Engineering and Data Science projects I created.
 
 Current and future projects will be mainly focused around applying my data and software engineering skill set toward my other interests of AI, Sports Analytics, and Financial Analysis.
 
@@ -92,9 +92,9 @@ This project enables the analysis of a sports team's recent hot streaks and tren
 
 Using the Sofascore and Draftkings API, for a selected date we can choose between any matches occuring for configured sports and their leagues, pulling the data in real time.
 
-Any streaks or trends that are available for the teams in a choosen match will be displayed, and selecting an assigned streak category will pull the corresponding odds.
+Any streaks or trends that are available for the teams in a chosen match will be displayed, and selecting an assigned streak category will pull the corresponding odds.
 
-Both of the Sofascore and Draftkings API's were essentially reversed engingeered for this project. 
+Both of the Sofascore and Draftkings APIs were essentially reversed engingeered for this project. 
 
 The API endpoints and parameters for the desired data on all sport / league / category levels were configured, in addition to mapping exercises between the two data sources on both the match and streak / bet level. 
 
@@ -106,7 +106,7 @@ The API endpoints and parameters for the desired data on all sport / league / ca
 
 
 *Note: 
-This project originally started as a local web app, demonstrating my capabilities as a full stack software engineer. that will be available on my GitHub as well.
+This project originally started as a local web app, demonstrating my capabilities as a full stack software engineer, that will also be available on my GitHub.
 This involved a local postgres database with designed schemas, DDL and CDC scripts for each table and category, and FastAPI endpoints to connect to a React front end.
 
 ---
