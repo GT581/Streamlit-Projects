@@ -77,19 +77,20 @@ def parseSofaEvents(eventsResponse, sport):
 
     #Iterate through each event dict in the events list
     for d in eventsResponse['events']:
-        if d['tournament']['uniqueTournament']['id'] in leagueIdList: #only parse and append data for configued / desired leagues
-            league = d['tournament']['name']
-            season = d['season']['name']
-            homeSofaId = d['homeTeam']['id']
-            homeTeam = d['homeTeam']['name']
-            awaySofaId = d['awayTeam']['id']
-            awayTeam = d['awayTeam']['name']
-            matchId = d['id']
-            startTimestamp = d['startTimestamp']
-            estDtFormatted = sc.convertUnixEST(startTimestamp)
-            matchData.append([matchId, league, season, homeTeam, awayTeam, homeSofaId, awaySofaId, estDtFormatted, currentDTime])
-        else:
-            continue
+        if 'uniqueTournament' in d['tournament']:
+            if d['tournament']['uniqueTournament']['id'] in leagueIdList: #only parse and append data for configued / desired leagues
+                league = d['tournament']['name']
+                season = d['season']['name']
+                homeSofaId = d['homeTeam']['id']
+                homeTeam = d['homeTeam']['name']
+                awaySofaId = d['awayTeam']['id']
+                awayTeam = d['awayTeam']['name']
+                matchId = d['id']
+                startTimestamp = d['startTimestamp']
+                estDtFormatted = sc.convertUnixEST(startTimestamp)
+                matchData.append([matchId, league, season, homeTeam, awayTeam, homeSofaId, awaySofaId, estDtFormatted, currentDTime])
+            else:
+                continue
 
     matchesDf = pd.DataFrame(data=matchData, columns=matchSchema)
 

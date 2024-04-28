@@ -1,6 +1,7 @@
 import requests
 import pandas as pd
 from bs4 import BeautifulSoup
+import re
 
 
 def fantasyProsUrls():
@@ -46,3 +47,20 @@ def stripCreateFantasyProsPosition(df):
     posIndex = df.columns.get_loc("POS")
     df.insert(posIndex, "position", df.pop("position"))
     return df
+
+
+def stripTeam(player):
+    match = re.search(r'\(([A-Z]+)\)', player)
+    if match:
+        return match.group(1)
+    else:
+        return None
+
+
+def convertDecimal(percentage):
+    if isinstance(percentage, pd.Series):
+        return percentage.str.strip('%').astype(float) / 100
+    if percentage.strip('%').isdigit():
+        return float(percentage.strip('%')) / 100
+    else:
+        return 0
