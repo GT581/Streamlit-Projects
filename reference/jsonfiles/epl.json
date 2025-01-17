@@ -1,0 +1,2909 @@
+{
+  "eventGroup": {
+    "eventGroupId": "40253",
+    "displayGroupId": "1",
+    "name": "English Premier League",
+    "offerCategories": [
+      {
+        "offerCategoryId": 490,
+        "name": "Game Lines",
+        "offerSubcategoryDescriptors": [
+          {
+            "subcategoryId": 4514,
+            "name": "Moneyline (Regular Time)",
+            "offerSubcategory": {
+              "name": "Moneyline (Regular Time)",
+              "subcategoryId": 4514,
+              "componentId": 11,
+              "offers": [
+                [
+                  {
+                    "providerOfferId": "1_74101714",
+                    "eventId": "30153718",
+                    "eventGroupId": "40253",
+                    "label": "Moneyline",
+                    "isSuspended": false,
+                    "isOpen": true,
+                    "offerSubcategoryId": 4514,
+                    "isSubcategoryFeatured": true,
+                    "betOfferTypeId": 2,
+                    "providerCriterionId": "1_0",
+                    "outcomes": [
+                      {
+                        "providerOutcomeId": "0ML74101714_1",
+                        "providerId": 2,
+                        "providerOfferId": "1_74101714",
+                        "label": "Nottingham Forest",
+                        "oddsAmerican": "\u002B475",
+                        "oddsDecimal": 5.75,
+                        "oddsDecimalDisplay": "5.75",
+                        "oddsFractional": "19/4",
+                        "participant": "Nottingham Forest",
+                        "participantType": "Team",
+                        "sortOrder": 1164571969,
+                        "participants": [
+                          {
+                            "id": "83635",
+                            "name": "Nottingham Forest",
+                            "type": "Team"
+                          }
+                        ]
+                      },
+                      {
+                        "providerOutcomeId": "0ML74101714_2",
+                        "providerId": 2,
+                        "providerOfferId": "1_74101714",
+                        "label": "Draw",
+                        "oddsAmerican": "\u002B380",
+                        "oddsDecimal": 4.8,
+                        "oddsDecimalDisplay": "4.80",
+                        "oddsFractional": "19/5",
+                        "participant": "",
+                        "participantType": "Unknown",
+                        "sortOrder": 1164572974
+                      },
+                      {
+                        "providerOutcomeId": "0ML74101714_3",
+                        "providerId": 2,
+                        "providerOfferId": "1_74101714",
+                        "label": "Liverpool",
+                        "oddsAmerican": "-190",
+                        "oddsDecimal": 1.52631579,
+                        "oddsDecimalDisplay": "1.52",
+                        "oddsFractional": "10/19",
+                        "participant": "Liverpool",
+                        "participantType": "Team",
+                        "sortOrder": 1164573975,
+                        "participants": [
+                          { "id": "83785", "name": "Liverpool", "type": "Team" }
+                        ]
+                      }
+                    ],
+                    "offerSequence": 0,
+                    "source": "5",
+                    "displayGroupId": "1",
+                    "main": true,
+                    "tags": [
+                      "PrimaryMarket",
+                      "Cashout",
+                      "FeaturedSubcategory",
+                      "Default"
+                    ]
+                  }
+                ],
+                [
+                  {
+                    "providerOfferId": "1_74101717",
+                    "eventId": "30153721",
+                    "eventGroupId": "40253",
+                    "label": "Moneyline",
+                    "isSuspended": false,
+                    "isOpen": true,
+                    "offerSubcategoryId": 4514,
+                    "isSubcategoryFeatured": true,
+                    "betOfferTypeId": 2,
+                    "providerCriterionId": "1_0",
+                    "outcomes": [
+                      {
+                        "providerOutcomeId": "0ML74101717_1",
+                        "providerId": 2,
+                        "providerOfferId": "1_74101717",
+                        "label": "Tottenham",
+                        "oddsAmerican": "-220",
+                        "oddsDecimal": 1.45454546,
+                        "oddsDecimalDisplay": "1.45",
+                        "oddsFractional": "5/11",
+                        "participant": "Tottenham",
+                        "participantType": "Team",
+                        "sortOrder": 1164571989,
+                        "participants": [
+                          { "id": "83571", "name": "Tottenham", "type": "Team" }
+                        ]
+                      },
+                      {
+                        "providerOutcomeId": "0ML74101717_2",
+                        "providerId": 2,
+                        "providerOfferId": "1_74101717",
+                        "label": "Draw",
+                        "oddsAmerican": "\u002B380",
+                        "oddsDecimal": 4.8,
+                        "oddsDecimalDisplay": "4.80",
+                        "oddsFractional": "19/5",
+                        "participant": "",
+                        "participantType": "Unknown",
+                        "sortOrder": 1164572992
+                      },
+                      {
+                        "providerOutcomeId": "0ML74101717_3",
+                        "providerId": 2,
+                        "providerOfferId": "1_74101717",
+                        "label": "Crystal Palace",
+                        "oddsAmerican": "\u002B600",
+                        "oddsDecimal": 7,
+                        "oddsDecimalDisplay": "7.00",
+                        "oddsFractional": "6/1",
+                        "participant": "Crystal Palace",
+                        "participantType": "Team",
+                        "sortOrder": 1164573993,
+                        "participants": [
+                          {
+                            "id": "83641",
+                            "name": "Crystal Palace",
+                            "type": "Team"
+                          }
+                        ]
+                      }
+                    ],
+                    "offerSequence": 0,
+                    "source": "5",
+                    "displayGroupId": "1",
+                    "main": true,
+                    "tags": [
+                      "PrimaryMarket",
+                      "Cashout",
+                      "FeaturedSubcategory",
+                      "Default"
+                    ]
+                  }
+                ],
+                [
+                  {
+                    "providerOfferId": "1_74101712",
+                    "eventId": "30153717",
+                    "eventGroupId": "40253",
+                    "label": "Moneyline",
+                    "isSuspended": false,
+                    "isOpen": true,
+                    "offerSubcategoryId": 4514,
+                    "isSubcategoryFeatured": true,
+                    "betOfferTypeId": 2,
+                    "providerCriterionId": "1_0",
+                    "outcomes": [
+                      {
+                        "providerOutcomeId": "0ML74101712_1",
+                        "providerId": 2,
+                        "providerOfferId": "1_74101712",
+                        "label": "Brentford",
+                        "oddsAmerican": "\u002B210",
+                        "oddsDecimal": 3.1,
+                        "oddsDecimalDisplay": "3.10",
+                        "oddsFractional": "21/10",
+                        "participant": "Brentford",
+                        "participantType": "Team",
+                        "sortOrder": 1164571955,
+                        "participants": [
+                          { "id": "83612", "name": "Brentford", "type": "Team" }
+                        ]
+                      },
+                      {
+                        "providerOutcomeId": "0ML74101712_2",
+                        "providerId": 2,
+                        "providerOfferId": "1_74101712",
+                        "label": "Draw",
+                        "oddsAmerican": "\u002B295",
+                        "oddsDecimal": 3.95,
+                        "oddsDecimalDisplay": "3.95",
+                        "oddsFractional": "59/20",
+                        "participant": "",
+                        "participantType": "Unknown",
+                        "sortOrder": 1164572961
+                      },
+                      {
+                        "providerOutcomeId": "0ML74101712_3",
+                        "providerId": 2,
+                        "providerOfferId": "1_74101712",
+                        "label": "Chelsea",
+                        "oddsAmerican": "\u002B115",
+                        "oddsDecimal": 2.15,
+                        "oddsDecimalDisplay": "2.15",
+                        "oddsFractional": "23/20",
+                        "participant": "Chelsea",
+                        "participantType": "Team",
+                        "sortOrder": 1164573962,
+                        "participants": [
+                          { "id": "83632", "name": "Chelsea", "type": "Team" }
+                        ]
+                      }
+                    ],
+                    "offerSequence": 0,
+                    "source": "5",
+                    "displayGroupId": "1",
+                    "main": true,
+                    "tags": [
+                      "PrimaryMarket",
+                      "Cashout",
+                      "FeaturedSubcategory",
+                      "Default"
+                    ]
+                  }
+                ],
+                [
+                  {
+                    "providerOfferId": "1_74101715",
+                    "eventId": "30153719",
+                    "eventGroupId": "40253",
+                    "label": "Moneyline",
+                    "isSuspended": false,
+                    "isOpen": true,
+                    "offerSubcategoryId": 4514,
+                    "isSubcategoryFeatured": true,
+                    "betOfferTypeId": 2,
+                    "providerCriterionId": "1_0",
+                    "outcomes": [
+                      {
+                        "providerOutcomeId": "0ML74101715_1",
+                        "providerId": 2,
+                        "providerOfferId": "1_74101715",
+                        "label": "Newcastle",
+                        "oddsAmerican": "-110",
+                        "oddsDecimal": 1.90909091,
+                        "oddsDecimalDisplay": "1.90",
+                        "oddsFractional": "10/11",
+                        "participant": "Newcastle",
+                        "participantType": "Team",
+                        "sortOrder": 1164571968,
+                        "participants": [
+                          { "id": "83684", "name": "Newcastle", "type": "Team" }
+                        ]
+                      },
+                      {
+                        "providerOutcomeId": "0ML74101715_2",
+                        "providerId": 2,
+                        "providerOfferId": "1_74101715",
+                        "label": "Draw",
+                        "oddsAmerican": "\u002B300",
+                        "oddsDecimal": 4,
+                        "oddsDecimalDisplay": "4.00",
+                        "oddsFractional": "3/1",
+                        "participant": "",
+                        "participantType": "Unknown",
+                        "sortOrder": 1164572976
+                      },
+                      {
+                        "providerOutcomeId": "0ML74101715_3",
+                        "providerId": 2,
+                        "providerOfferId": "1_74101715",
+                        "label": "Wolves",
+                        "oddsAmerican": "\u002B280",
+                        "oddsDecimal": 3.8,
+                        "oddsDecimalDisplay": "3.80",
+                        "oddsFractional": "14/5",
+                        "participant": "Wolves",
+                        "participantType": "Team",
+                        "sortOrder": 1164573979,
+                        "participants": [
+                          { "id": "83783", "name": "Wolves", "type": "Team" }
+                        ]
+                      }
+                    ],
+                    "offerSequence": 0,
+                    "source": "5",
+                    "displayGroupId": "1",
+                    "main": true,
+                    "tags": [
+                      "PrimaryMarket",
+                      "Cashout",
+                      "FeaturedSubcategory",
+                      "Default"
+                    ]
+                  }
+                ],
+                [
+                  {
+                    "providerOfferId": "1_74101713",
+                    "eventId": "30153716",
+                    "eventGroupId": "40253",
+                    "label": "Moneyline",
+                    "isSuspended": false,
+                    "isOpen": true,
+                    "offerSubcategoryId": 4514,
+                    "isSubcategoryFeatured": true,
+                    "betOfferTypeId": 2,
+                    "providerCriterionId": "1_0",
+                    "outcomes": [
+                      {
+                        "providerOutcomeId": "0ML74101713_1",
+                        "providerId": 2,
+                        "providerOfferId": "1_74101713",
+                        "label": "Fulham",
+                        "oddsAmerican": "\u002B160",
+                        "oddsDecimal": 2.6,
+                        "oddsDecimalDisplay": "2.60",
+                        "oddsFractional": "8/5",
+                        "participant": "Fulham",
+                        "participantType": "Team",
+                        "sortOrder": 1164571954,
+                        "participants": [
+                          { "id": "83728", "name": "Fulham", "type": "Team" }
+                        ]
+                      },
+                      {
+                        "providerOutcomeId": "0ML74101713_2",
+                        "providerId": 2,
+                        "providerOfferId": "1_74101713",
+                        "label": "Draw",
+                        "oddsAmerican": "\u002B260",
+                        "oddsDecimal": 3.6,
+                        "oddsDecimalDisplay": "3.60",
+                        "oddsFractional": "13/5",
+                        "participant": "",
+                        "participantType": "Unknown",
+                        "sortOrder": 1164572960
+                      },
+                      {
+                        "providerOutcomeId": "0ML74101713_3",
+                        "providerId": 2,
+                        "providerOfferId": "1_74101713",
+                        "label": "Brighton",
+                        "oddsAmerican": "\u002B165",
+                        "oddsDecimal": 2.65,
+                        "oddsDecimalDisplay": "2.65",
+                        "oddsFractional": "33/20",
+                        "participant": "Brighton",
+                        "participantType": "Team",
+                        "sortOrder": 1164573963,
+                        "participants": [
+                          { "id": "83606", "name": "Brighton", "type": "Team" }
+                        ]
+                      }
+                    ],
+                    "offerSequence": 0,
+                    "source": "5",
+                    "displayGroupId": "1",
+                    "main": true,
+                    "tags": [
+                      "PrimaryMarket",
+                      "Cashout",
+                      "FeaturedSubcategory",
+                      "Default"
+                    ]
+                  }
+                ],
+                [
+                  {
+                    "providerOfferId": "1_74101716",
+                    "eventId": "30153720",
+                    "eventGroupId": "40253",
+                    "label": "Moneyline",
+                    "isSuspended": false,
+                    "isOpen": true,
+                    "offerSubcategoryId": 4514,
+                    "isSubcategoryFeatured": true,
+                    "betOfferTypeId": 2,
+                    "providerCriterionId": "1_0",
+                    "outcomes": [
+                      {
+                        "providerOutcomeId": "0ML74101716_1",
+                        "providerId": 2,
+                        "providerOfferId": "1_74101716",
+                        "label": "Everton",
+                        "oddsAmerican": "\u002B105",
+                        "oddsDecimal": 2.05,
+                        "oddsDecimalDisplay": "2.05",
+                        "oddsFractional": "21/20",
+                        "participant": "Everton",
+                        "participantType": "Team",
+                        "sortOrder": 1164571982,
+                        "participants": [
+                          { "id": "83654", "name": "Everton", "type": "Team" }
+                        ]
+                      },
+                      {
+                        "providerOutcomeId": "0ML74101716_2",
+                        "providerId": 2,
+                        "providerOfferId": "1_74101716",
+                        "label": "Draw",
+                        "oddsAmerican": "\u002B255",
+                        "oddsDecimal": 3.55,
+                        "oddsDecimalDisplay": "3.55",
+                        "oddsFractional": "51/20",
+                        "participant": "",
+                        "participantType": "Unknown",
+                        "sortOrder": 1164572985
+                      },
+                      {
+                        "providerOutcomeId": "0ML74101716_3",
+                        "providerId": 2,
+                        "providerOfferId": "1_74101716",
+                        "label": "West Ham",
+                        "oddsAmerican": "\u002B260",
+                        "oddsDecimal": 3.6,
+                        "oddsDecimalDisplay": "3.60",
+                        "oddsFractional": "13/5",
+                        "participant": "West Ham",
+                        "participantType": "Team",
+                        "sortOrder": 1164573986,
+                        "participants": [
+                          { "id": "83719", "name": "West Ham", "type": "Team" }
+                        ]
+                      }
+                    ],
+                    "offerSequence": 0,
+                    "source": "5",
+                    "displayGroupId": "1",
+                    "main": true,
+                    "tags": [
+                      "PrimaryMarket",
+                      "Cashout",
+                      "FeaturedSubcategory",
+                      "Default"
+                    ]
+                  }
+                ],
+                [
+                  {
+                    "providerOfferId": "1_74101721",
+                    "eventId": "30153725",
+                    "eventGroupId": "40253",
+                    "label": "Moneyline",
+                    "isSuspended": false,
+                    "isOpen": true,
+                    "offerSubcategoryId": 4514,
+                    "isSubcategoryFeatured": true,
+                    "betOfferTypeId": 2,
+                    "providerCriterionId": "1_0",
+                    "outcomes": [
+                      {
+                        "providerOutcomeId": "0ML74101721_1",
+                        "providerId": 2,
+                        "providerOfferId": "1_74101721",
+                        "label": "Luton Town",
+                        "oddsAmerican": "\u002B330",
+                        "oddsDecimal": 4.3,
+                        "oddsDecimalDisplay": "4.30",
+                        "oddsFractional": "33/10",
+                        "participant": "Luton Town",
+                        "participantType": "Team",
+                        "sortOrder": 1164572017,
+                        "participants": [
+                          {
+                            "id": "83308",
+                            "name": "Luton Town",
+                            "type": "Team"
+                          }
+                        ]
+                      },
+                      {
+                        "providerOutcomeId": "0ML74101721_2",
+                        "providerId": 2,
+                        "providerOfferId": "1_74101721",
+                        "label": "Draw",
+                        "oddsAmerican": "\u002B330",
+                        "oddsDecimal": 4.3,
+                        "oddsDecimalDisplay": "4.30",
+                        "oddsFractional": "33/10",
+                        "participant": "",
+                        "participantType": "Unknown",
+                        "sortOrder": 1164573020
+                      },
+                      {
+                        "providerOutcomeId": "0ML74101721_3",
+                        "providerId": 2,
+                        "providerOfferId": "1_74101721",
+                        "label": "Aston Villa",
+                        "oddsAmerican": "-135",
+                        "oddsDecimal": 1.74074075,
+                        "oddsDecimalDisplay": "1.74",
+                        "oddsFractional": "20/27",
+                        "participant": "Aston Villa",
+                        "participantType": "Team",
+                        "sortOrder": 1164574021,
+                        "participants": [
+                          {
+                            "id": "83582",
+                            "name": "Aston Villa",
+                            "type": "Team"
+                          }
+                        ]
+                      }
+                    ],
+                    "offerSequence": 0,
+                    "source": "5",
+                    "displayGroupId": "1",
+                    "main": true,
+                    "tags": [
+                      "PrimaryMarket",
+                      "Cashout",
+                      "FeaturedSubcategory",
+                      "Default"
+                    ]
+                  }
+                ],
+                [
+                  {
+                    "providerOfferId": "1_74101718",
+                    "eventId": "30153723",
+                    "eventGroupId": "40253",
+                    "label": "Moneyline",
+                    "isSuspended": false,
+                    "isOpen": true,
+                    "offerSubcategoryId": 4514,
+                    "isSubcategoryFeatured": true,
+                    "betOfferTypeId": 2,
+                    "providerCriterionId": "1_0",
+                    "outcomes": [
+                      {
+                        "providerOutcomeId": "0ML74101718_1",
+                        "providerId": 2,
+                        "providerOfferId": "1_74101718",
+                        "label": "Burnley",
+                        "oddsAmerican": "\u002B275",
+                        "oddsDecimal": 3.75,
+                        "oddsDecimalDisplay": "3.75",
+                        "oddsFractional": "11/4",
+                        "participant": "Burnley",
+                        "participantType": "Team",
+                        "sortOrder": 1164571996,
+                        "participants": [
+                          { "id": "83627", "name": "Burnley", "type": "Team" }
+                        ]
+                      },
+                      {
+                        "providerOutcomeId": "0ML74101718_2",
+                        "providerId": 2,
+                        "providerOfferId": "1_74101718",
+                        "label": "Draw",
+                        "oddsAmerican": "\u002B280",
+                        "oddsDecimal": 3.8,
+                        "oddsDecimalDisplay": "3.80",
+                        "oddsFractional": "14/5",
+                        "participant": "",
+                        "participantType": "Unknown",
+                        "sortOrder": 1164573001
+                      },
+                      {
+                        "providerOutcomeId": "0ML74101718_3",
+                        "providerId": 2,
+                        "providerOfferId": "1_74101718",
+                        "label": "Bournemouth",
+                        "oddsAmerican": "-105",
+                        "oddsDecimal": 1.95238096,
+                        "oddsDecimalDisplay": "1.95",
+                        "oddsFractional": "20/21",
+                        "participant": "Bournemouth",
+                        "participantType": "Team",
+                        "sortOrder": 1164574006,
+                        "participants": [
+                          {
+                            "id": "83603",
+                            "name": "Bournemouth",
+                            "type": "Team"
+                          }
+                        ]
+                      }
+                    ],
+                    "offerSequence": 0,
+                    "source": "5",
+                    "displayGroupId": "1",
+                    "main": true,
+                    "tags": [
+                      "PrimaryMarket",
+                      "Cashout",
+                      "FeaturedSubcategory",
+                      "Default"
+                    ]
+                  }
+                ],
+                [
+                  {
+                    "providerOfferId": "1_74101720",
+                    "eventId": "30153724",
+                    "eventGroupId": "40253",
+                    "label": "Moneyline",
+                    "isSuspended": false,
+                    "isOpen": true,
+                    "offerSubcategoryId": 4514,
+                    "isSubcategoryFeatured": true,
+                    "betOfferTypeId": 2,
+                    "providerCriterionId": "1_0",
+                    "outcomes": [
+                      {
+                        "providerOutcomeId": "0ML74101720_1",
+                        "providerId": 2,
+                        "providerOfferId": "1_74101720",
+                        "label": "Man City",
+                        "oddsAmerican": "-380",
+                        "oddsDecimal": 1.2631579,
+                        "oddsDecimalDisplay": "1.26",
+                        "oddsFractional": "5/19",
+                        "participant": "Man City",
+                        "participantType": "Team",
+                        "sortOrder": 1164571998,
+                        "participants": [
+                          { "id": "83734", "name": "Man City", "type": "Team" }
+                        ]
+                      },
+                      {
+                        "providerOutcomeId": "0ML74101720_2",
+                        "providerId": 2,
+                        "providerOfferId": "1_74101720",
+                        "label": "Draw",
+                        "oddsAmerican": "\u002B550",
+                        "oddsDecimal": 6.5,
+                        "oddsDecimalDisplay": "6.50",
+                        "oddsFractional": "11/2",
+                        "participant": "",
+                        "participantType": "Unknown",
+                        "sortOrder": 1164573009
+                      },
+                      {
+                        "providerOutcomeId": "0ML74101720_3",
+                        "providerId": 2,
+                        "providerOfferId": "1_74101720",
+                        "label": "Man Utd",
+                        "oddsAmerican": "\u002B900",
+                        "oddsDecimal": 10,
+                        "oddsDecimalDisplay": "10.00",
+                        "oddsFractional": "9/1",
+                        "participant": "Man Utd",
+                        "participantType": "Team",
+                        "sortOrder": 1164574012,
+                        "participants": [
+                          { "id": "83669", "name": "Man Utd", "type": "Team" }
+                        ]
+                      }
+                    ],
+                    "offerSequence": 0,
+                    "source": "5",
+                    "displayGroupId": "1",
+                    "main": true,
+                    "tags": [
+                      "PrimaryMarket",
+                      "Cashout",
+                      "FeaturedSubcategory",
+                      "Default"
+                    ]
+                  }
+                ],
+                [
+                  {
+                    "providerOfferId": "1_74101719",
+                    "eventId": "30153722",
+                    "eventGroupId": "40253",
+                    "label": "Moneyline",
+                    "isSuspended": false,
+                    "isOpen": true,
+                    "offerSubcategoryId": 4514,
+                    "isSubcategoryFeatured": true,
+                    "betOfferTypeId": 2,
+                    "providerCriterionId": "1_0",
+                    "outcomes": [
+                      {
+                        "providerOutcomeId": "0ML74101719_1",
+                        "providerId": 2,
+                        "providerOfferId": "1_74101719",
+                        "label": "Sheffield Utd",
+                        "oddsAmerican": "\u002B1400",
+                        "oddsDecimal": 15,
+                        "oddsDecimalDisplay": "15.00",
+                        "oddsFractional": "14/1",
+                        "participant": "Sheffield Utd",
+                        "participantType": "Team",
+                        "sortOrder": 1164571997,
+                        "participants": [
+                          {
+                            "id": "83773",
+                            "name": "Sheffield Utd",
+                            "type": "Team"
+                          }
+                        ]
+                      },
+                      {
+                        "providerOutcomeId": "0ML74101719_2",
+                        "providerId": 2,
+                        "providerOfferId": "1_74101719",
+                        "label": "Draw",
+                        "oddsAmerican": "\u002B700",
+                        "oddsDecimal": 8,
+                        "oddsDecimalDisplay": "8.00",
+                        "oddsFractional": "7/1",
+                        "participant": "",
+                        "participantType": "Unknown",
+                        "sortOrder": 1164573007
+                      },
+                      {
+                        "providerOutcomeId": "0ML74101719_3",
+                        "providerId": 2,
+                        "providerOfferId": "1_74101719",
+                        "label": "Arsenal",
+                        "oddsAmerican": "-600",
+                        "oddsDecimal": 1.16666667,
+                        "oddsDecimalDisplay": "1.16",
+                        "oddsFractional": "1/6",
+                        "participant": "Arsenal",
+                        "participantType": "Team",
+                        "sortOrder": 1164574011,
+                        "participants": [
+                          { "id": "83591", "name": "Arsenal", "type": "Team" }
+                        ]
+                      }
+                    ],
+                    "offerSequence": 0,
+                    "source": "5",
+                    "displayGroupId": "1",
+                    "main": true,
+                    "tags": [
+                      "PrimaryMarket",
+                      "Cashout",
+                      "FeaturedSubcategory",
+                      "Default"
+                    ]
+                  }
+                ],
+                [
+                  {
+                    "providerOfferId": "1_74197400",
+                    "eventId": "30188670",
+                    "eventGroupId": "40253",
+                    "label": "Moneyline",
+                    "isSuspended": false,
+                    "isOpen": true,
+                    "offerSubcategoryId": 4514,
+                    "isSubcategoryFeatured": true,
+                    "betOfferTypeId": 2,
+                    "providerCriterionId": "1_0",
+                    "outcomes": [
+                      {
+                        "providerOutcomeId": "0ML74197400_1",
+                        "providerId": 2,
+                        "providerOfferId": "1_74197400",
+                        "label": "Man Utd",
+                        "oddsAmerican": "-125",
+                        "oddsDecimal": 1.8,
+                        "oddsDecimalDisplay": "1.80",
+                        "oddsFractional": "4/5",
+                        "participant": "Man Utd",
+                        "participantType": "Team",
+                        "sortOrder": 1166831953,
+                        "participants": [
+                          { "id": "83669", "name": "Man Utd", "type": "Team" }
+                        ]
+                      },
+                      {
+                        "providerOutcomeId": "0ML74197400_2",
+                        "providerId": 2,
+                        "providerOfferId": "1_74197400",
+                        "label": "Draw",
+                        "oddsAmerican": "\u002B280",
+                        "oddsDecimal": 3.8,
+                        "oddsDecimalDisplay": "3.80",
+                        "oddsFractional": "14/5",
+                        "participant": "",
+                        "participantType": "Unknown",
+                        "sortOrder": 1166832956
+                      },
+                      {
+                        "providerOutcomeId": "0ML74197400_3",
+                        "providerId": 2,
+                        "providerOfferId": "1_74197400",
+                        "label": "Everton",
+                        "oddsAmerican": "\u002B310",
+                        "oddsDecimal": 4.1,
+                        "oddsDecimalDisplay": "4.10",
+                        "oddsFractional": "31/10",
+                        "participant": "Everton",
+                        "participantType": "Team",
+                        "sortOrder": 1166833957,
+                        "participants": [
+                          { "id": "83654", "name": "Everton", "type": "Team" }
+                        ]
+                      }
+                    ],
+                    "offerSequence": 0,
+                    "source": "5",
+                    "displayGroupId": "1",
+                    "main": true,
+                    "tags": [
+                      "PrimaryMarket",
+                      "Cashout",
+                      "FeaturedSubcategory",
+                      "Default"
+                    ]
+                  }
+                ],
+                [
+                  {
+                    "providerOfferId": "1_74197401",
+                    "eventId": "30188673",
+                    "eventGroupId": "40253",
+                    "label": "Moneyline",
+                    "isSuspended": false,
+                    "isOpen": true,
+                    "offerSubcategoryId": 4514,
+                    "isSubcategoryFeatured": true,
+                    "betOfferTypeId": 2,
+                    "providerCriterionId": "1_0",
+                    "outcomes": [
+                      {
+                        "providerOutcomeId": "0ML74197401_1",
+                        "providerId": 2,
+                        "providerOfferId": "1_74197401",
+                        "label": "Wolves",
+                        "oddsAmerican": "\u002B120",
+                        "oddsDecimal": 2.2,
+                        "oddsDecimalDisplay": "2.20",
+                        "oddsFractional": "6/5",
+                        "participant": "Wolves",
+                        "participantType": "Team",
+                        "sortOrder": 1166831932,
+                        "participants": [
+                          { "id": "83783", "name": "Wolves", "type": "Team" }
+                        ]
+                      },
+                      {
+                        "providerOutcomeId": "0ML74197401_2",
+                        "providerId": 2,
+                        "providerOfferId": "1_74197401",
+                        "label": "Draw",
+                        "oddsAmerican": "\u002B250",
+                        "oddsDecimal": 3.5,
+                        "oddsDecimalDisplay": "3.50",
+                        "oddsFractional": "5/2",
+                        "participant": "",
+                        "participantType": "Unknown",
+                        "sortOrder": 1166832935
+                      },
+                      {
+                        "providerOutcomeId": "0ML74197401_3",
+                        "providerId": 2,
+                        "providerOfferId": "1_74197401",
+                        "label": "Fulham",
+                        "oddsAmerican": "\u002B210",
+                        "oddsDecimal": 3.1,
+                        "oddsDecimalDisplay": "3.10",
+                        "oddsFractional": "21/10",
+                        "participant": "Fulham",
+                        "participantType": "Team",
+                        "sortOrder": 1166833936,
+                        "participants": [
+                          { "id": "83728", "name": "Fulham", "type": "Team" }
+                        ]
+                      }
+                    ],
+                    "offerSequence": 0,
+                    "source": "5",
+                    "displayGroupId": "1",
+                    "main": true,
+                    "tags": [
+                      "PrimaryMarket",
+                      "Cashout",
+                      "FeaturedSubcategory",
+                      "Default"
+                    ]
+                  }
+                ],
+                [
+                  {
+                    "providerOfferId": "1_74197403",
+                    "eventId": "30188672",
+                    "eventGroupId": "40253",
+                    "label": "Moneyline",
+                    "isSuspended": false,
+                    "isOpen": true,
+                    "offerSubcategoryId": 4514,
+                    "isSubcategoryFeatured": true,
+                    "betOfferTypeId": 2,
+                    "providerCriterionId": "1_0",
+                    "outcomes": [
+                      {
+                        "providerOutcomeId": "0ML74197403_1",
+                        "providerId": 2,
+                        "providerOfferId": "1_74197403",
+                        "label": "Crystal Palace",
+                        "oddsAmerican": "-105",
+                        "oddsDecimal": 1.95238096,
+                        "oddsDecimalDisplay": "1.95",
+                        "oddsFractional": "20/21",
+                        "participant": "Crystal Palace",
+                        "participantType": "Team",
+                        "sortOrder": 1166831897,
+                        "participants": [
+                          {
+                            "id": "83641",
+                            "name": "Crystal Palace",
+                            "type": "Team"
+                          }
+                        ]
+                      },
+                      {
+                        "providerOutcomeId": "0ML74197403_2",
+                        "providerId": 2,
+                        "providerOfferId": "1_74197403",
+                        "label": "Draw",
+                        "oddsAmerican": "\u002B250",
+                        "oddsDecimal": 3.5,
+                        "oddsDecimalDisplay": "3.50",
+                        "oddsFractional": "5/2",
+                        "participant": "",
+                        "participantType": "Unknown",
+                        "sortOrder": 1166832900
+                      },
+                      {
+                        "providerOutcomeId": "0ML74197403_3",
+                        "providerId": 2,
+                        "providerOfferId": "1_74197403",
+                        "label": "Luton Town",
+                        "oddsAmerican": "\u002B285",
+                        "oddsDecimal": 3.85,
+                        "oddsDecimalDisplay": "3.85",
+                        "oddsFractional": "57/20",
+                        "participant": "Luton Town",
+                        "participantType": "Team",
+                        "sortOrder": 1166833901,
+                        "participants": [
+                          {
+                            "id": "83308",
+                            "name": "Luton Town",
+                            "type": "Team"
+                          }
+                        ]
+                      }
+                    ],
+                    "offerSequence": 0,
+                    "source": "5",
+                    "displayGroupId": "1",
+                    "main": true,
+                    "tags": [
+                      "PrimaryMarket",
+                      "Cashout",
+                      "FeaturedSubcategory",
+                      "Default"
+                    ]
+                  }
+                ],
+                [
+                  {
+                    "providerOfferId": "1_74197402",
+                    "eventId": "30188671",
+                    "eventGroupId": "40253",
+                    "label": "Moneyline",
+                    "isSuspended": false,
+                    "isOpen": true,
+                    "offerSubcategoryId": 4514,
+                    "isSubcategoryFeatured": true,
+                    "betOfferTypeId": 2,
+                    "providerCriterionId": "1_0",
+                    "outcomes": [
+                      {
+                        "providerOutcomeId": "0ML74197402_1",
+                        "providerId": 2,
+                        "providerOfferId": "1_74197402",
+                        "label": "Bournemouth",
+                        "oddsAmerican": "-270",
+                        "oddsDecimal": 1.37037038,
+                        "oddsDecimalDisplay": "1.37",
+                        "oddsFractional": "10/27",
+                        "participant": "Bournemouth",
+                        "participantType": "Team",
+                        "sortOrder": 1166831946,
+                        "participants": [
+                          {
+                            "id": "83603",
+                            "name": "Bournemouth",
+                            "type": "Team"
+                          }
+                        ]
+                      },
+                      {
+                        "providerOutcomeId": "0ML74197402_2",
+                        "providerId": 2,
+                        "providerOfferId": "1_74197402",
+                        "label": "Draw",
+                        "oddsAmerican": "\u002B425",
+                        "oddsDecimal": 5.25,
+                        "oddsDecimalDisplay": "5.25",
+                        "oddsFractional": "17/4",
+                        "participant": "",
+                        "participantType": "Unknown",
+                        "sortOrder": 1166832949
+                      },
+                      {
+                        "providerOutcomeId": "0ML74197402_3",
+                        "providerId": 2,
+                        "providerOfferId": "1_74197402",
+                        "label": "Sheffield Utd",
+                        "oddsAmerican": "\u002B650",
+                        "oddsDecimal": 7.5,
+                        "oddsDecimalDisplay": "7.50",
+                        "oddsFractional": "13/2",
+                        "participant": "Sheffield Utd",
+                        "participantType": "Team",
+                        "sortOrder": 1166833950,
+                        "participants": [
+                          {
+                            "id": "83773",
+                            "name": "Sheffield Utd",
+                            "type": "Team"
+                          }
+                        ]
+                      }
+                    ],
+                    "offerSequence": 0,
+                    "source": "5",
+                    "displayGroupId": "1",
+                    "main": true,
+                    "tags": [
+                      "PrimaryMarket",
+                      "Cashout",
+                      "FeaturedSubcategory",
+                      "Default"
+                    ]
+                  }
+                ],
+                [
+                  {
+                    "providerOfferId": "1_74197407",
+                    "eventId": "30188674",
+                    "eventGroupId": "40253",
+                    "label": "Moneyline",
+                    "isSuspended": false,
+                    "isOpen": true,
+                    "offerSubcategoryId": 4514,
+                    "isSubcategoryFeatured": true,
+                    "betOfferTypeId": 2,
+                    "providerCriterionId": "1_0",
+                    "outcomes": [
+                      {
+                        "providerOutcomeId": "0ML74197407_1",
+                        "providerId": 2,
+                        "providerOfferId": "1_74197407",
+                        "label": "Arsenal",
+                        "oddsAmerican": "-425",
+                        "oddsDecimal": 1.23529412,
+                        "oddsDecimalDisplay": "1.23",
+                        "oddsFractional": "4/17",
+                        "participant": "Arsenal",
+                        "participantType": "Team",
+                        "sortOrder": 1166831939,
+                        "participants": [
+                          { "id": "83591", "name": "Arsenal", "type": "Team" }
+                        ]
+                      },
+                      {
+                        "providerOutcomeId": "0ML74197407_2",
+                        "providerId": 2,
+                        "providerOfferId": "1_74197407",
+                        "label": "Draw",
+                        "oddsAmerican": "\u002B550",
+                        "oddsDecimal": 6.5,
+                        "oddsDecimalDisplay": "6.50",
+                        "oddsFractional": "11/2",
+                        "participant": "",
+                        "participantType": "Unknown",
+                        "sortOrder": 1166832942
+                      },
+                      {
+                        "providerOutcomeId": "0ML74197407_3",
+                        "providerId": 2,
+                        "providerOfferId": "1_74197407",
+                        "label": "Brentford",
+                        "oddsAmerican": "\u002B900",
+                        "oddsDecimal": 10,
+                        "oddsDecimalDisplay": "10.00",
+                        "oddsFractional": "9/1",
+                        "participant": "Brentford",
+                        "participantType": "Team",
+                        "sortOrder": 1166833943,
+                        "participants": [
+                          { "id": "83612", "name": "Brentford", "type": "Team" }
+                        ]
+                      }
+                    ],
+                    "offerSequence": 0,
+                    "source": "5",
+                    "displayGroupId": "1",
+                    "main": true,
+                    "tags": [
+                      "PrimaryMarket",
+                      "Cashout",
+                      "FeaturedSubcategory",
+                      "Default"
+                    ]
+                  }
+                ],
+                [
+                  {
+                    "providerOfferId": "1_74197406",
+                    "eventId": "30188676",
+                    "eventGroupId": "40253",
+                    "label": "Moneyline",
+                    "isSuspended": false,
+                    "isOpen": true,
+                    "offerSubcategoryId": 4514,
+                    "isSubcategoryFeatured": true,
+                    "betOfferTypeId": 2,
+                    "providerCriterionId": "1_0",
+                    "outcomes": [
+                      {
+                        "providerOutcomeId": "0ML74197406_1",
+                        "providerId": 2,
+                        "providerOfferId": "1_74197406",
+                        "label": "Aston Villa",
+                        "oddsAmerican": "\u002B135",
+                        "oddsDecimal": 2.35,
+                        "oddsDecimalDisplay": "2.35",
+                        "oddsFractional": "27/20",
+                        "participant": "Aston Villa",
+                        "participantType": "Team",
+                        "sortOrder": 1166831904,
+                        "participants": [
+                          {
+                            "id": "83582",
+                            "name": "Aston Villa",
+                            "type": "Team"
+                          }
+                        ]
+                      },
+                      {
+                        "providerOutcomeId": "0ML74197406_2",
+                        "providerId": 2,
+                        "providerOfferId": "1_74197406",
+                        "label": "Draw",
+                        "oddsAmerican": "\u002B295",
+                        "oddsDecimal": 3.95,
+                        "oddsDecimalDisplay": "3.95",
+                        "oddsFractional": "59/20",
+                        "participant": "",
+                        "participantType": "Unknown",
+                        "sortOrder": 1166832907
+                      },
+                      {
+                        "providerOutcomeId": "0ML74197406_3",
+                        "providerId": 2,
+                        "providerOfferId": "1_74197406",
+                        "label": "Tottenham",
+                        "oddsAmerican": "\u002B165",
+                        "oddsDecimal": 2.65,
+                        "oddsDecimalDisplay": "2.65",
+                        "oddsFractional": "33/20",
+                        "participant": "Tottenham",
+                        "participantType": "Team",
+                        "sortOrder": 1166833908,
+                        "participants": [
+                          { "id": "83571", "name": "Tottenham", "type": "Team" }
+                        ]
+                      }
+                    ],
+                    "offerSequence": 0,
+                    "source": "5",
+                    "displayGroupId": "1",
+                    "main": true,
+                    "tags": [
+                      "PrimaryMarket",
+                      "Cashout",
+                      "FeaturedSubcategory",
+                      "Default"
+                    ]
+                  }
+                ],
+                [
+                  {
+                    "providerOfferId": "1_74197404",
+                    "eventId": "30188677",
+                    "eventGroupId": "40253",
+                    "label": "Moneyline",
+                    "isSuspended": false,
+                    "isOpen": true,
+                    "offerSubcategoryId": 4514,
+                    "isSubcategoryFeatured": true,
+                    "betOfferTypeId": 2,
+                    "providerCriterionId": "1_0",
+                    "outcomes": [
+                      {
+                        "providerOutcomeId": "0ML74197404_1",
+                        "providerId": 2,
+                        "providerOfferId": "1_74197404",
+                        "label": "West Ham",
+                        "oddsAmerican": "-140",
+                        "oddsDecimal": 1.71428572,
+                        "oddsDecimalDisplay": "1.71",
+                        "oddsFractional": "5/7",
+                        "participant": "West Ham",
+                        "participantType": "Team",
+                        "sortOrder": 1166831918,
+                        "participants": [
+                          { "id": "83719", "name": "West Ham", "type": "Team" }
+                        ]
+                      },
+                      {
+                        "providerOutcomeId": "0ML74197404_2",
+                        "providerId": 2,
+                        "providerOfferId": "1_74197404",
+                        "label": "Draw",
+                        "oddsAmerican": "\u002B295",
+                        "oddsDecimal": 3.95,
+                        "oddsDecimalDisplay": "3.95",
+                        "oddsFractional": "59/20",
+                        "participant": "",
+                        "participantType": "Unknown",
+                        "sortOrder": 1166832921
+                      },
+                      {
+                        "providerOutcomeId": "0ML74197404_3",
+                        "providerId": 2,
+                        "providerOfferId": "1_74197404",
+                        "label": "Burnley",
+                        "oddsAmerican": "\u002B350",
+                        "oddsDecimal": 4.5,
+                        "oddsDecimalDisplay": "4.50",
+                        "oddsFractional": "7/2",
+                        "participant": "Burnley",
+                        "participantType": "Team",
+                        "sortOrder": 1166833922,
+                        "participants": [
+                          { "id": "83627", "name": "Burnley", "type": "Team" }
+                        ]
+                      }
+                    ],
+                    "offerSequence": 0,
+                    "source": "5",
+                    "displayGroupId": "1",
+                    "main": true,
+                    "tags": [
+                      "PrimaryMarket",
+                      "Cashout",
+                      "FeaturedSubcategory",
+                      "Default"
+                    ]
+                  }
+                ],
+                [
+                  {
+                    "providerOfferId": "1_74197405",
+                    "eventId": "30188675",
+                    "eventGroupId": "40253",
+                    "label": "Moneyline",
+                    "isSuspended": false,
+                    "isOpen": true,
+                    "offerSubcategoryId": 4514,
+                    "isSubcategoryFeatured": true,
+                    "betOfferTypeId": 2,
+                    "providerCriterionId": "1_0",
+                    "outcomes": [
+                      {
+                        "providerOutcomeId": "0ML74197405_1",
+                        "providerId": 2,
+                        "providerOfferId": "1_74197405",
+                        "label": "Brighton",
+                        "oddsAmerican": "-175",
+                        "oddsDecimal": 1.57142858,
+                        "oddsDecimalDisplay": "1.57",
+                        "oddsFractional": "4/7",
+                        "participant": "Brighton",
+                        "participantType": "Team",
+                        "sortOrder": 1166831925,
+                        "participants": [
+                          { "id": "83606", "name": "Brighton", "type": "Team" }
+                        ]
+                      },
+                      {
+                        "providerOutcomeId": "0ML74197405_2",
+                        "providerId": 2,
+                        "providerOfferId": "1_74197405",
+                        "label": "Draw",
+                        "oddsAmerican": "\u002B340",
+                        "oddsDecimal": 4.4,
+                        "oddsDecimalDisplay": "4.40",
+                        "oddsFractional": "17/5",
+                        "participant": "",
+                        "participantType": "Unknown",
+                        "sortOrder": 1166832928
+                      },
+                      {
+                        "providerOutcomeId": "0ML74197405_3",
+                        "providerId": 2,
+                        "providerOfferId": "1_74197405",
+                        "label": "Nottingham Forest",
+                        "oddsAmerican": "\u002B400",
+                        "oddsDecimal": 5,
+                        "oddsDecimalDisplay": "5.00",
+                        "oddsFractional": "4/1",
+                        "participant": "Nottingham Forest",
+                        "participantType": "Team",
+                        "sortOrder": 1166833929,
+                        "participants": [
+                          {
+                            "id": "83635",
+                            "name": "Nottingham Forest",
+                            "type": "Team"
+                          }
+                        ]
+                      }
+                    ],
+                    "offerSequence": 0,
+                    "source": "5",
+                    "displayGroupId": "1",
+                    "main": true,
+                    "tags": [
+                      "PrimaryMarket",
+                      "Cashout",
+                      "FeaturedSubcategory",
+                      "Default"
+                    ]
+                  }
+                ],
+                [
+                  {
+                    "providerOfferId": "1_74197409",
+                    "eventId": "30188678",
+                    "eventGroupId": "40253",
+                    "label": "Moneyline",
+                    "isSuspended": false,
+                    "isOpen": true,
+                    "offerSubcategoryId": 4514,
+                    "isSubcategoryFeatured": true,
+                    "betOfferTypeId": 2,
+                    "providerCriterionId": "1_0",
+                    "outcomes": [
+                      {
+                        "providerOutcomeId": "0ML74197409_1",
+                        "providerId": 2,
+                        "providerOfferId": "1_74197409",
+                        "label": "Liverpool",
+                        "oddsAmerican": "\u002B175",
+                        "oddsDecimal": 2.75,
+                        "oddsDecimalDisplay": "2.75",
+                        "oddsFractional": "7/4",
+                        "participant": "Liverpool",
+                        "participantType": "Team",
+                        "sortOrder": 1166831960,
+                        "participants": [
+                          { "id": "83785", "name": "Liverpool", "type": "Team" }
+                        ]
+                      },
+                      {
+                        "providerOutcomeId": "0ML74197409_2",
+                        "providerId": 2,
+                        "providerOfferId": "1_74197409",
+                        "label": "Draw",
+                        "oddsAmerican": "\u002B265",
+                        "oddsDecimal": 3.65,
+                        "oddsDecimalDisplay": "3.65",
+                        "oddsFractional": "53/20",
+                        "participant": "",
+                        "participantType": "Unknown",
+                        "sortOrder": 1166832963
+                      },
+                      {
+                        "providerOutcomeId": "0ML74197409_3",
+                        "providerId": 2,
+                        "providerOfferId": "1_74197409",
+                        "label": "Man City",
+                        "oddsAmerican": "\u002B135",
+                        "oddsDecimal": 2.35,
+                        "oddsDecimalDisplay": "2.35",
+                        "oddsFractional": "27/20",
+                        "participant": "Man City",
+                        "participantType": "Team",
+                        "sortOrder": 1166833964,
+                        "participants": [
+                          { "id": "83734", "name": "Man City", "type": "Team" }
+                        ]
+                      }
+                    ],
+                    "offerSequence": 0,
+                    "source": "5",
+                    "displayGroupId": "1",
+                    "main": true,
+                    "tags": [
+                      "PrimaryMarket",
+                      "Cashout",
+                      "FeaturedSubcategory",
+                      "Default"
+                    ]
+                  }
+                ],
+                [
+                  {
+                    "providerOfferId": "1_74197408",
+                    "eventId": "30188679",
+                    "eventGroupId": "40253",
+                    "label": "Moneyline",
+                    "isSuspended": false,
+                    "isOpen": true,
+                    "offerSubcategoryId": 4514,
+                    "isSubcategoryFeatured": true,
+                    "betOfferTypeId": 2,
+                    "providerCriterionId": "1_0",
+                    "outcomes": [
+                      {
+                        "providerOutcomeId": "0ML74197408_1",
+                        "providerId": 2,
+                        "providerOfferId": "1_74197408",
+                        "label": "Chelsea",
+                        "oddsAmerican": "-125",
+                        "oddsDecimal": 1.8,
+                        "oddsDecimalDisplay": "1.80",
+                        "oddsFractional": "4/5",
+                        "participant": "Chelsea",
+                        "participantType": "Team",
+                        "sortOrder": 1166831911,
+                        "participants": [
+                          { "id": "83632", "name": "Chelsea", "type": "Team" }
+                        ]
+                      },
+                      {
+                        "providerOutcomeId": "0ML74197408_2",
+                        "providerId": 2,
+                        "providerOfferId": "1_74197408",
+                        "label": "Draw",
+                        "oddsAmerican": "\u002B300",
+                        "oddsDecimal": 4,
+                        "oddsDecimalDisplay": "4.00",
+                        "oddsFractional": "3/1",
+                        "participant": "",
+                        "participantType": "Unknown",
+                        "sortOrder": 1166832914
+                      },
+                      {
+                        "providerOutcomeId": "0ML74197408_3",
+                        "providerId": 2,
+                        "providerOfferId": "1_74197408",
+                        "label": "Newcastle",
+                        "oddsAmerican": "\u002B280",
+                        "oddsDecimal": 3.8,
+                        "oddsDecimalDisplay": "3.80",
+                        "oddsFractional": "14/5",
+                        "participant": "Newcastle",
+                        "participantType": "Team",
+                        "sortOrder": 1166833915,
+                        "participants": [
+                          { "id": "83684", "name": "Newcastle", "type": "Team" }
+                        ]
+                      }
+                    ],
+                    "offerSequence": 0,
+                    "source": "5",
+                    "displayGroupId": "1",
+                    "main": true,
+                    "tags": [
+                      "PrimaryMarket",
+                      "Cashout",
+                      "FeaturedSubcategory",
+                      "Default"
+                    ]
+                  }
+                ],
+                [
+                  {
+                    "providerOfferId": "1_74214506",
+                    "eventId": "30195344",
+                    "eventGroupId": "40253",
+                    "label": "Moneyline",
+                    "isSuspended": false,
+                    "isOpen": true,
+                    "offerSubcategoryId": 4514,
+                    "isSubcategoryFeatured": true,
+                    "betOfferTypeId": 2,
+                    "providerCriterionId": "1_0",
+                    "outcomes": [
+                      {
+                        "providerOutcomeId": "0ML74214506_1",
+                        "providerId": 2,
+                        "providerOfferId": "1_74214506",
+                        "label": "Bournemouth",
+                        "oddsAmerican": "-190",
+                        "oddsDecimal": 1.52631579,
+                        "oddsDecimalDisplay": "1.52",
+                        "oddsFractional": "10/19",
+                        "participant": "Bournemouth",
+                        "participantType": "Team",
+                        "sortOrder": 1167233851,
+                        "participants": [
+                          {
+                            "id": "83603",
+                            "name": "Bournemouth",
+                            "type": "Team"
+                          }
+                        ]
+                      },
+                      {
+                        "providerOutcomeId": "0ML74214506_2",
+                        "providerId": 2,
+                        "providerOfferId": "1_74214506",
+                        "label": "Draw",
+                        "oddsAmerican": "\u002B350",
+                        "oddsDecimal": 4.5,
+                        "oddsDecimalDisplay": "4.50",
+                        "oddsFractional": "7/2",
+                        "participant": "",
+                        "participantType": "Unknown",
+                        "sortOrder": 1167234854
+                      },
+                      {
+                        "providerOutcomeId": "0ML74214506_3",
+                        "providerId": 2,
+                        "providerOfferId": "1_74214506",
+                        "label": "Luton Town",
+                        "oddsAmerican": "\u002B450",
+                        "oddsDecimal": 5.5,
+                        "oddsDecimalDisplay": "5.50",
+                        "oddsFractional": "9/2",
+                        "participant": "Luton Town",
+                        "participantType": "Team",
+                        "sortOrder": 1167235855,
+                        "participants": [
+                          {
+                            "id": "83308",
+                            "name": "Luton Town",
+                            "type": "Team"
+                          }
+                        ]
+                      }
+                    ],
+                    "offerSequence": 0,
+                    "source": "5",
+                    "displayGroupId": "1",
+                    "main": true,
+                    "tags": [
+                      "PrimaryMarket",
+                      "Cashout",
+                      "FeaturedSubcategory",
+                      "Default"
+                    ]
+                  }
+                ]
+              ]
+            }
+          },
+          { "subcategoryId": 6497, "name": "Draw No Bet (Regular Time)" },
+          { "subcategoryId": 13171, "name": "Total Goals (Regular Time)" },
+          { "subcategoryId": 13170, "name": "Spread (Regular Time)" }
+        ]
+      },
+      { "offerCategoryId": 537, "name": "Goalscorer Props" },
+      { "offerCategoryId": 1113, "name": "Shots/Assists Props" },
+      { "offerCategoryId": 1114, "name": "Player Parlays" },
+      { "offerCategoryId": 1115, "name": "Card Props" },
+      { "offerCategoryId": 540, "name": "Game Props" },
+      { "offerCategoryId": 542, "name": "Game Parlays" },
+      { "offerCategoryId": 541, "name": "Team Props" },
+      { "offerCategoryId": 543, "name": "Corners" },
+      { "offerCategoryId": 647, "name": "Cards" },
+      { "offerCategoryId": 653, "name": "Spread/Total" },
+      { "offerCategoryId": 544, "name": "Halves" },
+      { "offerCategoryId": 497, "name": "Team Futures" },
+      { "offerCategoryId": 648, "name": "Player Futures" }
+    ],
+    "events": [
+      {
+        "eventId": "30153718",
+        "displayGroupId": "1",
+        "eventGroupId": "40253",
+        "eventGroupName": "English Premier League",
+        "name": "Nottingham Forest vs Liverpool",
+        "nameIdentifier": "Nottingham Forest vs Liverpool",
+        "startDate": "2024-03-02T15:00:00.0000000Z",
+        "teamName1": "Nottingham Forest",
+        "teamName2": "Liverpool",
+        "teamShortName1": "",
+        "teamShortName2": "",
+        "team1": { "teamId": 83635, "name": "Nottingham Forest" },
+        "team2": { "teamId": 83785, "name": "Liverpool" },
+        "eventStatus": {
+          "state": "NOT_STARTED",
+          "isClockDisabled": false,
+          "minute": 0,
+          "second": 0,
+          "isClockRunning": false
+        },
+        "eventScorecard": { "scorecardComponentId": 1 },
+        "mediaList": [
+          {
+            "mediaProviderName": "BetRadarStats",
+            "mediaId": "41763379",
+            "mediaTypeName": "Stats",
+            "metadata": {},
+            "updatedAt": "2024-02-29T23:17:19.2332082Z"
+          },
+          {
+            "mediaProviderName": "BetRadarV3",
+            "mediaId": "41763379",
+            "mediaTypeName": "MatchTracker",
+            "metadata": { "betRadarCoverage": "4" },
+            "updatedAt": "2024-02-29T23:17:19.2332082Z"
+          },
+          {
+            "mediaProviderName": "BetRadarV3",
+            "mediaId": "41763379",
+            "mediaTypeName": "Scoreboard",
+            "metadata": { "betRadarCoverage": "4" },
+            "updatedAt": "2024-02-29T23:17:19.2332082Z"
+          }
+        ],
+        "liveBettingOffered": false,
+        "liveBettingEnabled": false,
+        "isSameGameParlayEligible": true,
+        "tags": [
+          "FeaturedSubcategory",
+          "MatchTracker",
+          "PrePack",
+          "Scoreboard",
+          "SportcastBetBuilder",
+          "Stats",
+          "YourBetEligible"
+        ],
+        "flashBetOfferCount": 0,
+        "eventMetadata": {
+          "participantMetadata": {},
+          "mediaMetadata": {
+            "BetRadarStats_Stats": {},
+            "BetRadarV3_MatchTracker": {},
+            "BetRadarV3_Scoreboard": {}
+          }
+        }
+      },
+      {
+        "eventId": "30153721",
+        "displayGroupId": "1",
+        "eventGroupId": "40253",
+        "eventGroupName": "English Premier League",
+        "name": "Tottenham vs Crystal Palace",
+        "nameIdentifier": "Tottenham vs Crystal Palace",
+        "startDate": "2024-03-02T15:00:00.0000000Z",
+        "teamName1": "Tottenham",
+        "teamName2": "Crystal Palace",
+        "teamShortName1": "",
+        "teamShortName2": "",
+        "team1": { "teamId": 83571, "name": "Tottenham" },
+        "team2": { "teamId": 83641, "name": "Crystal Palace" },
+        "eventStatus": {
+          "state": "NOT_STARTED",
+          "isClockDisabled": false,
+          "minute": 0,
+          "second": 0,
+          "isClockRunning": false
+        },
+        "eventScorecard": { "scorecardComponentId": 1 },
+        "mediaList": [
+          {
+            "mediaProviderName": "BetRadarStats",
+            "mediaId": "41763383",
+            "mediaTypeName": "Stats",
+            "metadata": {},
+            "updatedAt": "2024-03-01T01:02:07.7736217Z"
+          },
+          {
+            "mediaProviderName": "BetRadarV3",
+            "mediaId": "41763383",
+            "mediaTypeName": "MatchTracker",
+            "metadata": { "betRadarCoverage": "4" },
+            "updatedAt": "2024-03-01T01:02:07.7736217Z"
+          },
+          {
+            "mediaProviderName": "BetRadarV3",
+            "mediaId": "41763383",
+            "mediaTypeName": "Scoreboard",
+            "metadata": { "betRadarCoverage": "4" },
+            "updatedAt": "2024-03-01T01:02:07.7736217Z"
+          }
+        ],
+        "liveBettingOffered": false,
+        "liveBettingEnabled": false,
+        "isSameGameParlayEligible": true,
+        "tags": [
+          "FeaturedSubcategory",
+          "MatchTracker",
+          "PrePack",
+          "Scoreboard",
+          "SportcastBetBuilder",
+          "Stats",
+          "YourBetEligible"
+        ],
+        "flashBetOfferCount": 0,
+        "eventMetadata": {
+          "participantMetadata": {},
+          "mediaMetadata": {
+            "BetRadarStats_Stats": {},
+            "BetRadarV3_MatchTracker": {},
+            "BetRadarV3_Scoreboard": {}
+          }
+        }
+      },
+      {
+        "eventId": "30153717",
+        "displayGroupId": "1",
+        "eventGroupId": "40253",
+        "eventGroupName": "English Premier League",
+        "name": "Brentford vs Chelsea",
+        "nameIdentifier": "Brentford vs Chelsea",
+        "startDate": "2024-03-02T15:00:00.0000000Z",
+        "teamName1": "Brentford",
+        "teamName2": "Chelsea",
+        "teamShortName1": "",
+        "teamShortName2": "",
+        "team1": { "teamId": 83612, "name": "Brentford" },
+        "team2": { "teamId": 83632, "name": "Chelsea" },
+        "eventStatus": {
+          "state": "NOT_STARTED",
+          "isClockDisabled": false,
+          "minute": 0,
+          "second": 0,
+          "isClockRunning": false
+        },
+        "eventScorecard": { "scorecardComponentId": 1 },
+        "mediaList": [
+          {
+            "mediaProviderName": "BetRadarStats",
+            "mediaId": "41763363",
+            "mediaTypeName": "Stats",
+            "metadata": {},
+            "updatedAt": "2024-03-01T00:04:24.1723908Z"
+          },
+          {
+            "mediaProviderName": "BetRadarV3",
+            "mediaId": "41763363",
+            "mediaTypeName": "MatchTracker",
+            "metadata": { "betRadarCoverage": "4" },
+            "updatedAt": "2024-03-01T00:04:24.1723908Z"
+          },
+          {
+            "mediaProviderName": "BetRadarV3",
+            "mediaId": "41763363",
+            "mediaTypeName": "Scoreboard",
+            "metadata": { "betRadarCoverage": "4" },
+            "updatedAt": "2024-03-01T00:04:24.1723908Z"
+          }
+        ],
+        "liveBettingOffered": false,
+        "liveBettingEnabled": false,
+        "isSameGameParlayEligible": true,
+        "tags": [
+          "FeaturedSubcategory",
+          "MatchTracker",
+          "PrePack",
+          "Scoreboard",
+          "SportcastBetBuilder",
+          "Stats",
+          "YourBetEligible"
+        ],
+        "flashBetOfferCount": 0,
+        "eventMetadata": {
+          "participantMetadata": {},
+          "mediaMetadata": {
+            "BetRadarStats_Stats": {},
+            "BetRadarV3_MatchTracker": {},
+            "BetRadarV3_Scoreboard": {}
+          }
+        }
+      },
+      {
+        "eventId": "30153719",
+        "displayGroupId": "1",
+        "eventGroupId": "40253",
+        "eventGroupName": "English Premier League",
+        "name": "Newcastle vs Wolves",
+        "nameIdentifier": "Newcastle vs Wolves",
+        "startDate": "2024-03-02T15:00:00.0000000Z",
+        "teamName1": "Newcastle",
+        "teamName2": "Wolves",
+        "teamShortName1": "",
+        "teamShortName2": "",
+        "team1": { "teamId": 83684, "name": "Newcastle" },
+        "team2": { "teamId": 83783, "name": "Wolves" },
+        "eventStatus": {
+          "state": "NOT_STARTED",
+          "isClockDisabled": false,
+          "minute": 0,
+          "second": 0,
+          "isClockRunning": false
+        },
+        "eventScorecard": { "scorecardComponentId": 1 },
+        "mediaList": [
+          {
+            "mediaProviderName": "BetRadarStats",
+            "mediaId": "41763377",
+            "mediaTypeName": "Stats",
+            "metadata": {},
+            "updatedAt": "2024-03-01T02:44:26.6094591Z"
+          },
+          {
+            "mediaProviderName": "BetRadarV3",
+            "mediaId": "41763377",
+            "mediaTypeName": "MatchTracker",
+            "metadata": { "betRadarCoverage": "4" },
+            "updatedAt": "2024-03-01T02:44:26.6094591Z"
+          },
+          {
+            "mediaProviderName": "BetRadarV3",
+            "mediaId": "41763377",
+            "mediaTypeName": "Scoreboard",
+            "metadata": { "betRadarCoverage": "4" },
+            "updatedAt": "2024-03-01T02:44:26.6094591Z"
+          }
+        ],
+        "liveBettingOffered": false,
+        "liveBettingEnabled": false,
+        "isSameGameParlayEligible": true,
+        "tags": [
+          "FeaturedSubcategory",
+          "MatchTracker",
+          "PrePack",
+          "Scoreboard",
+          "SportcastBetBuilder",
+          "Stats",
+          "YourBetEligible"
+        ],
+        "flashBetOfferCount": 0,
+        "eventMetadata": {
+          "participantMetadata": {},
+          "mediaMetadata": {
+            "BetRadarStats_Stats": {},
+            "BetRadarV3_MatchTracker": {},
+            "BetRadarV3_Scoreboard": {}
+          }
+        }
+      },
+      {
+        "eventId": "30153716",
+        "displayGroupId": "1",
+        "eventGroupId": "40253",
+        "eventGroupName": "English Premier League",
+        "name": "Fulham vs Brighton",
+        "nameIdentifier": "Fulham vs Brighton",
+        "startDate": "2024-03-02T15:00:00.0000000Z",
+        "teamName1": "Fulham",
+        "teamName2": "Brighton",
+        "teamShortName1": "",
+        "teamShortName2": "",
+        "team1": { "teamId": 83728, "name": "Fulham" },
+        "team2": { "teamId": 83606, "name": "Brighton" },
+        "eventStatus": {
+          "state": "NOT_STARTED",
+          "isClockDisabled": false,
+          "minute": 0,
+          "second": 0,
+          "isClockRunning": false
+        },
+        "eventScorecard": { "scorecardComponentId": 1 },
+        "mediaList": [
+          {
+            "mediaProviderName": "BetRadarStats",
+            "mediaId": "41763371",
+            "mediaTypeName": "Stats",
+            "metadata": {},
+            "updatedAt": "2024-03-01T01:54:30.6517917Z"
+          },
+          {
+            "mediaProviderName": "BetRadarV3",
+            "mediaId": "41763371",
+            "mediaTypeName": "MatchTracker",
+            "metadata": { "betRadarCoverage": "4" },
+            "updatedAt": "2024-03-01T01:54:30.6517917Z"
+          },
+          {
+            "mediaProviderName": "BetRadarV3",
+            "mediaId": "41763371",
+            "mediaTypeName": "Scoreboard",
+            "metadata": { "betRadarCoverage": "4" },
+            "updatedAt": "2024-03-01T01:54:30.6517917Z"
+          }
+        ],
+        "liveBettingOffered": false,
+        "liveBettingEnabled": false,
+        "isSameGameParlayEligible": true,
+        "tags": [
+          "FeaturedSubcategory",
+          "MatchTracker",
+          "PrePack",
+          "Scoreboard",
+          "SportcastBetBuilder",
+          "Stats",
+          "YourBetEligible"
+        ],
+        "flashBetOfferCount": 0,
+        "eventMetadata": {
+          "participantMetadata": {},
+          "mediaMetadata": {
+            "BetRadarStats_Stats": {},
+            "BetRadarV3_MatchTracker": {},
+            "BetRadarV3_Scoreboard": {}
+          }
+        }
+      },
+      {
+        "eventId": "30153720",
+        "displayGroupId": "1",
+        "eventGroupId": "40253",
+        "eventGroupName": "English Premier League",
+        "name": "Everton vs West Ham",
+        "nameIdentifier": "Everton vs West Ham",
+        "startDate": "2024-03-02T15:00:00.0000000Z",
+        "teamName1": "Everton",
+        "teamName2": "West Ham",
+        "teamShortName1": "",
+        "teamShortName2": "",
+        "team1": { "teamId": 83654, "name": "Everton" },
+        "team2": { "teamId": 83719, "name": "West Ham" },
+        "eventStatus": {
+          "state": "NOT_STARTED",
+          "isClockDisabled": false,
+          "minute": 0,
+          "second": 0,
+          "isClockRunning": false
+        },
+        "eventScorecard": { "scorecardComponentId": 1 },
+        "mediaList": [
+          {
+            "mediaProviderName": "BetRadarStats",
+            "mediaId": "41763369",
+            "mediaTypeName": "Stats",
+            "metadata": {},
+            "updatedAt": "2024-03-01T03:14:29.6939178Z"
+          },
+          {
+            "mediaProviderName": "BetRadarV3",
+            "mediaId": "41763369",
+            "mediaTypeName": "MatchTracker",
+            "metadata": { "betRadarCoverage": "4" },
+            "updatedAt": "2024-03-01T03:14:29.6939178Z"
+          },
+          {
+            "mediaProviderName": "BetRadarV3",
+            "mediaId": "41763369",
+            "mediaTypeName": "Scoreboard",
+            "metadata": { "betRadarCoverage": "4" },
+            "updatedAt": "2024-03-01T03:14:29.6939178Z"
+          }
+        ],
+        "liveBettingOffered": false,
+        "liveBettingEnabled": false,
+        "isSameGameParlayEligible": true,
+        "tags": [
+          "FeaturedSubcategory",
+          "MatchTracker",
+          "PrePack",
+          "Scoreboard",
+          "SportcastBetBuilder",
+          "Stats",
+          "YourBetEligible"
+        ],
+        "flashBetOfferCount": 0,
+        "eventMetadata": {
+          "participantMetadata": {},
+          "mediaMetadata": {
+            "BetRadarStats_Stats": {},
+            "BetRadarV3_MatchTracker": {},
+            "BetRadarV3_Scoreboard": {}
+          }
+        }
+      },
+      {
+        "eventId": "30153725",
+        "displayGroupId": "1",
+        "eventGroupId": "40253",
+        "eventGroupName": "English Premier League",
+        "name": "Luton Town vs Aston Villa",
+        "nameIdentifier": "Luton Town vs Aston Villa",
+        "startDate": "2024-03-02T17:30:00.0000000Z",
+        "teamName1": "Luton Town",
+        "teamName2": "Aston Villa",
+        "teamShortName1": "",
+        "teamShortName2": "",
+        "team1": { "teamId": 83308, "name": "Luton Town" },
+        "team2": { "teamId": 83582, "name": "Aston Villa" },
+        "eventStatus": {
+          "state": "NOT_STARTED",
+          "isClockDisabled": false,
+          "minute": 0,
+          "second": 0,
+          "isClockRunning": false
+        },
+        "eventScorecard": { "scorecardComponentId": 1 },
+        "mediaList": [
+          {
+            "mediaProviderName": "BetRadarStats",
+            "mediaId": "41763373",
+            "mediaTypeName": "Stats",
+            "metadata": {},
+            "updatedAt": "2024-03-01T01:36:22.0948610Z"
+          },
+          {
+            "mediaProviderName": "BetRadarV3",
+            "mediaId": "41763373",
+            "mediaTypeName": "MatchTracker",
+            "metadata": { "betRadarCoverage": "4" },
+            "updatedAt": "2024-03-01T01:36:22.0948610Z"
+          },
+          {
+            "mediaProviderName": "BetRadarV3",
+            "mediaId": "41763373",
+            "mediaTypeName": "Scoreboard",
+            "metadata": { "betRadarCoverage": "4" },
+            "updatedAt": "2024-03-01T01:36:22.0948610Z"
+          }
+        ],
+        "liveBettingOffered": false,
+        "liveBettingEnabled": false,
+        "isSameGameParlayEligible": true,
+        "tags": [
+          "FeaturedSubcategory",
+          "MatchTracker",
+          "PrePack",
+          "Scoreboard",
+          "SportcastBetBuilder",
+          "Stats",
+          "YourBetEligible"
+        ],
+        "flashBetOfferCount": 0,
+        "eventMetadata": {
+          "participantMetadata": {},
+          "mediaMetadata": {
+            "BetRadarStats_Stats": {},
+            "BetRadarV3_MatchTracker": {},
+            "BetRadarV3_Scoreboard": {}
+          }
+        }
+      },
+      {
+        "eventId": "30153723",
+        "displayGroupId": "1",
+        "eventGroupId": "40253",
+        "eventGroupName": "English Premier League",
+        "name": "Burnley vs Bournemouth",
+        "nameIdentifier": "Burnley vs Bournemouth",
+        "startDate": "2024-03-03T13:00:00.0000000Z",
+        "teamName1": "Burnley",
+        "teamName2": "Bournemouth",
+        "teamShortName1": "",
+        "teamShortName2": "",
+        "team1": { "teamId": 83627, "name": "Burnley" },
+        "team2": { "teamId": 83603, "name": "Bournemouth" },
+        "eventStatus": {
+          "state": "NOT_STARTED",
+          "isClockDisabled": false,
+          "minute": 0,
+          "second": 0,
+          "isClockRunning": false
+        },
+        "eventScorecard": { "scorecardComponentId": 1 },
+        "mediaList": [
+          {
+            "mediaProviderName": "BetRadarStats",
+            "mediaId": "41763367",
+            "mediaTypeName": "Stats",
+            "metadata": {},
+            "updatedAt": "2024-02-29T23:15:23.1821649Z"
+          },
+          {
+            "mediaProviderName": "BetRadarV3",
+            "mediaId": "41763367",
+            "mediaTypeName": "MatchTracker",
+            "metadata": { "betRadarCoverage": "4" },
+            "updatedAt": "2024-02-29T23:15:23.1821649Z"
+          },
+          {
+            "mediaProviderName": "BetRadarV3",
+            "mediaId": "41763367",
+            "mediaTypeName": "Scoreboard",
+            "metadata": { "betRadarCoverage": "4" },
+            "updatedAt": "2024-02-29T23:15:23.1821649Z"
+          }
+        ],
+        "liveBettingOffered": false,
+        "liveBettingEnabled": false,
+        "isSameGameParlayEligible": true,
+        "tags": [
+          "FeaturedSubcategory",
+          "MatchTracker",
+          "PrePack",
+          "Scoreboard",
+          "SportcastBetBuilder",
+          "Stats",
+          "YourBetEligible"
+        ],
+        "flashBetOfferCount": 0,
+        "eventMetadata": {
+          "participantMetadata": {},
+          "mediaMetadata": {
+            "BetRadarStats_Stats": {},
+            "BetRadarV3_MatchTracker": {},
+            "BetRadarV3_Scoreboard": {}
+          }
+        }
+      },
+      {
+        "eventId": "30153724",
+        "displayGroupId": "1",
+        "eventGroupId": "40253",
+        "eventGroupName": "English Premier League",
+        "name": "Man City vs Man Utd",
+        "nameIdentifier": "Man City vs Man Utd",
+        "startDate": "2024-03-03T15:30:00.0000000Z",
+        "teamName1": "Man City",
+        "teamName2": "Man Utd",
+        "teamShortName1": "",
+        "teamShortName2": "",
+        "team1": { "teamId": 83734, "name": "Man City" },
+        "team2": { "teamId": 83669, "name": "Man Utd" },
+        "eventStatus": {
+          "state": "NOT_STARTED",
+          "isClockDisabled": false,
+          "minute": 0,
+          "second": 0,
+          "isClockRunning": false
+        },
+        "eventScorecard": { "scorecardComponentId": 1 },
+        "mediaList": [
+          {
+            "mediaProviderName": "BetRadarStats",
+            "mediaId": "41763375",
+            "mediaTypeName": "Stats",
+            "metadata": {},
+            "updatedAt": "2024-02-29T23:12:23.1790238Z"
+          },
+          {
+            "mediaProviderName": "BetRadarV3",
+            "mediaId": "41763375",
+            "mediaTypeName": "MatchTracker",
+            "metadata": { "betRadarCoverage": "4" },
+            "updatedAt": "2024-02-29T23:12:23.1790238Z"
+          },
+          {
+            "mediaProviderName": "BetRadarV3",
+            "mediaId": "41763375",
+            "mediaTypeName": "Scoreboard",
+            "metadata": { "betRadarCoverage": "4" },
+            "updatedAt": "2024-02-29T23:12:23.1790238Z"
+          }
+        ],
+        "liveBettingOffered": false,
+        "liveBettingEnabled": false,
+        "isSameGameParlayEligible": true,
+        "tags": [
+          "FeaturedSubcategory",
+          "MatchTracker",
+          "PrePack",
+          "Scoreboard",
+          "SportcastBetBuilder",
+          "Stats",
+          "YourBetEligible"
+        ],
+        "flashBetOfferCount": 0,
+        "eventMetadata": {
+          "participantMetadata": {},
+          "mediaMetadata": {
+            "BetRadarStats_Stats": {},
+            "BetRadarV3_MatchTracker": {},
+            "BetRadarV3_Scoreboard": {}
+          }
+        }
+      },
+      {
+        "eventId": "30153722",
+        "displayGroupId": "1",
+        "eventGroupId": "40253",
+        "eventGroupName": "English Premier League",
+        "name": "Sheffield Utd vs Arsenal",
+        "nameIdentifier": "Sheffield Utd vs Arsenal",
+        "startDate": "2024-03-04T20:00:00.0000000Z",
+        "teamName1": "Sheffield Utd",
+        "teamName2": "Arsenal",
+        "teamShortName1": "",
+        "teamShortName2": "",
+        "team1": { "teamId": 83773, "name": "Sheffield Utd" },
+        "team2": { "teamId": 83591, "name": "Arsenal" },
+        "eventStatus": {
+          "state": "NOT_STARTED",
+          "isClockDisabled": false,
+          "minute": 0,
+          "second": 0,
+          "isClockRunning": false
+        },
+        "eventScorecard": { "scorecardComponentId": 1 },
+        "mediaList": [
+          {
+            "mediaProviderName": "BetRadarStats",
+            "mediaId": "41763381",
+            "mediaTypeName": "Stats",
+            "metadata": {},
+            "updatedAt": "2024-02-29T23:14:29.1812419Z"
+          },
+          {
+            "mediaProviderName": "BetRadarV3",
+            "mediaId": "41763381",
+            "mediaTypeName": "MatchTracker",
+            "metadata": { "betRadarCoverage": "4" },
+            "updatedAt": "2024-02-29T23:14:29.1812419Z"
+          },
+          {
+            "mediaProviderName": "BetRadarV3",
+            "mediaId": "41763381",
+            "mediaTypeName": "Scoreboard",
+            "metadata": { "betRadarCoverage": "4" },
+            "updatedAt": "2024-02-29T23:14:29.1812419Z"
+          }
+        ],
+        "liveBettingOffered": false,
+        "liveBettingEnabled": false,
+        "isSameGameParlayEligible": true,
+        "tags": [
+          "FeaturedSubcategory",
+          "MatchTracker",
+          "PrePack",
+          "Scoreboard",
+          "SportcastBetBuilder",
+          "Stats",
+          "YourBetEligible"
+        ],
+        "flashBetOfferCount": 0,
+        "eventMetadata": {
+          "participantMetadata": {},
+          "mediaMetadata": {
+            "BetRadarStats_Stats": {},
+            "BetRadarV3_MatchTracker": {},
+            "BetRadarV3_Scoreboard": {}
+          }
+        }
+      },
+      {
+        "eventId": "30188670",
+        "displayGroupId": "1",
+        "eventGroupId": "40253",
+        "eventGroupName": "English Premier League",
+        "name": "Man Utd vs Everton",
+        "nameIdentifier": "Man Utd vs Everton",
+        "startDate": "2024-03-09T12:30:00.0000000Z",
+        "teamName1": "Man Utd",
+        "teamName2": "Everton",
+        "teamShortName1": "",
+        "teamShortName2": "",
+        "team1": { "teamId": 83669, "name": "Man Utd" },
+        "team2": { "teamId": 83654, "name": "Everton" },
+        "eventStatus": {
+          "state": "NOT_STARTED",
+          "isClockDisabled": false,
+          "minute": 0,
+          "second": 0,
+          "isClockRunning": false
+        },
+        "eventScorecard": { "scorecardComponentId": 1 },
+        "mediaList": [
+          {
+            "mediaProviderName": "BetRadarStats",
+            "mediaId": "41763399",
+            "mediaTypeName": "Stats",
+            "metadata": {},
+            "updatedAt": "2024-02-29T23:14:47.1815420Z"
+          },
+          {
+            "mediaProviderName": "BetRadarV3",
+            "mediaId": "41763399",
+            "mediaTypeName": "MatchTracker",
+            "metadata": { "betRadarCoverage": "4" },
+            "updatedAt": "2024-02-29T23:14:47.1815420Z"
+          },
+          {
+            "mediaProviderName": "BetRadarV3",
+            "mediaId": "41763399",
+            "mediaTypeName": "Scoreboard",
+            "metadata": { "betRadarCoverage": "4" },
+            "updatedAt": "2024-02-29T23:14:47.1815420Z"
+          }
+        ],
+        "liveBettingOffered": false,
+        "liveBettingEnabled": false,
+        "tags": ["FeaturedSubcategory", "MatchTracker", "Scoreboard", "Stats"],
+        "flashBetOfferCount": 0,
+        "eventMetadata": {
+          "participantMetadata": {},
+          "mediaMetadata": {
+            "BetRadarStats_Stats": {},
+            "BetRadarV3_MatchTracker": {},
+            "BetRadarV3_Scoreboard": {}
+          }
+        }
+      },
+      {
+        "eventId": "30188673",
+        "displayGroupId": "1",
+        "eventGroupId": "40253",
+        "eventGroupName": "English Premier League",
+        "name": "Wolves vs Fulham",
+        "nameIdentifier": "Wolves vs Fulham",
+        "startDate": "2024-03-09T15:00:00.0000000Z",
+        "teamName1": "Wolves",
+        "teamName2": "Fulham",
+        "teamShortName1": "",
+        "teamShortName2": "",
+        "team1": { "teamId": 83783, "name": "Wolves" },
+        "team2": { "teamId": 83728, "name": "Fulham" },
+        "eventStatus": {
+          "state": "NOT_STARTED",
+          "isClockDisabled": false,
+          "minute": 0,
+          "second": 0,
+          "isClockRunning": false
+        },
+        "eventScorecard": { "scorecardComponentId": 1 },
+        "mediaList": [
+          {
+            "mediaProviderName": "BetRadarStats",
+            "mediaId": "41763403",
+            "mediaTypeName": "Stats",
+            "metadata": {},
+            "updatedAt": "2024-02-29T23:20:33.3537764Z"
+          },
+          {
+            "mediaProviderName": "BetRadarV3",
+            "mediaId": "41763403",
+            "mediaTypeName": "MatchTracker",
+            "metadata": { "betRadarCoverage": "4" },
+            "updatedAt": "2024-02-29T23:20:33.3537764Z"
+          },
+          {
+            "mediaProviderName": "BetRadarV3",
+            "mediaId": "41763403",
+            "mediaTypeName": "Scoreboard",
+            "metadata": { "betRadarCoverage": "4" },
+            "updatedAt": "2024-02-29T23:20:33.3537764Z"
+          }
+        ],
+        "liveBettingOffered": false,
+        "liveBettingEnabled": false,
+        "tags": ["FeaturedSubcategory", "MatchTracker", "Scoreboard", "Stats"],
+        "flashBetOfferCount": 0,
+        "eventMetadata": {
+          "participantMetadata": {},
+          "mediaMetadata": {
+            "BetRadarStats_Stats": {},
+            "BetRadarV3_MatchTracker": {},
+            "BetRadarV3_Scoreboard": {}
+          }
+        }
+      },
+      {
+        "eventId": "30188672",
+        "displayGroupId": "1",
+        "eventGroupId": "40253",
+        "eventGroupName": "English Premier League",
+        "name": "Crystal Palace vs Luton Town",
+        "nameIdentifier": "Crystal Palace vs Luton Town",
+        "startDate": "2024-03-09T15:00:00.0000000Z",
+        "teamName1": "Crystal Palace",
+        "teamName2": "Luton Town",
+        "teamShortName1": "",
+        "teamShortName2": "",
+        "team1": { "teamId": 83641, "name": "Crystal Palace" },
+        "team2": { "teamId": 83308, "name": "Luton Town" },
+        "eventStatus": {
+          "state": "NOT_STARTED",
+          "isClockDisabled": false,
+          "minute": 0,
+          "second": 0,
+          "isClockRunning": false
+        },
+        "eventScorecard": { "scorecardComponentId": 1 },
+        "mediaList": [
+          {
+            "mediaProviderName": "BetRadarStats",
+            "mediaId": "41763395",
+            "mediaTypeName": "Stats",
+            "metadata": {},
+            "updatedAt": "2024-02-29T23:15:59.1828153Z"
+          },
+          {
+            "mediaProviderName": "BetRadarV3",
+            "mediaId": "41763395",
+            "mediaTypeName": "MatchTracker",
+            "metadata": { "betRadarCoverage": "4" },
+            "updatedAt": "2024-02-29T23:15:59.1828153Z"
+          },
+          {
+            "mediaProviderName": "BetRadarV3",
+            "mediaId": "41763395",
+            "mediaTypeName": "Scoreboard",
+            "metadata": { "betRadarCoverage": "4" },
+            "updatedAt": "2024-02-29T23:15:59.1828153Z"
+          }
+        ],
+        "liveBettingOffered": false,
+        "liveBettingEnabled": false,
+        "tags": ["FeaturedSubcategory", "MatchTracker", "Scoreboard", "Stats"],
+        "flashBetOfferCount": 0,
+        "eventMetadata": {
+          "participantMetadata": {},
+          "mediaMetadata": {
+            "BetRadarStats_Stats": {},
+            "BetRadarV3_MatchTracker": {},
+            "BetRadarV3_Scoreboard": {}
+          }
+        }
+      },
+      {
+        "eventId": "30188671",
+        "displayGroupId": "1",
+        "eventGroupId": "40253",
+        "eventGroupName": "English Premier League",
+        "name": "Bournemouth vs Sheffield Utd",
+        "nameIdentifier": "Bournemouth vs Sheffield Utd",
+        "startDate": "2024-03-09T15:00:00.0000000Z",
+        "teamName1": "Bournemouth",
+        "teamName2": "Sheffield Utd",
+        "teamShortName1": "",
+        "teamShortName2": "",
+        "team1": { "teamId": 83603, "name": "Bournemouth" },
+        "team2": { "teamId": 83773, "name": "Sheffield Utd" },
+        "eventStatus": {
+          "state": "NOT_STARTED",
+          "isClockDisabled": false,
+          "minute": 0,
+          "second": 0,
+          "isClockRunning": false
+        },
+        "eventScorecard": { "scorecardComponentId": 1 },
+        "mediaList": [
+          {
+            "mediaProviderName": "BetRadarStats",
+            "mediaId": "41763385",
+            "mediaTypeName": "Stats",
+            "metadata": {},
+            "updatedAt": "2024-03-01T00:09:25.2987353Z"
+          },
+          {
+            "mediaProviderName": "BetRadarV3",
+            "mediaId": "41763385",
+            "mediaTypeName": "MatchTracker",
+            "metadata": { "betRadarCoverage": "4" },
+            "updatedAt": "2024-03-01T00:09:25.2987353Z"
+          },
+          {
+            "mediaProviderName": "BetRadarV3",
+            "mediaId": "41763385",
+            "mediaTypeName": "Scoreboard",
+            "metadata": { "betRadarCoverage": "4" },
+            "updatedAt": "2024-03-01T00:09:25.2987353Z"
+          }
+        ],
+        "liveBettingOffered": false,
+        "liveBettingEnabled": false,
+        "tags": ["FeaturedSubcategory", "MatchTracker", "Scoreboard", "Stats"],
+        "flashBetOfferCount": 0,
+        "eventMetadata": {
+          "participantMetadata": {},
+          "mediaMetadata": {
+            "BetRadarStats_Stats": {},
+            "BetRadarV3_MatchTracker": {},
+            "BetRadarV3_Scoreboard": {}
+          }
+        }
+      },
+      {
+        "eventId": "30188674",
+        "displayGroupId": "1",
+        "eventGroupId": "40253",
+        "eventGroupName": "English Premier League",
+        "name": "Arsenal vs Brentford",
+        "nameIdentifier": "Arsenal vs Brentford",
+        "startDate": "2024-03-09T17:30:00.0000000Z",
+        "teamName1": "Arsenal",
+        "teamName2": "Brentford",
+        "teamShortName1": "",
+        "teamShortName2": "",
+        "team1": { "teamId": 83591, "name": "Arsenal" },
+        "team2": { "teamId": 83612, "name": "Brentford" },
+        "eventStatus": {
+          "state": "NOT_STARTED",
+          "isClockDisabled": false,
+          "minute": 0,
+          "second": 0,
+          "isClockRunning": false
+        },
+        "eventScorecard": { "scorecardComponentId": 1 },
+        "mediaList": [
+          {
+            "mediaProviderName": "BetRadarStats",
+            "mediaId": "41763387",
+            "mediaTypeName": "Stats",
+            "metadata": {},
+            "updatedAt": "2024-02-29T23:20:11.1871903Z"
+          },
+          {
+            "mediaProviderName": "BetRadarV3",
+            "mediaId": "41763387",
+            "mediaTypeName": "MatchTracker",
+            "metadata": { "betRadarCoverage": "4" },
+            "updatedAt": "2024-02-29T23:20:11.1871903Z"
+          },
+          {
+            "mediaProviderName": "BetRadarV3",
+            "mediaId": "41763387",
+            "mediaTypeName": "Scoreboard",
+            "metadata": { "betRadarCoverage": "4" },
+            "updatedAt": "2024-02-29T23:20:11.1871903Z"
+          }
+        ],
+        "liveBettingOffered": false,
+        "liveBettingEnabled": false,
+        "tags": ["FeaturedSubcategory", "MatchTracker", "Scoreboard", "Stats"],
+        "flashBetOfferCount": 0,
+        "eventMetadata": {
+          "participantMetadata": {},
+          "mediaMetadata": {
+            "BetRadarStats_Stats": {},
+            "BetRadarV3_MatchTracker": {},
+            "BetRadarV3_Scoreboard": {}
+          }
+        }
+      },
+      {
+        "eventId": "30188676",
+        "displayGroupId": "1",
+        "eventGroupId": "40253",
+        "eventGroupName": "English Premier League",
+        "name": "Aston Villa vs Tottenham",
+        "nameIdentifier": "Aston Villa vs Tottenham",
+        "startDate": "2024-03-10T13:00:00.0000000Z",
+        "teamName1": "Aston Villa",
+        "teamName2": "Tottenham",
+        "teamShortName1": "",
+        "teamShortName2": "",
+        "team1": { "teamId": 83582, "name": "Aston Villa" },
+        "team2": { "teamId": 83571, "name": "Tottenham" },
+        "eventStatus": {
+          "state": "NOT_STARTED",
+          "isClockDisabled": false,
+          "minute": 0,
+          "second": 0,
+          "isClockRunning": false
+        },
+        "eventScorecard": { "scorecardComponentId": 1 },
+        "mediaList": [
+          {
+            "mediaProviderName": "BetRadarStats",
+            "mediaId": "41763389",
+            "mediaTypeName": "Stats",
+            "metadata": {},
+            "updatedAt": "2024-02-29T23:19:40.4117772Z"
+          },
+          {
+            "mediaProviderName": "BetRadarV3",
+            "mediaId": "41763389",
+            "mediaTypeName": "MatchTracker",
+            "metadata": { "betRadarCoverage": "4" },
+            "updatedAt": "2024-02-29T23:19:40.4117772Z"
+          },
+          {
+            "mediaProviderName": "BetRadarV3",
+            "mediaId": "41763389",
+            "mediaTypeName": "Scoreboard",
+            "metadata": { "betRadarCoverage": "4" },
+            "updatedAt": "2024-02-29T23:19:40.4117772Z"
+          }
+        ],
+        "liveBettingOffered": false,
+        "liveBettingEnabled": false,
+        "tags": ["FeaturedSubcategory", "MatchTracker", "Scoreboard", "Stats"],
+        "flashBetOfferCount": 0,
+        "eventMetadata": {
+          "participantMetadata": {},
+          "mediaMetadata": {
+            "BetRadarStats_Stats": {},
+            "BetRadarV3_MatchTracker": {},
+            "BetRadarV3_Scoreboard": {}
+          }
+        }
+      },
+      {
+        "eventId": "30188677",
+        "displayGroupId": "1",
+        "eventGroupId": "40253",
+        "eventGroupName": "English Premier League",
+        "name": "West Ham vs Burnley",
+        "nameIdentifier": "West Ham vs Burnley",
+        "startDate": "2024-03-10T14:00:00.0000000Z",
+        "teamName1": "West Ham",
+        "teamName2": "Burnley",
+        "teamShortName1": "",
+        "teamShortName2": "",
+        "team1": { "teamId": 83719, "name": "West Ham" },
+        "team2": { "teamId": 83627, "name": "Burnley" },
+        "eventStatus": {
+          "state": "NOT_STARTED",
+          "isClockDisabled": false,
+          "minute": 0,
+          "second": 0,
+          "isClockRunning": false
+        },
+        "eventScorecard": { "scorecardComponentId": 1 },
+        "mediaList": [
+          {
+            "mediaProviderName": "BetRadarStats",
+            "mediaId": "41763401",
+            "mediaTypeName": "Stats",
+            "metadata": {},
+            "updatedAt": "2024-02-29T23:24:24.3631712Z"
+          },
+          {
+            "mediaProviderName": "BetRadarV3",
+            "mediaId": "41763401",
+            "mediaTypeName": "MatchTracker",
+            "metadata": { "betRadarCoverage": "4" },
+            "updatedAt": "2024-02-29T23:24:24.3631712Z"
+          },
+          {
+            "mediaProviderName": "BetRadarV3",
+            "mediaId": "41763401",
+            "mediaTypeName": "Scoreboard",
+            "metadata": { "betRadarCoverage": "4" },
+            "updatedAt": "2024-02-29T23:24:24.3631712Z"
+          }
+        ],
+        "liveBettingOffered": false,
+        "liveBettingEnabled": false,
+        "tags": ["FeaturedSubcategory", "MatchTracker", "Scoreboard", "Stats"],
+        "flashBetOfferCount": 0,
+        "eventMetadata": {
+          "participantMetadata": {},
+          "mediaMetadata": {
+            "BetRadarStats_Stats": {},
+            "BetRadarV3_MatchTracker": {},
+            "BetRadarV3_Scoreboard": {}
+          }
+        }
+      },
+      {
+        "eventId": "30188675",
+        "displayGroupId": "1",
+        "eventGroupId": "40253",
+        "eventGroupName": "English Premier League",
+        "name": "Brighton vs Nottingham Forest",
+        "nameIdentifier": "Brighton vs Nottingham Forest",
+        "startDate": "2024-03-10T14:00:00.0000000Z",
+        "teamName1": "Brighton",
+        "teamName2": "Nottingham Forest",
+        "teamShortName1": "",
+        "teamShortName2": "",
+        "team1": { "teamId": 83606, "name": "Brighton" },
+        "team2": { "teamId": 83635, "name": "Nottingham Forest" },
+        "eventStatus": {
+          "state": "NOT_STARTED",
+          "isClockDisabled": false,
+          "minute": 0,
+          "second": 0,
+          "isClockRunning": false
+        },
+        "eventScorecard": { "scorecardComponentId": 1 },
+        "mediaList": [
+          {
+            "mediaProviderName": "BetRadarStats",
+            "mediaId": "41763391",
+            "mediaTypeName": "Stats",
+            "metadata": {},
+            "updatedAt": "2024-02-29T23:17:54.5278786Z"
+          },
+          {
+            "mediaProviderName": "BetRadarV3",
+            "mediaId": "41763391",
+            "mediaTypeName": "MatchTracker",
+            "metadata": { "betRadarCoverage": "4" },
+            "updatedAt": "2024-02-29T23:17:54.5278786Z"
+          },
+          {
+            "mediaProviderName": "BetRadarV3",
+            "mediaId": "41763391",
+            "mediaTypeName": "Scoreboard",
+            "metadata": { "betRadarCoverage": "4" },
+            "updatedAt": "2024-02-29T23:17:54.5278786Z"
+          }
+        ],
+        "liveBettingOffered": false,
+        "liveBettingEnabled": false,
+        "tags": ["FeaturedSubcategory", "MatchTracker", "Scoreboard", "Stats"],
+        "flashBetOfferCount": 0,
+        "eventMetadata": {
+          "participantMetadata": {},
+          "mediaMetadata": {
+            "BetRadarStats_Stats": {},
+            "BetRadarV3_MatchTracker": {},
+            "BetRadarV3_Scoreboard": {}
+          }
+        }
+      },
+      {
+        "eventId": "30188678",
+        "displayGroupId": "1",
+        "eventGroupId": "40253",
+        "eventGroupName": "English Premier League",
+        "name": "Liverpool vs Man City",
+        "nameIdentifier": "Liverpool vs Man City",
+        "startDate": "2024-03-10T15:45:00.0000000Z",
+        "teamName1": "Liverpool",
+        "teamName2": "Man City",
+        "teamShortName1": "",
+        "teamShortName2": "",
+        "team1": { "teamId": 83785, "name": "Liverpool" },
+        "team2": { "teamId": 83734, "name": "Man City" },
+        "eventStatus": {
+          "state": "NOT_STARTED",
+          "isClockDisabled": false,
+          "minute": 0,
+          "second": 0,
+          "isClockRunning": false
+        },
+        "eventScorecard": { "scorecardComponentId": 1 },
+        "mediaList": [
+          {
+            "mediaProviderName": "BetRadarStats",
+            "mediaId": "41763397",
+            "mediaTypeName": "Stats",
+            "metadata": {},
+            "updatedAt": "2024-02-29T23:21:26.2959085Z"
+          },
+          {
+            "mediaProviderName": "BetRadarV3",
+            "mediaId": "41763397",
+            "mediaTypeName": "MatchTracker",
+            "metadata": { "betRadarCoverage": "4" },
+            "updatedAt": "2024-02-29T23:21:26.2959085Z"
+          },
+          {
+            "mediaProviderName": "BetRadarV3",
+            "mediaId": "41763397",
+            "mediaTypeName": "Scoreboard",
+            "metadata": { "betRadarCoverage": "4" },
+            "updatedAt": "2024-02-29T23:21:26.2959085Z"
+          }
+        ],
+        "liveBettingOffered": false,
+        "liveBettingEnabled": false,
+        "tags": ["FeaturedSubcategory", "MatchTracker", "Scoreboard", "Stats"],
+        "flashBetOfferCount": 0,
+        "eventMetadata": {
+          "participantMetadata": {},
+          "mediaMetadata": {
+            "BetRadarStats_Stats": {},
+            "BetRadarV3_MatchTracker": {},
+            "BetRadarV3_Scoreboard": {}
+          }
+        }
+      },
+      {
+        "eventId": "30188679",
+        "displayGroupId": "1",
+        "eventGroupId": "40253",
+        "eventGroupName": "English Premier League",
+        "name": "Chelsea vs Newcastle",
+        "nameIdentifier": "Chelsea vs Newcastle",
+        "startDate": "2024-03-11T20:00:00.0000000Z",
+        "teamName1": "Chelsea",
+        "teamName2": "Newcastle",
+        "teamShortName1": "",
+        "teamShortName2": "",
+        "team1": { "teamId": 83632, "name": "Chelsea" },
+        "team2": { "teamId": 83684, "name": "Newcastle" },
+        "eventStatus": {
+          "state": "NOT_STARTED",
+          "isClockDisabled": false,
+          "minute": 0,
+          "second": 0,
+          "isClockRunning": false
+        },
+        "eventScorecard": { "scorecardComponentId": 1 },
+        "mediaList": [
+          {
+            "mediaProviderName": "BetRadarStats",
+            "mediaId": "41763393",
+            "mediaTypeName": "Stats",
+            "metadata": {},
+            "updatedAt": "2024-02-29T23:17:01.5858787Z"
+          },
+          {
+            "mediaProviderName": "BetRadarV3",
+            "mediaId": "41763393",
+            "mediaTypeName": "MatchTracker",
+            "metadata": { "betRadarCoverage": "4" },
+            "updatedAt": "2024-02-29T23:17:01.5858787Z"
+          },
+          {
+            "mediaProviderName": "BetRadarV3",
+            "mediaId": "41763393",
+            "mediaTypeName": "Scoreboard",
+            "metadata": { "betRadarCoverage": "4" },
+            "updatedAt": "2024-02-29T23:17:01.5858787Z"
+          }
+        ],
+        "liveBettingOffered": false,
+        "liveBettingEnabled": false,
+        "tags": ["FeaturedSubcategory", "MatchTracker", "Scoreboard", "Stats"],
+        "flashBetOfferCount": 0,
+        "eventMetadata": {
+          "participantMetadata": {},
+          "mediaMetadata": {
+            "BetRadarStats_Stats": {},
+            "BetRadarV3_MatchTracker": {},
+            "BetRadarV3_Scoreboard": {}
+          }
+        }
+      },
+      {
+        "eventId": "30195344",
+        "displayGroupId": "1",
+        "eventGroupId": "40253",
+        "eventGroupName": "English Premier League",
+        "name": "Bournemouth vs Luton Town",
+        "nameIdentifier": "Bournemouth vs Luton Town",
+        "startDate": "2024-03-13T19:30:00.0000000Z",
+        "teamName1": "Bournemouth",
+        "teamName2": "Luton Town",
+        "teamShortName1": "",
+        "teamShortName2": "",
+        "team1": { "teamId": 83603, "name": "Bournemouth" },
+        "team2": { "teamId": 83308, "name": "Luton Town" },
+        "eventStatus": {
+          "state": "NOT_STARTED",
+          "isClockDisabled": false,
+          "minute": 0,
+          "second": 0,
+          "isClockRunning": false
+        },
+        "eventScorecard": { "scorecardComponentId": 1 },
+        "mediaList": [
+          {
+            "mediaProviderName": "BetRadarStats",
+            "mediaId": "47046491",
+            "mediaTypeName": "Stats",
+            "metadata": {},
+            "updatedAt": "2024-02-29T23:13:35.1803597Z"
+          },
+          {
+            "mediaProviderName": "BetRadarV3",
+            "mediaId": "47046491",
+            "mediaTypeName": "MatchTracker",
+            "metadata": { "betRadarCoverage": "4" },
+            "updatedAt": "2024-02-29T23:13:35.1803597Z"
+          },
+          {
+            "mediaProviderName": "BetRadarV3",
+            "mediaId": "47046491",
+            "mediaTypeName": "Scoreboard",
+            "metadata": { "betRadarCoverage": "4" },
+            "updatedAt": "2024-02-29T23:13:35.1803597Z"
+          }
+        ],
+        "liveBettingOffered": false,
+        "liveBettingEnabled": false,
+        "tags": ["FeaturedSubcategory", "MatchTracker", "Scoreboard", "Stats"],
+        "flashBetOfferCount": 0,
+        "eventMetadata": {
+          "participantMetadata": {},
+          "mediaMetadata": {
+            "BetRadarStats_Stats": {},
+            "BetRadarV3_MatchTracker": {},
+            "BetRadarV3_Scoreboard": {}
+          }
+        }
+      }
+    ],
+    "tags": [
+      "FeaturedSubcategory",
+      "MatchTracker",
+      "PrePack",
+      "Scoreboard",
+      "SportcastBetBuilder",
+      "Stats",
+      "YourBetEligible"
+    ],
+    "nameIdentifier": "England - Premier League"
+  }
+}
