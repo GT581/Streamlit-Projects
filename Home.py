@@ -22,6 +22,8 @@ st.markdown("""
 
 This Streamlit app is designed to showcase various Data Engineering and Data Science projects I created.
 
+Current and future projects will be mainly focused around applying my data and software engineering skill set toward my interests of AI / ML, Sports Analytics, and Financial Analysis.
+
 Each page on this app hosts a different project, which can be accessed in the sidebar. Below are the summaries of each project deployed so far.
 
 All code for this app can be found on my Github: https://github.com/GT581/Streamlit-Projects/tree/main
