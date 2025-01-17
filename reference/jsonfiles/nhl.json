@@ -1,0 +1,1929 @@
+{
+  "eventGroup": {
+    "eventGroupId": "42133",
+    "displayGroupId": "8",
+    "name": "NHL",
+    "offerCategories": [
+      {
+        "offerCategoryId": 496,
+        "name": "Game Lines",
+        "offerSubcategoryDescriptors": [
+          {
+            "subcategoryId": 4525,
+            "name": "Game",
+            "offerSubcategory": {
+              "name": "Game",
+              "subcategoryId": 4525,
+              "componentId": 210,
+              "tags": ["SGP"],
+              "offers": [
+                [
+                  {
+                    "providerOfferId": "2_74241549",
+                    "eventId": "30202573",
+                    "eventGroupId": "42133",
+                    "label": "Puck Line",
+                    "isSuspended": false,
+                    "isOpen": true,
+                    "offerSubcategoryId": 4525,
+                    "isSubcategoryFeatured": true,
+                    "betOfferTypeId": 1,
+                    "providerCriterionId": "2_1267",
+                    "outcomes": [
+                      {
+                        "providerOutcomeId": "0HC74241549N450_3",
+                        "providerId": 2,
+                        "providerOfferId": "2_74241549",
+                        "label": "COL Avalanche",
+                        "oddsAmerican": "\u002B120",
+                        "oddsDecimal": 2.2,
+                        "oddsDecimalDisplay": "2.20",
+                        "oddsFractional": "6/5",
+                        "line": -4.5,
+                        "participant": "COL Avalanche",
+                        "participantType": "Team",
+                        "main": true,
+                        "sortOrder": -4501,
+                        "tags": ["MainPointLine"],
+                        "participants": [
+                          {
+                            "id": "35718",
+                            "name": "COL Avalanche",
+                            "type": "Team"
+                          }
+                        ]
+                      },
+                      {
+                        "providerOutcomeId": "0HC74241549P450_1",
+                        "providerId": 2,
+                        "providerOfferId": "2_74241549",
+                        "label": "CHI Blackhawks",
+                        "oddsAmerican": "-150",
+                        "oddsDecimal": 1.66666667,
+                        "oddsDecimalDisplay": "1.66",
+                        "oddsFractional": "2/3",
+                        "line": 4.5,
+                        "participant": "CHI Blackhawks",
+                        "participantType": "Team",
+                        "main": true,
+                        "sortOrder": -4499,
+                        "tags": ["MainPointLine"],
+                        "participants": [
+                          {
+                            "id": "35715",
+                            "name": "CHI Blackhawks",
+                            "type": "Team"
+                          }
+                        ]
+                      }
+                    ],
+                    "offerSequence": 0,
+                    "source": "5",
+                    "displayGroupId": "8",
+                    "main": true,
+                    "tags": ["PrimaryMarket", "Cashout", "FeaturedSubcategory"]
+                  },
+                  {
+                    "providerOfferId": "3_74241549",
+                    "eventId": "30202573",
+                    "eventGroupId": "42133",
+                    "label": "Total",
+                    "isSuspended": false,
+                    "isOpen": true,
+                    "offerSubcategoryId": 4525,
+                    "isSubcategoryFeatured": true,
+                    "betOfferTypeId": 6,
+                    "providerCriterionId": "3_1267",
+                    "outcomes": [
+                      {
+                        "providerOutcomeId": "0OU74241549O550_1",
+                        "providerId": 2,
+                        "providerOfferId": "3_74241549",
+                        "label": "Over",
+                        "oddsAmerican": "-125",
+                        "oddsDecimal": 1.8,
+                        "oddsDecimalDisplay": "1.80",
+                        "oddsFractional": "4/5",
+                        "line": 5.5,
+                        "participant": "",
+                        "participantType": "Unknown",
+                        "main": true,
+                        "sortOrder": 5500,
+                        "tags": ["MainPointLine"]
+                      },
+                      {
+                        "providerOutcomeId": "0OU74241549U550_3",
+                        "providerId": 2,
+                        "providerOfferId": "3_74241549",
+                        "label": "Under",
+                        "oddsAmerican": "-105",
+                        "oddsDecimal": 1.95238096,
+                        "oddsDecimalDisplay": "1.95",
+                        "oddsFractional": "20/21",
+                        "line": 5.5,
+                        "participant": "",
+                        "participantType": "Unknown",
+                        "main": true,
+                        "sortOrder": 5502,
+                        "tags": ["MainPointLine"]
+                      }
+                    ],
+                    "offerSequence": 0,
+                    "source": "5",
+                    "displayGroupId": "8",
+                    "main": true,
+                    "tags": ["PrimaryMarket", "Cashout", "FeaturedSubcategory"]
+                  },
+                  {
+                    "providerOfferId": "1_74241549",
+                    "eventId": "30202573",
+                    "eventGroupId": "42133",
+                    "label": "Moneyline",
+                    "isSuspended": true,
+                    "isOpen": true,
+                    "offerSubcategoryId": 4525,
+                    "isSubcategoryFeatured": true,
+                    "betOfferTypeId": 2,
+                    "providerCriterionId": "1_1267",
+                    "outcomes": [
+                      {
+                        "providerId": 0,
+                        "oddsDecimal": 0,
+                        "hidden": true,
+                        "sortOrder": 0
+                      },
+                      {
+                        "providerId": 0,
+                        "oddsDecimal": 0,
+                        "hidden": true,
+                        "sortOrder": 0
+                      }
+                    ],
+                    "offerSequence": 0,
+                    "source": "5",
+                    "displayGroupId": "8",
+                    "main": true,
+                    "tags": ["PrimaryMarket", "Cashout", "FeaturedSubcategory"]
+                  }
+                ],
+                [
+                  {
+                    "providerOfferId": "2_74241601",
+                    "eventId": "30202576",
+                    "eventGroupId": "42133",
+                    "label": "Puck Line",
+                    "isSuspended": false,
+                    "isOpen": true,
+                    "offerSubcategoryId": 4525,
+                    "isSubcategoryFeatured": true,
+                    "betOfferTypeId": 1,
+                    "providerCriterionId": "2_1267",
+                    "outcomes": [
+                      {
+                        "providerOutcomeId": "0HC74241601N150_3",
+                        "providerId": 2,
+                        "providerOfferId": "2_74241601",
+                        "label": "LA Kings",
+                        "oddsAmerican": "\u002B165",
+                        "oddsDecimal": 2.65,
+                        "oddsDecimalDisplay": "2.65",
+                        "oddsFractional": "33/20",
+                        "line": -1.5,
+                        "participant": "LA Kings",
+                        "participantType": "Team",
+                        "main": true,
+                        "sortOrder": -1501,
+                        "tags": ["MainPointLine"],
+                        "participants": [
+                          { "id": "35736", "name": "LA Kings", "type": "Team" }
+                        ]
+                      },
+                      {
+                        "providerOutcomeId": "0HC74241601P150_1",
+                        "providerId": 2,
+                        "providerOfferId": "2_74241601",
+                        "label": "VAN Canucks",
+                        "oddsAmerican": "-215",
+                        "oddsDecimal": 1.46511628,
+                        "oddsDecimalDisplay": "1.46",
+                        "oddsFractional": "20/43",
+                        "line": 1.5,
+                        "participant": "VAN Canucks",
+                        "participantType": "Team",
+                        "main": true,
+                        "sortOrder": -1499,
+                        "tags": ["MainPointLine"],
+                        "participants": [
+                          {
+                            "id": "35789",
+                            "name": "VAN Canucks",
+                            "type": "Team"
+                          }
+                        ]
+                      }
+                    ],
+                    "offerSequence": 0,
+                    "source": "5",
+                    "displayGroupId": "8",
+                    "main": true,
+                    "tags": ["PrimaryMarket", "Cashout", "FeaturedSubcategory"]
+                  },
+                  {
+                    "providerOfferId": "3_74241601",
+                    "eventId": "30202576",
+                    "eventGroupId": "42133",
+                    "label": "Total",
+                    "isSuspended": false,
+                    "isOpen": true,
+                    "offerSubcategoryId": 4525,
+                    "isSubcategoryFeatured": true,
+                    "betOfferTypeId": 6,
+                    "providerCriterionId": "3_1267",
+                    "outcomes": [
+                      {
+                        "providerOutcomeId": "0OU74241601O550_1",
+                        "providerId": 2,
+                        "providerOfferId": "3_74241601",
+                        "label": "Over",
+                        "oddsAmerican": "\u002B150",
+                        "oddsDecimal": 2.5,
+                        "oddsDecimalDisplay": "2.50",
+                        "oddsFractional": "3/2",
+                        "line": 5.5,
+                        "participant": "",
+                        "participantType": "Unknown",
+                        "main": true,
+                        "sortOrder": 5500,
+                        "tags": ["MainPointLine"]
+                      },
+                      {
+                        "providerOutcomeId": "0OU74241601U550_3",
+                        "providerId": 2,
+                        "providerOfferId": "3_74241601",
+                        "label": "Under",
+                        "oddsAmerican": "-195",
+                        "oddsDecimal": 1.51282052,
+                        "oddsDecimalDisplay": "1.51",
+                        "oddsFractional": "20/39",
+                        "line": 5.5,
+                        "participant": "",
+                        "participantType": "Unknown",
+                        "main": true,
+                        "sortOrder": 5502,
+                        "tags": ["MainPointLine"]
+                      }
+                    ],
+                    "offerSequence": 0,
+                    "source": "5",
+                    "displayGroupId": "8",
+                    "main": true,
+                    "tags": ["PrimaryMarket", "Cashout", "FeaturedSubcategory"]
+                  },
+                  {
+                    "providerOfferId": "1_74241601",
+                    "eventId": "30202576",
+                    "eventGroupId": "42133",
+                    "label": "Moneyline",
+                    "isSuspended": false,
+                    "isOpen": true,
+                    "offerSubcategoryId": 4525,
+                    "isSubcategoryFeatured": true,
+                    "betOfferTypeId": 2,
+                    "providerCriterionId": "1_1267",
+                    "outcomes": [
+                      {
+                        "providerOutcomeId": "0ML74241601_3",
+                        "providerId": 2,
+                        "providerOfferId": "1_74241601",
+                        "label": "LA Kings",
+                        "oddsAmerican": "-190",
+                        "oddsDecimal": 1.52631579,
+                        "oddsDecimalDisplay": "1.52",
+                        "oddsFractional": "10/19",
+                        "participant": "LA Kings",
+                        "participantType": "Team",
+                        "main": true,
+                        "sortOrder": 1167869590,
+                        "participants": [
+                          { "id": "35736", "name": "LA Kings", "type": "Team" }
+                        ]
+                      },
+                      {
+                        "providerOutcomeId": "0ML74241601_1",
+                        "providerId": 2,
+                        "providerOfferId": "1_74241601",
+                        "label": "VAN Canucks",
+                        "oddsAmerican": "\u002B145",
+                        "oddsDecimal": 2.45,
+                        "oddsDecimalDisplay": "2.45",
+                        "oddsFractional": "29/20",
+                        "participant": "VAN Canucks",
+                        "participantType": "Team",
+                        "main": true,
+                        "sortOrder": 1167871280,
+                        "participants": [
+                          {
+                            "id": "35789",
+                            "name": "VAN Canucks",
+                            "type": "Team"
+                          }
+                        ]
+                      }
+                    ],
+                    "offerSequence": 0,
+                    "source": "5",
+                    "displayGroupId": "8",
+                    "main": true,
+                    "tags": ["PrimaryMarket", "Cashout", "FeaturedSubcategory"]
+                  }
+                ],
+                [
+                  {
+                    "providerOfferId": "2_74241575",
+                    "eventId": "30202574",
+                    "eventGroupId": "42133",
+                    "label": "Puck Line",
+                    "isSuspended": false,
+                    "isOpen": true,
+                    "offerSubcategoryId": 4525,
+                    "isSubcategoryFeatured": true,
+                    "betOfferTypeId": 1,
+                    "providerCriterionId": "2_1267",
+                    "outcomes": [
+                      {
+                        "providerOutcomeId": "0HC74241575P150_3",
+                        "providerId": 2,
+                        "providerOfferId": "2_74241575",
+                        "label": "PIT Penguins",
+                        "oddsAmerican": "-160",
+                        "oddsDecimal": 1.625,
+                        "oddsDecimalDisplay": "1.62",
+                        "oddsFractional": "5/8",
+                        "line": 1.5,
+                        "participant": "PIT Penguins",
+                        "participantType": "Team",
+                        "main": true,
+                        "sortOrder": 1499,
+                        "tags": ["MainPointLine"],
+                        "participants": [
+                          {
+                            "id": "35775",
+                            "name": "PIT Penguins",
+                            "type": "Team"
+                          }
+                        ]
+                      },
+                      {
+                        "providerOutcomeId": "0HC74241575N150_1",
+                        "providerId": 2,
+                        "providerOfferId": "2_74241575",
+                        "label": "SEA Kraken",
+                        "oddsAmerican": "\u002B124",
+                        "oddsDecimal": 2.24,
+                        "oddsDecimalDisplay": "2.24",
+                        "oddsFractional": "31/25",
+                        "line": -1.5,
+                        "participant": "SEA Kraken",
+                        "participantType": "Team",
+                        "main": true,
+                        "sortOrder": 1501,
+                        "tags": ["MainPointLine"],
+                        "participants": [
+                          {
+                            "id": "583254",
+                            "name": "SEA Kraken",
+                            "type": "Team"
+                          }
+                        ]
+                      }
+                    ],
+                    "offerSequence": 0,
+                    "source": "5",
+                    "displayGroupId": "8",
+                    "main": true,
+                    "tags": ["PrimaryMarket", "Cashout", "FeaturedSubcategory"]
+                  },
+                  {
+                    "providerOfferId": "3_74241575",
+                    "eventId": "30202574",
+                    "eventGroupId": "42133",
+                    "label": "Total",
+                    "isSuspended": false,
+                    "isOpen": true,
+                    "offerSubcategoryId": 4525,
+                    "isSubcategoryFeatured": true,
+                    "betOfferTypeId": 6,
+                    "providerCriterionId": "3_1267",
+                    "outcomes": [
+                      {
+                        "providerOutcomeId": "0OU74241575O550_1",
+                        "providerId": 2,
+                        "providerOfferId": "3_74241575",
+                        "label": "Over",
+                        "oddsAmerican": "\u002B145",
+                        "oddsDecimal": 2.45,
+                        "oddsDecimalDisplay": "2.45",
+                        "oddsFractional": "29/20",
+                        "line": 5.5,
+                        "participant": "",
+                        "participantType": "Unknown",
+                        "main": true,
+                        "sortOrder": 5500,
+                        "tags": ["MainPointLine"]
+                      },
+                      {
+                        "providerOutcomeId": "0OU74241575U550_3",
+                        "providerId": 2,
+                        "providerOfferId": "3_74241575",
+                        "label": "Under",
+                        "oddsAmerican": "-190",
+                        "oddsDecimal": 1.52631579,
+                        "oddsDecimalDisplay": "1.52",
+                        "oddsFractional": "10/19",
+                        "line": 5.5,
+                        "participant": "",
+                        "participantType": "Unknown",
+                        "main": true,
+                        "sortOrder": 5502,
+                        "tags": ["MainPointLine"]
+                      }
+                    ],
+                    "offerSequence": 0,
+                    "source": "5",
+                    "displayGroupId": "8",
+                    "main": true,
+                    "tags": ["PrimaryMarket", "Cashout", "FeaturedSubcategory"]
+                  },
+                  {
+                    "providerOfferId": "1_74241575",
+                    "eventId": "30202574",
+                    "eventGroupId": "42133",
+                    "label": "Moneyline",
+                    "isSuspended": false,
+                    "isOpen": true,
+                    "offerSubcategoryId": 4525,
+                    "isSubcategoryFeatured": true,
+                    "betOfferTypeId": 2,
+                    "providerCriterionId": "1_1267",
+                    "outcomes": [
+                      {
+                        "providerOutcomeId": "0ML74241575_3",
+                        "providerId": 2,
+                        "providerOfferId": "1_74241575",
+                        "label": "PIT Penguins",
+                        "oddsAmerican": "\u002B190",
+                        "oddsDecimal": 2.9,
+                        "oddsDecimalDisplay": "2.90",
+                        "oddsFractional": "19/10",
+                        "participant": "PIT Penguins",
+                        "participantType": "Team",
+                        "main": true,
+                        "sortOrder": 1167869030,
+                        "participants": [
+                          {
+                            "id": "35775",
+                            "name": "PIT Penguins",
+                            "type": "Team"
+                          }
+                        ]
+                      },
+                      {
+                        "providerOutcomeId": "0ML74241575_1",
+                        "providerId": 2,
+                        "providerOfferId": "1_74241575",
+                        "label": "SEA Kraken",
+                        "oddsAmerican": "-250",
+                        "oddsDecimal": 1.4,
+                        "oddsDecimalDisplay": "1.40",
+                        "oddsFractional": "2/5",
+                        "participant": "SEA Kraken",
+                        "participantType": "Team",
+                        "main": true,
+                        "sortOrder": 1167870720,
+                        "participants": [
+                          {
+                            "id": "583254",
+                            "name": "SEA Kraken",
+                            "type": "Team"
+                          }
+                        ]
+                      }
+                    ],
+                    "offerSequence": 0,
+                    "source": "5",
+                    "displayGroupId": "8",
+                    "main": true,
+                    "tags": ["PrimaryMarket", "Cashout", "FeaturedSubcategory"]
+                  }
+                ],
+                [
+                  {
+                    "providerOfferId": "2_74241627",
+                    "eventId": "30202577",
+                    "eventGroupId": "42133",
+                    "label": "Puck Line",
+                    "isSuspended": false,
+                    "isOpen": true,
+                    "offerSubcategoryId": 4525,
+                    "isSubcategoryFeatured": true,
+                    "betOfferTypeId": 1,
+                    "providerCriterionId": "2_1267",
+                    "outcomes": [
+                      {
+                        "providerOutcomeId": "0HC74241627N150_3",
+                        "providerId": 2,
+                        "providerOfferId": "2_74241627",
+                        "label": "ANA Ducks",
+                        "oddsAmerican": "\u002B100",
+                        "oddsDecimal": 2,
+                        "oddsDecimalDisplay": "2.00",
+                        "oddsFractional": "1/1",
+                        "line": -1.5,
+                        "participant": "ANA Ducks",
+                        "participantType": "Team",
+                        "main": true,
+                        "sortOrder": -1501,
+                        "tags": ["MainPointLine"],
+                        "participants": [
+                          { "id": "35695", "name": "ANA Ducks", "type": "Team" }
+                        ]
+                      },
+                      {
+                        "providerOutcomeId": "0HC74241627P150_1",
+                        "providerId": 2,
+                        "providerOfferId": "2_74241627",
+                        "label": "SJ Sharks",
+                        "oddsAmerican": "-130",
+                        "oddsDecimal": 1.76923077,
+                        "oddsDecimalDisplay": "1.76",
+                        "oddsFractional": "10/13",
+                        "line": 1.5,
+                        "participant": "SJ Sharks",
+                        "participantType": "Team",
+                        "main": true,
+                        "sortOrder": -1499,
+                        "tags": ["MainPointLine"],
+                        "participants": [
+                          { "id": "35778", "name": "SJ Sharks", "type": "Team" }
+                        ]
+                      }
+                    ],
+                    "offerSequence": 0,
+                    "source": "5",
+                    "displayGroupId": "8",
+                    "main": true,
+                    "tags": ["PrimaryMarket", "Cashout", "FeaturedSubcategory"]
+                  },
+                  {
+                    "providerOfferId": "3_74241627",
+                    "eventId": "30202577",
+                    "eventGroupId": "42133",
+                    "label": "Total",
+                    "isSuspended": false,
+                    "isOpen": true,
+                    "offerSubcategoryId": 4525,
+                    "isSubcategoryFeatured": true,
+                    "betOfferTypeId": 6,
+                    "providerCriterionId": "3_1267",
+                    "outcomes": [
+                      {
+                        "providerOutcomeId": "0OU74241627O850_1",
+                        "providerId": 2,
+                        "providerOfferId": "3_74241627",
+                        "label": "Over",
+                        "oddsAmerican": "\u002B120",
+                        "oddsDecimal": 2.2,
+                        "oddsDecimalDisplay": "2.20",
+                        "oddsFractional": "6/5",
+                        "line": 8.5,
+                        "participant": "",
+                        "participantType": "Unknown",
+                        "main": true,
+                        "sortOrder": 8500,
+                        "tags": ["MainPointLine"]
+                      },
+                      {
+                        "providerOutcomeId": "0OU74241627U850_3",
+                        "providerId": 2,
+                        "providerOfferId": "3_74241627",
+                        "label": "Under",
+                        "oddsAmerican": "-150",
+                        "oddsDecimal": 1.66666667,
+                        "oddsDecimalDisplay": "1.66",
+                        "oddsFractional": "2/3",
+                        "line": 8.5,
+                        "participant": "",
+                        "participantType": "Unknown",
+                        "main": true,
+                        "sortOrder": 8502,
+                        "tags": ["MainPointLine"]
+                      }
+                    ],
+                    "offerSequence": 0,
+                    "source": "5",
+                    "displayGroupId": "8",
+                    "main": true,
+                    "tags": ["PrimaryMarket", "Cashout", "FeaturedSubcategory"]
+                  },
+                  {
+                    "providerOfferId": "1_74241627",
+                    "eventId": "30202577",
+                    "eventGroupId": "42133",
+                    "label": "Moneyline",
+                    "isSuspended": false,
+                    "isOpen": true,
+                    "offerSubcategoryId": 4525,
+                    "isSubcategoryFeatured": true,
+                    "betOfferTypeId": 2,
+                    "providerCriterionId": "1_1267",
+                    "outcomes": [
+                      {
+                        "providerOutcomeId": "0ML74241627_3",
+                        "providerId": 2,
+                        "providerOfferId": "1_74241627",
+                        "label": "ANA Ducks",
+                        "oddsAmerican": "-280",
+                        "oddsDecimal": 1.35714286,
+                        "oddsDecimalDisplay": "1.35",
+                        "oddsFractional": "5/14",
+                        "participant": "ANA Ducks",
+                        "participantType": "Team",
+                        "main": true,
+                        "sortOrder": 1167870150,
+                        "participants": [
+                          { "id": "35695", "name": "ANA Ducks", "type": "Team" }
+                        ]
+                      },
+                      {
+                        "providerOutcomeId": "0ML74241627_1",
+                        "providerId": 2,
+                        "providerOfferId": "1_74241627",
+                        "label": "SJ Sharks",
+                        "oddsAmerican": "\u002B210",
+                        "oddsDecimal": 3.1,
+                        "oddsDecimalDisplay": "3.10",
+                        "oddsFractional": "21/10",
+                        "participant": "SJ Sharks",
+                        "participantType": "Team",
+                        "main": true,
+                        "sortOrder": 1167871840,
+                        "participants": [
+                          { "id": "35778", "name": "SJ Sharks", "type": "Team" }
+                        ]
+                      }
+                    ],
+                    "offerSequence": 0,
+                    "source": "5",
+                    "displayGroupId": "8",
+                    "main": true,
+                    "tags": ["PrimaryMarket", "Cashout", "FeaturedSubcategory"]
+                  }
+                ],
+                [
+                  {
+                    "providerOfferId": "2_74250792",
+                    "eventId": "30208518",
+                    "eventGroupId": "42133",
+                    "label": "Puck Line",
+                    "isSuspended": false,
+                    "isOpen": true,
+                    "offerSubcategoryId": 4525,
+                    "isSubcategoryFeatured": true,
+                    "betOfferTypeId": 1,
+                    "providerCriterionId": "2_1254",
+                    "outcomes": [
+                      {
+                        "providerOutcomeId": "0HC74250792N150_3",
+                        "providerId": 2,
+                        "providerOfferId": "2_74250792",
+                        "label": "PHI Flyers",
+                        "oddsAmerican": "\u002B215",
+                        "oddsDecimal": 3.15,
+                        "oddsDecimalDisplay": "3.15",
+                        "oddsFractional": "43/20",
+                        "line": -1.5,
+                        "participant": "PHI Flyers",
+                        "participantType": "Team",
+                        "main": true,
+                        "sortOrder": -1501,
+                        "tags": ["MainPointLine", "SGP"],
+                        "participants": [
+                          {
+                            "id": "35773",
+                            "name": "PHI Flyers",
+                            "type": "Team"
+                          }
+                        ]
+                      },
+                      {
+                        "providerOutcomeId": "0HC74250792P150_1",
+                        "providerId": 2,
+                        "providerOfferId": "2_74250792",
+                        "label": "WAS Capitals",
+                        "oddsAmerican": "-265",
+                        "oddsDecimal": 1.3773585,
+                        "oddsDecimalDisplay": "1.37",
+                        "oddsFractional": "20/53",
+                        "line": 1.5,
+                        "participant": "WAS Capitals",
+                        "participantType": "Team",
+                        "main": true,
+                        "sortOrder": -1499,
+                        "tags": ["MainPointLine", "SGP"],
+                        "participants": [
+                          {
+                            "id": "35795",
+                            "name": "WAS Capitals",
+                            "type": "Team"
+                          }
+                        ]
+                      }
+                    ],
+                    "offerSequence": 0,
+                    "source": "5",
+                    "displayGroupId": "8",
+                    "main": true,
+                    "tags": [
+                      "PrimaryMarket",
+                      "SGP",
+                      "YourBetEligible",
+                      "Cashout",
+                      "FeaturedSubcategory"
+                    ]
+                  },
+                  {
+                    "providerOfferId": "3_74250792",
+                    "eventId": "30208518",
+                    "eventGroupId": "42133",
+                    "label": "Total",
+                    "isSuspended": false,
+                    "isOpen": true,
+                    "offerSubcategoryId": 4525,
+                    "isSubcategoryFeatured": true,
+                    "betOfferTypeId": 6,
+                    "providerCriterionId": "3_1254",
+                    "outcomes": [
+                      {
+                        "providerOutcomeId": "0OU74250792O600_1",
+                        "providerId": 2,
+                        "providerOfferId": "3_74250792",
+                        "label": "Over",
+                        "oddsAmerican": "-110",
+                        "oddsDecimal": 1.90909091,
+                        "oddsDecimalDisplay": "1.90",
+                        "oddsFractional": "10/11",
+                        "line": 6,
+                        "participant": "",
+                        "participantType": "Unknown",
+                        "main": true,
+                        "sortOrder": 6000,
+                        "tags": ["MainPointLine", "SGP"]
+                      },
+                      {
+                        "providerOutcomeId": "0OU74250792U600_3",
+                        "providerId": 2,
+                        "providerOfferId": "3_74250792",
+                        "label": "Under",
+                        "oddsAmerican": "-110",
+                        "oddsDecimal": 1.90909091,
+                        "oddsDecimalDisplay": "1.90",
+                        "oddsFractional": "10/11",
+                        "line": 6,
+                        "participant": "",
+                        "participantType": "Unknown",
+                        "main": true,
+                        "sortOrder": 6002,
+                        "tags": ["MainPointLine", "SGP"]
+                      }
+                    ],
+                    "offerSequence": 0,
+                    "source": "5",
+                    "displayGroupId": "8",
+                    "main": true,
+                    "tags": [
+                      "PrimaryMarket",
+                      "SGP",
+                      "YourBetEligible",
+                      "Cashout",
+                      "FeaturedSubcategory"
+                    ]
+                  },
+                  {
+                    "providerOfferId": "1_74250792",
+                    "eventId": "30208518",
+                    "eventGroupId": "42133",
+                    "label": "Moneyline",
+                    "isSuspended": false,
+                    "isOpen": true,
+                    "offerSubcategoryId": 4525,
+                    "isSubcategoryFeatured": true,
+                    "betOfferTypeId": 2,
+                    "providerCriterionId": "1_1254",
+                    "outcomes": [
+                      {
+                        "providerOutcomeId": "0ML74250792_3",
+                        "providerId": 2,
+                        "providerOfferId": "1_74250792",
+                        "label": "PHI Flyers",
+                        "oddsAmerican": "-122",
+                        "oddsDecimal": 1.81967214,
+                        "oddsDecimalDisplay": "1.81",
+                        "oddsFractional": "50/61",
+                        "participant": "PHI Flyers",
+                        "participantType": "Team",
+                        "main": true,
+                        "sortOrder": 1168102182,
+                        "tags": ["SGP"],
+                        "participants": [
+                          {
+                            "id": "35773",
+                            "name": "PHI Flyers",
+                            "type": "Team"
+                          }
+                        ]
+                      },
+                      {
+                        "providerOutcomeId": "0ML74250792_1",
+                        "providerId": 2,
+                        "providerOfferId": "1_74250792",
+                        "label": "WAS Capitals",
+                        "oddsAmerican": "\u002B102",
+                        "oddsDecimal": 2.02,
+                        "oddsDecimalDisplay": "2.02",
+                        "oddsFractional": "51/50",
+                        "participant": "WAS Capitals",
+                        "participantType": "Team",
+                        "main": true,
+                        "sortOrder": 1168104180,
+                        "tags": ["SGP"],
+                        "participants": [
+                          {
+                            "id": "35795",
+                            "name": "WAS Capitals",
+                            "type": "Team"
+                          }
+                        ]
+                      }
+                    ],
+                    "offerSequence": 0,
+                    "source": "5",
+                    "displayGroupId": "8",
+                    "main": true,
+                    "tags": [
+                      "PrimaryMarket",
+                      "SGP",
+                      "YourBetEligible",
+                      "Cashout",
+                      "FeaturedSubcategory"
+                    ]
+                  }
+                ],
+                [
+                  {
+                    "providerOfferId": "2_74250790",
+                    "eventId": "30208517",
+                    "eventGroupId": "42133",
+                    "label": "Puck Line",
+                    "isSuspended": false,
+                    "isOpen": true,
+                    "offerSubcategoryId": 4525,
+                    "isSubcategoryFeatured": true,
+                    "betOfferTypeId": 1,
+                    "providerCriterionId": "2_1254",
+                    "outcomes": [
+                      {
+                        "providerOutcomeId": "0HC74250790P150_3",
+                        "providerId": 2,
+                        "providerOfferId": "2_74250790",
+                        "label": "ARI Coyotes",
+                        "oddsAmerican": "-155",
+                        "oddsDecimal": 1.6451613,
+                        "oddsDecimalDisplay": "1.64",
+                        "oddsFractional": "20/31",
+                        "line": 1.5,
+                        "participant": "ARI Coyotes",
+                        "participantType": "Team",
+                        "main": true,
+                        "sortOrder": 1499,
+                        "tags": ["MainPointLine", "SGP"],
+                        "participants": [
+                          {
+                            "id": "35699",
+                            "name": "ARI Coyotes",
+                            "type": "Team"
+                          }
+                        ]
+                      },
+                      {
+                        "providerOutcomeId": "0HC74250790N150_1",
+                        "providerId": 2,
+                        "providerOfferId": "2_74250790",
+                        "label": "OTT Senators",
+                        "oddsAmerican": "\u002B130",
+                        "oddsDecimal": 2.3,
+                        "oddsDecimalDisplay": "2.30",
+                        "oddsFractional": "13/10",
+                        "line": -1.5,
+                        "participant": "OTT Senators",
+                        "participantType": "Team",
+                        "main": true,
+                        "sortOrder": 1501,
+                        "tags": ["MainPointLine", "SGP"],
+                        "participants": [
+                          {
+                            "id": "35768",
+                            "name": "OTT Senators",
+                            "type": "Team"
+                          }
+                        ]
+                      }
+                    ],
+                    "offerSequence": 0,
+                    "source": "5",
+                    "displayGroupId": "8",
+                    "main": true,
+                    "tags": [
+                      "PrimaryMarket",
+                      "SGP",
+                      "YourBetEligible",
+                      "Cashout",
+                      "FeaturedSubcategory"
+                    ]
+                  },
+                  {
+                    "providerOfferId": "3_74250790",
+                    "eventId": "30208517",
+                    "eventGroupId": "42133",
+                    "label": "Total",
+                    "isSuspended": false,
+                    "isOpen": true,
+                    "offerSubcategoryId": 4525,
+                    "isSubcategoryFeatured": true,
+                    "betOfferTypeId": 6,
+                    "providerCriterionId": "3_1254",
+                    "outcomes": [
+                      {
+                        "providerOutcomeId": "0OU74250790O650_1",
+                        "providerId": 2,
+                        "providerOfferId": "3_74250790",
+                        "label": "Over",
+                        "oddsAmerican": "-110",
+                        "oddsDecimal": 1.90909091,
+                        "oddsDecimalDisplay": "1.90",
+                        "oddsFractional": "10/11",
+                        "line": 6.5,
+                        "participant": "",
+                        "participantType": "Unknown",
+                        "main": true,
+                        "sortOrder": 6500,
+                        "tags": ["MainPointLine", "SGP"]
+                      },
+                      {
+                        "providerOutcomeId": "0OU74250790U650_3",
+                        "providerId": 2,
+                        "providerOfferId": "3_74250790",
+                        "label": "Under",
+                        "oddsAmerican": "-110",
+                        "oddsDecimal": 1.90909091,
+                        "oddsDecimalDisplay": "1.90",
+                        "oddsFractional": "10/11",
+                        "line": 6.5,
+                        "participant": "",
+                        "participantType": "Unknown",
+                        "main": true,
+                        "sortOrder": 6502,
+                        "tags": ["MainPointLine", "SGP"]
+                      }
+                    ],
+                    "offerSequence": 0,
+                    "source": "5",
+                    "displayGroupId": "8",
+                    "main": true,
+                    "tags": [
+                      "PrimaryMarket",
+                      "SGP",
+                      "YourBetEligible",
+                      "Cashout",
+                      "FeaturedSubcategory"
+                    ]
+                  },
+                  {
+                    "providerOfferId": "1_74250790",
+                    "eventId": "30208517",
+                    "eventGroupId": "42133",
+                    "label": "Moneyline",
+                    "isSuspended": false,
+                    "isOpen": true,
+                    "offerSubcategoryId": 4525,
+                    "isSubcategoryFeatured": true,
+                    "betOfferTypeId": 2,
+                    "providerCriterionId": "1_1254",
+                    "outcomes": [
+                      {
+                        "providerOutcomeId": "0ML74250790_3",
+                        "providerId": 2,
+                        "providerOfferId": "1_74250790",
+                        "label": "ARI Coyotes",
+                        "oddsAmerican": "\u002B150",
+                        "oddsDecimal": 2.5,
+                        "oddsDecimalDisplay": "2.50",
+                        "oddsFractional": "3/2",
+                        "participant": "ARI Coyotes",
+                        "participantType": "Team",
+                        "main": true,
+                        "sortOrder": 1168102168,
+                        "tags": ["SGP"],
+                        "participants": [
+                          {
+                            "id": "35699",
+                            "name": "ARI Coyotes",
+                            "type": "Team"
+                          }
+                        ]
+                      },
+                      {
+                        "providerOutcomeId": "0ML74250790_1",
+                        "providerId": 2,
+                        "providerOfferId": "1_74250790",
+                        "label": "OTT Senators",
+                        "oddsAmerican": "-180",
+                        "oddsDecimal": 1.55555556,
+                        "oddsDecimalDisplay": "1.55",
+                        "oddsFractional": "5/9",
+                        "participant": "OTT Senators",
+                        "participantType": "Team",
+                        "main": true,
+                        "sortOrder": 1168104166,
+                        "tags": ["SGP"],
+                        "participants": [
+                          {
+                            "id": "35768",
+                            "name": "OTT Senators",
+                            "type": "Team"
+                          }
+                        ]
+                      }
+                    ],
+                    "offerSequence": 0,
+                    "source": "5",
+                    "displayGroupId": "8",
+                    "main": true,
+                    "tags": [
+                      "PrimaryMarket",
+                      "SGP",
+                      "YourBetEligible",
+                      "Cashout",
+                      "FeaturedSubcategory"
+                    ]
+                  }
+                ],
+                [
+                  {
+                    "providerOfferId": "2_74250794",
+                    "eventId": "30208520",
+                    "eventGroupId": "42133",
+                    "label": "Puck Line",
+                    "isSuspended": false,
+                    "isOpen": true,
+                    "offerSubcategoryId": 4525,
+                    "isSubcategoryFeatured": true,
+                    "betOfferTypeId": 1,
+                    "providerCriterionId": "2_1254",
+                    "outcomes": [
+                      {
+                        "providerOutcomeId": "0HC74250794N150_3",
+                        "providerId": 2,
+                        "providerOfferId": "2_74250794",
+                        "label": "NJ Devils",
+                        "oddsAmerican": "-115",
+                        "oddsDecimal": 1.86956522,
+                        "oddsDecimalDisplay": "1.86",
+                        "oddsFractional": "20/23",
+                        "line": -1.5,
+                        "participant": "NJ Devils",
+                        "participantType": "Team",
+                        "main": true,
+                        "sortOrder": -1501,
+                        "tags": ["MainPointLine", "SGP"],
+                        "participants": [
+                          { "id": "35748", "name": "NJ Devils", "type": "Team" }
+                        ]
+                      },
+                      {
+                        "providerOutcomeId": "0HC74250794P150_1",
+                        "providerId": 2,
+                        "providerOfferId": "2_74250794",
+                        "label": "ANA Ducks",
+                        "oddsAmerican": "-105",
+                        "oddsDecimal": 1.95238096,
+                        "oddsDecimalDisplay": "1.95",
+                        "oddsFractional": "20/21",
+                        "line": 1.5,
+                        "participant": "ANA Ducks",
+                        "participantType": "Team",
+                        "main": true,
+                        "sortOrder": -1499,
+                        "tags": ["MainPointLine", "SGP"],
+                        "participants": [
+                          { "id": "35695", "name": "ANA Ducks", "type": "Team" }
+                        ]
+                      }
+                    ],
+                    "offerSequence": 0,
+                    "source": "5",
+                    "displayGroupId": "8",
+                    "main": true,
+                    "tags": [
+                      "PrimaryMarket",
+                      "SGP",
+                      "YourBetEligible",
+                      "Cashout",
+                      "FeaturedSubcategory"
+                    ]
+                  },
+                  {
+                    "providerOfferId": "3_74250794",
+                    "eventId": "30208520",
+                    "eventGroupId": "42133",
+                    "label": "Total",
+                    "isSuspended": false,
+                    "isOpen": true,
+                    "offerSubcategoryId": 4525,
+                    "isSubcategoryFeatured": true,
+                    "betOfferTypeId": 6,
+                    "providerCriterionId": "3_1254",
+                    "outcomes": [
+                      {
+                        "providerOutcomeId": "0OU74250794O650_1",
+                        "providerId": 2,
+                        "providerOfferId": "3_74250794",
+                        "label": "Over",
+                        "oddsAmerican": "-125",
+                        "oddsDecimal": 1.8,
+                        "oddsDecimalDisplay": "1.80",
+                        "oddsFractional": "4/5",
+                        "line": 6.5,
+                        "participant": "",
+                        "participantType": "Unknown",
+                        "main": true,
+                        "sortOrder": 6500,
+                        "tags": ["MainPointLine", "SGP"]
+                      },
+                      {
+                        "providerOutcomeId": "0OU74250794U650_3",
+                        "providerId": 2,
+                        "providerOfferId": "3_74250794",
+                        "label": "Under",
+                        "oddsAmerican": "\u002B105",
+                        "oddsDecimal": 2.05,
+                        "oddsDecimalDisplay": "2.05",
+                        "oddsFractional": "21/20",
+                        "line": 6.5,
+                        "participant": "",
+                        "participantType": "Unknown",
+                        "main": true,
+                        "sortOrder": 6502,
+                        "tags": ["MainPointLine", "SGP"]
+                      }
+                    ],
+                    "offerSequence": 0,
+                    "source": "5",
+                    "displayGroupId": "8",
+                    "main": true,
+                    "tags": [
+                      "PrimaryMarket",
+                      "SGP",
+                      "YourBetEligible",
+                      "Cashout",
+                      "FeaturedSubcategory"
+                    ]
+                  },
+                  {
+                    "providerOfferId": "1_74250794",
+                    "eventId": "30208520",
+                    "eventGroupId": "42133",
+                    "label": "Moneyline",
+                    "isSuspended": false,
+                    "isOpen": true,
+                    "offerSubcategoryId": 4525,
+                    "isSubcategoryFeatured": true,
+                    "betOfferTypeId": 2,
+                    "providerCriterionId": "1_1254",
+                    "outcomes": [
+                      {
+                        "providerOutcomeId": "0ML74250794_3",
+                        "providerId": 2,
+                        "providerOfferId": "1_74250794",
+                        "label": "NJ Devils",
+                        "oddsAmerican": "-245",
+                        "oddsDecimal": 1.40816327,
+                        "oddsDecimalDisplay": "1.40",
+                        "oddsFractional": "20/49",
+                        "participant": "NJ Devils",
+                        "participantType": "Team",
+                        "main": true,
+                        "sortOrder": 1168102196,
+                        "tags": ["SGP"],
+                        "participants": [
+                          { "id": "35748", "name": "NJ Devils", "type": "Team" }
+                        ]
+                      },
+                      {
+                        "providerOutcomeId": "0ML74250794_1",
+                        "providerId": 2,
+                        "providerOfferId": "1_74250794",
+                        "label": "ANA Ducks",
+                        "oddsAmerican": "\u002B200",
+                        "oddsDecimal": 3,
+                        "oddsDecimalDisplay": "3.00",
+                        "oddsFractional": "2/1",
+                        "participant": "ANA Ducks",
+                        "participantType": "Team",
+                        "main": true,
+                        "sortOrder": 1168104194,
+                        "tags": ["SGP"],
+                        "participants": [
+                          { "id": "35695", "name": "ANA Ducks", "type": "Team" }
+                        ]
+                      }
+                    ],
+                    "offerSequence": 0,
+                    "source": "5",
+                    "displayGroupId": "8",
+                    "main": true,
+                    "tags": [
+                      "PrimaryMarket",
+                      "SGP",
+                      "YourBetEligible",
+                      "Cashout",
+                      "FeaturedSubcategory"
+                    ]
+                  }
+                ]
+              ]
+            },
+            "tags": ["SGP"]
+          },
+          { "subcategoryId": 4999, "name": "60 Min Line" },
+          { "subcategoryId": 6353, "name": "Tie No Bet" },
+          { "subcategoryId": 13192, "name": "Alt Total" },
+          { "subcategoryId": 13189, "name": "Alt Puck Line" }
+        ],
+        "tags": ["SGP"]
+      },
+      { "offerCategoryId": 1259, "name": "Quick Hits" },
+      { "offerCategoryId": 1190, "name": "Goalscorer" },
+      { "offerCategoryId": 1160, "name": "Season Specials" },
+      { "offerCategoryId": 548, "name": "Periods", "tags": ["SGP"] },
+      { "offerCategoryId": 549, "name": "Game Props", "tags": ["SGP"] },
+      { "offerCategoryId": 547, "name": "Game Props (60 Min)" },
+      { "offerCategoryId": 1193, "name": "Team Totals", "tags": ["SGP"] },
+      { "offerCategoryId": 554, "name": "Game Parlays" },
+      { "offerCategoryId": 552, "name": "Team Futures" },
+      { "offerCategoryId": 592, "name": "Awards" }
+    ],
+    "events": [
+      {
+        "eventId": "30202573",
+        "displayGroupId": "8",
+        "eventGroupId": "42133",
+        "eventGroupName": "NHL",
+        "name": "COL Avalanche @ CHI Blackhawks",
+        "nameIdentifier": "COL Avalanche @ CHI Blackhawks",
+        "startDate": "2024-03-01T02:08:00.0000000Z",
+        "teamName1": "COL Avalanche",
+        "teamName2": "CHI Blackhawks",
+        "teamShortName1": "COL",
+        "teamShortName2": "CHI",
+        "team1": {
+          "teamId": 35718,
+          "name": "COL Avalanche",
+          "shortName": "COL"
+        },
+        "team2": {
+          "teamId": 35715,
+          "name": "CHI Blackhawks",
+          "shortName": "CHI"
+        },
+        "eventStatus": {
+          "state": "STARTED",
+          "isClockDisabled": false,
+          "period": "3rd Period",
+          "minute": 17,
+          "second": 26,
+          "isClockRunning": true,
+          "homeTeamScore": "4",
+          "awayTeamScore": "0"
+        },
+        "eventScorecard": {
+          "mainScorecard": {
+            "intervalName": "T",
+            "intervalNumber": 2147483647,
+            "firstTeamScore": "4",
+            "secondTeamScore": "0"
+          },
+          "scoreCards": [
+            {
+              "intervalName": "P1",
+              "intervalNumber": 1,
+              "firstTeamScore": "1",
+              "secondTeamScore": "0"
+            },
+            {
+              "intervalName": "P2",
+              "intervalNumber": 2,
+              "firstTeamScore": "3",
+              "secondTeamScore": "0"
+            },
+            {
+              "intervalName": "P3",
+              "intervalNumber": 3,
+              "firstTeamScore": "0",
+              "secondTeamScore": "0"
+            },
+            {
+              "intervalName": "T",
+              "intervalNumber": 2147483647,
+              "firstTeamScore": "4",
+              "secondTeamScore": "0"
+            }
+          ],
+          "scorecardComponentId": 1
+        },
+        "mediaList": [
+          {
+            "mediaProviderName": "BetRadarStats",
+            "mediaId": "41972815",
+            "mediaTypeName": "Stats",
+            "metadata": {},
+            "updatedAt": "2024-03-01T04:01:31.9552461Z"
+          },
+          {
+            "mediaProviderName": "BetRadarV3",
+            "mediaId": "41972815",
+            "mediaTypeName": "MatchTracker",
+            "metadata": { "betRadarCoverage": "3" },
+            "updatedAt": "2024-03-01T04:01:31.9552461Z"
+          },
+          {
+            "mediaProviderName": "BetRadarV3",
+            "mediaId": "41972815",
+            "mediaTypeName": "Scoreboard",
+            "metadata": { "betRadarCoverage": "3" },
+            "updatedAt": "2024-03-01T04:01:31.9552461Z"
+          }
+        ],
+        "liveBettingOffered": false,
+        "liveBettingEnabled": false,
+        "tags": ["FeaturedSubcategory", "MatchTracker", "Scoreboard", "Stats"],
+        "flashBetOfferCount": 0,
+        "eventMetadata": {
+          "participantMetadata": {},
+          "mediaMetadata": {
+            "BetRadarStats_Stats": {},
+            "BetRadarV3_MatchTracker": {},
+            "BetRadarV3_Scoreboard": {}
+          }
+        }
+      },
+      {
+        "eventId": "30202576",
+        "displayGroupId": "8",
+        "eventGroupId": "42133",
+        "eventGroupName": "NHL",
+        "name": "LA Kings @ VAN Canucks",
+        "nameIdentifier": "LA Kings @ VAN Canucks",
+        "startDate": "2024-03-01T03:08:06.0000000Z",
+        "teamName1": "LA Kings",
+        "teamName2": "VAN Canucks",
+        "teamShortName1": "LA",
+        "teamShortName2": "VAN",
+        "team1": { "teamId": 35736, "name": "LA Kings", "shortName": "LA" },
+        "team2": { "teamId": 35789, "name": "VAN Canucks", "shortName": "VAN" },
+        "eventStatus": {
+          "state": "STARTED",
+          "isClockDisabled": false,
+          "period": "2nd Period",
+          "minute": 19,
+          "second": 38,
+          "isClockRunning": false,
+          "homeTeamScore": "1",
+          "awayTeamScore": "0"
+        },
+        "eventScorecard": {
+          "mainScorecard": {
+            "intervalName": "T",
+            "intervalNumber": 2147483647,
+            "firstTeamScore": "1",
+            "secondTeamScore": "0"
+          },
+          "scoreCards": [
+            {
+              "intervalName": "P1",
+              "intervalNumber": 1,
+              "firstTeamScore": "1",
+              "secondTeamScore": "0"
+            },
+            {
+              "intervalName": "P2",
+              "intervalNumber": 2,
+              "firstTeamScore": "0",
+              "secondTeamScore": "0"
+            },
+            {
+              "intervalName": "P3",
+              "intervalNumber": 3,
+              "firstTeamScore": "",
+              "secondTeamScore": ""
+            },
+            {
+              "intervalName": "T",
+              "intervalNumber": 2147483647,
+              "firstTeamScore": "1",
+              "secondTeamScore": "0"
+            }
+          ],
+          "scorecardComponentId": 1
+        },
+        "mediaList": [
+          {
+            "mediaProviderName": "BetRadarStats",
+            "mediaId": "41972819",
+            "mediaTypeName": "Stats",
+            "metadata": {},
+            "updatedAt": "2024-03-01T04:01:34.0823369Z"
+          },
+          {
+            "mediaProviderName": "BetRadarV3",
+            "mediaId": "41972819",
+            "mediaTypeName": "MatchTracker",
+            "metadata": { "betRadarCoverage": "3" },
+            "updatedAt": "2024-03-01T04:01:34.0823369Z"
+          },
+          {
+            "mediaProviderName": "BetRadarV3",
+            "mediaId": "41972819",
+            "mediaTypeName": "Scoreboard",
+            "metadata": { "betRadarCoverage": "3" },
+            "updatedAt": "2024-03-01T04:01:34.0823369Z"
+          },
+          {
+            "mediaProviderName": "BetRadarV3",
+            "mediaId": "av:stream:14064907",
+            "mediaTypeName": "LiveStreaming",
+            "metadata": {},
+            "updatedAt": "2024-03-01T04:01:34.0823369Z"
+          }
+        ],
+        "liveBettingOffered": false,
+        "liveBettingEnabled": false,
+        "tags": [
+          "FeaturedSubcategory",
+          "LiveStreaming",
+          "MatchTracker",
+          "Scoreboard",
+          "Stats"
+        ],
+        "flashBetOfferCount": 0,
+        "eventMetadata": {
+          "participantMetadata": {},
+          "mediaMetadata": {
+            "BetRadarStats_Stats": {},
+            "BetRadarV3_MatchTracker": {},
+            "BetRadarV3_Scoreboard": {},
+            "BetRadarV3_LiveStreaming": {}
+          }
+        }
+      },
+      {
+        "eventId": "30202574",
+        "displayGroupId": "8",
+        "eventGroupId": "42133",
+        "eventGroupName": "NHL",
+        "name": "PIT Penguins @ SEA Kraken",
+        "nameIdentifier": "PIT Penguins @ SEA Kraken",
+        "startDate": "2024-03-01T03:08:52.0000000Z",
+        "teamName1": "PIT Penguins",
+        "teamName2": "SEA Kraken",
+        "teamShortName1": "PIT",
+        "teamShortName2": "SEA",
+        "team1": {
+          "teamId": 35775,
+          "name": "PIT Penguins",
+          "shortName": "PIT"
+        },
+        "team2": { "teamId": 583254, "name": "SEA Kraken", "shortName": "SEA" },
+        "eventStatus": {
+          "state": "STARTED",
+          "isClockDisabled": false,
+          "period": "2nd Period",
+          "minute": 19,
+          "second": 51,
+          "isClockRunning": true,
+          "homeTeamScore": "0",
+          "awayTeamScore": "1"
+        },
+        "eventScorecard": {
+          "mainScorecard": {
+            "intervalName": "T",
+            "intervalNumber": 2147483647,
+            "firstTeamScore": "0",
+            "secondTeamScore": "1"
+          },
+          "scoreCards": [
+            {
+              "intervalName": "P1",
+              "intervalNumber": 1,
+              "firstTeamScore": "0",
+              "secondTeamScore": "1"
+            },
+            {
+              "intervalName": "P2",
+              "intervalNumber": 2,
+              "firstTeamScore": "0",
+              "secondTeamScore": "0"
+            },
+            {
+              "intervalName": "P3",
+              "intervalNumber": 3,
+              "firstTeamScore": "",
+              "secondTeamScore": ""
+            },
+            {
+              "intervalName": "T",
+              "intervalNumber": 2147483647,
+              "firstTeamScore": "0",
+              "secondTeamScore": "1"
+            }
+          ],
+          "scorecardComponentId": 1
+        },
+        "mediaList": [
+          {
+            "mediaProviderName": "BetRadarStats",
+            "mediaId": "41972817",
+            "mediaTypeName": "Stats",
+            "metadata": {},
+            "updatedAt": "2024-03-01T04:01:27.5772130Z"
+          },
+          {
+            "mediaProviderName": "BetRadarV3",
+            "mediaId": "41972817",
+            "mediaTypeName": "MatchTracker",
+            "metadata": { "betRadarCoverage": "3" },
+            "updatedAt": "2024-03-01T04:01:27.5772130Z"
+          },
+          {
+            "mediaProviderName": "BetRadarV3",
+            "mediaId": "41972817",
+            "mediaTypeName": "Scoreboard",
+            "metadata": { "betRadarCoverage": "3" },
+            "updatedAt": "2024-03-01T04:01:27.5772130Z"
+          }
+        ],
+        "liveBettingOffered": false,
+        "liveBettingEnabled": false,
+        "tags": ["FeaturedSubcategory", "MatchTracker", "Scoreboard", "Stats"],
+        "flashBetOfferCount": 0,
+        "eventMetadata": {
+          "participantMetadata": {},
+          "mediaMetadata": {
+            "BetRadarStats_Stats": {},
+            "BetRadarV3_MatchTracker": {},
+            "BetRadarV3_Scoreboard": {}
+          }
+        }
+      },
+      {
+        "eventId": "30202577",
+        "displayGroupId": "8",
+        "eventGroupId": "42133",
+        "eventGroupName": "NHL",
+        "name": "ANA Ducks @ SJ Sharks",
+        "nameIdentifier": "ANA Ducks @ SJ Sharks",
+        "startDate": "2024-03-01T03:38:49.0000000Z",
+        "teamName1": "ANA Ducks",
+        "teamName2": "SJ Sharks",
+        "teamShortName1": "ANA",
+        "teamShortName2": "SJ",
+        "team1": { "teamId": 35695, "name": "ANA Ducks", "shortName": "ANA" },
+        "team2": { "teamId": 35778, "name": "SJ Sharks", "shortName": "SJ" },
+        "eventStatus": {
+          "state": "STARTED",
+          "isClockDisabled": false,
+          "period": "1st Period",
+          "minute": 9,
+          "second": 20,
+          "isClockRunning": true,
+          "homeTeamScore": "2",
+          "awayTeamScore": "1"
+        },
+        "eventScorecard": {
+          "mainScorecard": {
+            "intervalName": "T",
+            "intervalNumber": 2147483647,
+            "firstTeamScore": "2",
+            "secondTeamScore": "1"
+          },
+          "scoreCards": [
+            {
+              "intervalName": "P1",
+              "intervalNumber": 1,
+              "firstTeamScore": "2",
+              "secondTeamScore": "1"
+            },
+            {
+              "intervalName": "P2",
+              "intervalNumber": 2,
+              "firstTeamScore": "",
+              "secondTeamScore": ""
+            },
+            {
+              "intervalName": "P3",
+              "intervalNumber": 3,
+              "firstTeamScore": "",
+              "secondTeamScore": ""
+            },
+            {
+              "intervalName": "T",
+              "intervalNumber": 2147483647,
+              "firstTeamScore": "2",
+              "secondTeamScore": "1"
+            }
+          ],
+          "scorecardComponentId": 1
+        },
+        "mediaList": [
+          {
+            "mediaProviderName": "BetRadarStats",
+            "mediaId": "41972821",
+            "mediaTypeName": "Stats",
+            "metadata": {},
+            "updatedAt": "2024-03-01T04:01:39.7958816Z"
+          },
+          {
+            "mediaProviderName": "BetRadarV3",
+            "mediaId": "41972821",
+            "mediaTypeName": "MatchTracker",
+            "metadata": { "betRadarCoverage": "3" },
+            "updatedAt": "2024-03-01T04:01:39.7958816Z"
+          },
+          {
+            "mediaProviderName": "BetRadarV3",
+            "mediaId": "41972821",
+            "mediaTypeName": "Scoreboard",
+            "metadata": { "betRadarCoverage": "3" },
+            "updatedAt": "2024-03-01T04:01:39.7958816Z"
+          },
+          {
+            "mediaProviderName": "BetRadarV3",
+            "mediaId": "av:stream:14065661",
+            "mediaTypeName": "LiveStreaming",
+            "metadata": {},
+            "updatedAt": "2024-03-01T04:01:39.7958816Z"
+          }
+        ],
+        "liveBettingOffered": false,
+        "liveBettingEnabled": false,
+        "tags": [
+          "FeaturedSubcategory",
+          "LiveStreaming",
+          "MatchTracker",
+          "Scoreboard",
+          "Stats"
+        ],
+        "flashBetOfferCount": 0,
+        "eventMetadata": {
+          "participantMetadata": {},
+          "mediaMetadata": {
+            "BetRadarStats_Stats": {},
+            "BetRadarV3_MatchTracker": {},
+            "BetRadarV3_Scoreboard": {},
+            "BetRadarV3_LiveStreaming": {}
+          }
+        }
+      },
+      {
+        "eventId": "30208518",
+        "displayGroupId": "8",
+        "eventGroupId": "42133",
+        "eventGroupName": "NHL",
+        "name": "PHI Flyers @ WAS Capitals",
+        "nameIdentifier": "PHI Flyers @ WAS Capitals",
+        "startDate": "2024-03-02T00:07:00.0000000Z",
+        "teamName1": "PHI Flyers",
+        "teamName2": "WAS Capitals",
+        "teamShortName1": "PHI",
+        "teamShortName2": "WAS",
+        "team1": { "teamId": 35773, "name": "PHI Flyers", "shortName": "PHI" },
+        "team2": {
+          "teamId": 35795,
+          "name": "WAS Capitals",
+          "shortName": "WAS"
+        },
+        "eventStatus": {
+          "state": "NOT_STARTED",
+          "isClockDisabled": false,
+          "minute": 0,
+          "second": 0,
+          "isClockRunning": false
+        },
+        "eventScorecard": { "scorecardComponentId": 1 },
+        "mediaList": [
+          {
+            "mediaProviderName": "BetRadarStats",
+            "mediaId": "41972825",
+            "mediaTypeName": "Stats",
+            "metadata": {},
+            "updatedAt": "2024-02-29T23:13:17.1799905Z"
+          },
+          {
+            "mediaProviderName": "BetRadarV3",
+            "mediaId": "41972825",
+            "mediaTypeName": "MatchTracker",
+            "metadata": { "betRadarCoverage": "3" },
+            "updatedAt": "2024-02-29T23:13:17.1799905Z"
+          },
+          {
+            "mediaProviderName": "BetRadarV3",
+            "mediaId": "41972825",
+            "mediaTypeName": "Scoreboard",
+            "metadata": { "betRadarCoverage": "3" },
+            "updatedAt": "2024-02-29T23:13:17.1799905Z"
+          }
+        ],
+        "liveBettingOffered": false,
+        "liveBettingEnabled": false,
+        "tags": [
+          "FeaturedSubcategory",
+          "MatchTracker",
+          "PrePack",
+          "SGP",
+          "Scoreboard",
+          "SgpDynamicOdds",
+          "Stats",
+          "YourBetEligible"
+        ],
+        "flashBetOfferCount": 0,
+        "eventMetadata": {
+          "participantMetadata": {},
+          "mediaMetadata": {
+            "BetRadarStats_Stats": {},
+            "BetRadarV3_MatchTracker": {},
+            "BetRadarV3_Scoreboard": {}
+          }
+        }
+      },
+      {
+        "eventId": "30208517",
+        "displayGroupId": "8",
+        "eventGroupId": "42133",
+        "eventGroupName": "NHL",
+        "name": "ARI Coyotes @ OTT Senators",
+        "nameIdentifier": "ARI Coyotes @ OTT Senators",
+        "startDate": "2024-03-02T00:07:00.0000000Z",
+        "teamName1": "ARI Coyotes",
+        "teamName2": "OTT Senators",
+        "teamShortName1": "ARI",
+        "teamShortName2": "OTT",
+        "team1": { "teamId": 35699, "name": "ARI Coyotes", "shortName": "ARI" },
+        "team2": {
+          "teamId": 35768,
+          "name": "OTT Senators",
+          "shortName": "OTT"
+        },
+        "eventStatus": {
+          "state": "NOT_STARTED",
+          "isClockDisabled": false,
+          "minute": 0,
+          "second": 0,
+          "isClockRunning": false
+        },
+        "eventScorecard": { "scorecardComponentId": 1 },
+        "mediaList": [
+          {
+            "mediaProviderName": "BetRadarStats",
+            "mediaId": "41972823",
+            "mediaTypeName": "Stats",
+            "metadata": {},
+            "updatedAt": "2024-02-29T23:21:59.1947840Z"
+          },
+          {
+            "mediaProviderName": "BetRadarV3",
+            "mediaId": "41972823",
+            "mediaTypeName": "MatchTracker",
+            "metadata": { "betRadarCoverage": "3" },
+            "updatedAt": "2024-02-29T23:21:59.1947840Z"
+          },
+          {
+            "mediaProviderName": "BetRadarV3",
+            "mediaId": "41972823",
+            "mediaTypeName": "Scoreboard",
+            "metadata": { "betRadarCoverage": "3" },
+            "updatedAt": "2024-02-29T23:21:59.1947840Z"
+          }
+        ],
+        "liveBettingOffered": false,
+        "liveBettingEnabled": false,
+        "tags": [
+          "FeaturedSubcategory",
+          "MatchTracker",
+          "PrePack",
+          "SGP",
+          "Scoreboard",
+          "SgpDynamicOdds",
+          "Stats",
+          "YourBetEligible"
+        ],
+        "flashBetOfferCount": 0,
+        "eventMetadata": {
+          "participantMetadata": {},
+          "mediaMetadata": {
+            "BetRadarStats_Stats": {},
+            "BetRadarV3_MatchTracker": {},
+            "BetRadarV3_Scoreboard": {}
+          }
+        }
+      },
+      {
+        "eventId": "30208520",
+        "displayGroupId": "8",
+        "eventGroupId": "42133",
+        "eventGroupName": "NHL",
+        "name": "NJ Devils @ ANA Ducks",
+        "nameIdentifier": "NJ Devils @ ANA Ducks",
+        "startDate": "2024-03-02T03:07:00.0000000Z",
+        "teamName1": "NJ Devils",
+        "teamName2": "ANA Ducks",
+        "teamShortName1": "NJ",
+        "teamShortName2": "ANA",
+        "team1": { "teamId": 35748, "name": "NJ Devils", "shortName": "NJ" },
+        "team2": { "teamId": 35695, "name": "ANA Ducks", "shortName": "ANA" },
+        "eventStatus": {
+          "state": "NOT_STARTED",
+          "isClockDisabled": false,
+          "minute": 0,
+          "second": 0,
+          "isClockRunning": false
+        },
+        "eventScorecard": { "scorecardComponentId": 1 },
+        "mediaList": [
+          {
+            "mediaProviderName": "BetRadarStats",
+            "mediaId": "41972827",
+            "mediaTypeName": "Stats",
+            "metadata": {},
+            "updatedAt": "2024-02-29T23:22:53.1955654Z"
+          },
+          {
+            "mediaProviderName": "BetRadarV3",
+            "mediaId": "41972827",
+            "mediaTypeName": "MatchTracker",
+            "metadata": { "betRadarCoverage": "3" },
+            "updatedAt": "2024-02-29T23:22:53.1955654Z"
+          },
+          {
+            "mediaProviderName": "BetRadarV3",
+            "mediaId": "41972827",
+            "mediaTypeName": "Scoreboard",
+            "metadata": { "betRadarCoverage": "3" },
+            "updatedAt": "2024-02-29T23:22:53.1955654Z"
+          }
+        ],
+        "liveBettingOffered": false,
+        "liveBettingEnabled": false,
+        "tags": [
+          "FeaturedSubcategory",
+          "MatchTracker",
+          "PrePack",
+          "SGP",
+          "Scoreboard",
+          "SgpDynamicOdds",
+          "Stats",
+          "YourBetEligible"
+        ],
+        "flashBetOfferCount": 0,
+        "eventMetadata": {
+          "participantMetadata": {},
+          "mediaMetadata": {
+            "BetRadarStats_Stats": {},
+            "BetRadarV3_MatchTracker": {},
+            "BetRadarV3_Scoreboard": {}
+          }
+        }
+      }
+    ],
+    "tags": [
+      "FeaturedSubcategory",
+      "MatchTracker",
+      "PrePack",
+      "SGP",
+      "Scoreboard",
+      "SgpDynamicOdds",
+      "Stats",
+      "YourBetEligible",
+      "LiveStreaming"
+    ],
+    "nameIdentifier": "NHL"
+  }
+}

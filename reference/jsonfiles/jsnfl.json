@@ -1,0 +1,155 @@
+{
+            "id": "4b153063-e3d8-4869-0b6f-08dc3d01c9ea",
+            "seoIdentifier": "C.J. Stroud 2024/25",
+            "sportId": "3",
+            "leagueId": "88808",
+            "name": "C.J. Stroud 2024/25",
+            "startEventDate": "2024-09-05T23:00:00.0000000Z",
+            "participants": [
+                {
+                    "name": "CJ Stroud",
+                    "type": "Team"
+                },
+                {
+                    "name": "C.J. Stroud",
+                    "type": "Team"
+                },
+                {
+                    "id": "18500",
+                    "name": "HOU Texans",
+                    "type": "Team",
+                    "metadata": {
+                        "rosettaTeamId": "18500",
+                        "shortName": "HOU"
+                    }
+                }
+            ],
+
+        {
+            "id": "0QA186797414#1762305285_13L88808Q11185832Q2-1",
+            "marketId": "186797414",
+            "label": "Under 4150.5",
+            "displayOdds": {
+                "american": "\u002B105",
+                "decimal": "2.05",
+                "fractional": "21/20"
+            },
+            "trueOdds": 2.05,
+            "outcomeType": "Under",
+            "participants": [
+                {
+                    "name": "Under 4150.5",
+                    "type": "Team"
+                }
+            ],
+            "sortOrder": 1002
+        },
+{
+            "id": "b29e57ff-3f4a-4285-f706-08dc89456e14",
+            "seoIdentifier": "Odell Beckham Jr. 2024/25",
+            "sportId": "3",
+            "leagueId": "88808",
+            "name": "Odell Beckham Jr. 2024/25",
+            "startEventDate": "2024-09-05T23:00:00.0000000Z",
+            "participants": [
+                {
+                    "name": "Odell Beckham Jr.",
+                    "type": "Team"
+                },
+                {
+                    "id": "18401",
+                    "name": "MIA Dolphins",
+                    "type": "Team",
+                    "metadata": {
+                        "rosettaTeamId": "18401",
+                        "shortName": "MIA"
+                    }
+                }
+            ],
+            "eventParticipantType": "",
+            "status": "NOT_STARTED",
+            "eventScorecard": {
+                "scorecardComponentId": 1
+            },
+            "metadata": {
+                "settlementDate": "2025-01-05T21:00:00Z"
+            },
+            "sortOrder": 546234001,
+            "subscriptionKey": "league-events-88808"
+        },
+
+{
+            "id": "0QA200473506#1814234464_13L88808Q11188181Q2-1",
+            "marketId": "200473506",
+            "label": "Under 400.5",
+            "displayOdds": {
+                "american": "\u002B105",
+                "decimal": "2.05",
+                "fractional": "21/20"
+            },
+            "trueOdds": 2.05,
+            "outcomeType": "Under",
+            "participants": [
+                {
+                    "name": "Under 400.5",
+                    "type": "Team"
+                }
+            ],
+            "sortOrder": 1002
+        },
+        {
+            "id": 7276,
+            "categoryId": 782,
+            "name": "Receiving Yards",
+            "componentId": 29,
+            "sortOrder": 7191,
+            "tags": []
+        },
+        {
+            "id": 7239,
+            "categoryId": 782,
+            "name": "Receiving TDs",
+            "componentId": 29,
+            "sortOrder": 7192,
+            "tags": []
+        },
+        {
+            "id": 13405,
+            "categoryId": 782,
+            "name": "Receptions",
+            "componentId": 12,
+            "sortOrder": 8407,
+            "tags": []
+        },
+        {
+            "id": 7200,
+            "categoryId": 782,
+            "name": "Passing Yards",
+            "componentId": 29,
+            "sortOrder": 7152,
+            "tags": []
+        },
+        {
+            "id": 14770,
+            "categoryId": 782,
+            "name": "Passing TDs",
+            "componentId": 29,
+            "sortOrder": 7155,
+            "tags": []
+        },
+        {
+            "id": 7277,
+            "categoryId": 782,
+            "name": "Rushing Yards",
+            "componentId": 29,
+            "sortOrder": 7193,
+            "tags": []
+        },
+        {
+            "id": 7694,
+            "categoryId": 782,
+            "name": "Rushing TDs",
+            "componentId": 29,
+            "sortOrder": 7193,
+            "tags": []
+        },
