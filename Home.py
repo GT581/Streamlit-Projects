@@ -22,7 +22,7 @@ st.markdown("""
 
 This Streamlit app is designed to showcase various Data Engineering and Data Science projects I created.
 
-Current and future projects will be mainly focused around applying my data and software engineering skill set toward my other interests of AI, Sports Analytics, and Financial Analysis.
+Current and future projects will be mainly focused around applying my data and software engineering skill set toward my interests of AI / ML, Sports Analytics, and Financial Analysis.
 
 Each page on this app hosts a different project, which can be accessed in the sidebar. Below are the summaries of each project deployed so far.
 
@@ -56,13 +56,6 @@ This is useful for understanding your data, calculating metrics, or even generat
 
 The PandasAI docs can be found here: https://docs.pandas-ai.com/en/latest/
 
-
-*Coming Soon:*
-- Add skills to the agent
-- Add opportunity for agent to ask clarification questions before execution
-- Agent can analyze multiple datasets in "DateLake" mode
-- Store dataframes from other projects on this app for use in this tool
-
 ---
 
 ## Fantasy Football Values
@@ -76,13 +69,6 @@ With this call, we also pull average draft position and projection data for each
 Calculations then add ranking values based on the ADP, projected points for a player's position, and projected points overall.
 
 This data can be searched and filtered through in the UI, or downloaded to a CSV.
-
-
-Some of the many ways I have used this to spot values, construct a strategy in drafts, and win championships is by:
-- Spotting players at later ADP's with similar or higher projections as players currently drafted rounds higher (who we also want to avoid)
-- Analyzing projection dropoffs by position and their ADP cost, to essentially "tier" players
-- Target rounds to prioritize certain positions and players vs others based on a combination of the above
-- Generally taking advantage of the "ESPN Rank" / display order in drafts relative to these metrics, that most will feel the need to follow
 
 ---
 
@@ -98,16 +84,9 @@ Both of the Sofascore and Draftkings APIs were essentially reversed engingeered 
 
 The API endpoints and parameters for the desired data on all sport / league / category levels were configured, in addition to mapping exercises between the two data sources on both the match and streak / bet level. 
 
-
-*Coming Soon:*
-- Hockey
-- Baseball
-- Tennis
-
-
 *Note: 
-This project originally started as a local web app, demonstrating my capabilities as a full stack software engineer, that will also be available on my GitHub.
-This involved a local postgres database with designed schemas, DDL and CDC scripts for each table and category, and FastAPI endpoints to connect to a React front end.
+This project originally started as a local web app, involving a local postgres database with designed schemas, DDL, and CDC scripts for each table and category, and FastAPI endpoints to connect to a React front end. 
+JSON files from API calls that were parsed and SQL files for ETL are available in the GitHub repo for reference.
 
 ---
 
