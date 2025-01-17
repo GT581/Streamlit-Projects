@@ -1,0 +1,2751 @@
+{
+  "eventGroup": {
+    "eventGroupId": "40030",
+    "displayGroupId": "1",
+    "name": "Italy - Serie A",
+    "offerCategories": [
+      {
+        "offerCategoryId": 490,
+        "name": "Game Lines",
+        "offerSubcategoryDescriptors": [
+          {
+            "subcategoryId": 4514,
+            "name": "Moneyline (Regular Time)",
+            "offerSubcategory": {
+              "name": "Moneyline (Regular Time)",
+              "subcategoryId": 4514,
+              "componentId": 11,
+              "offers": [
+                [
+                  {
+                    "providerOfferId": "1_74199439",
+                    "eventId": "30189380",
+                    "eventGroupId": "40030",
+                    "label": "Moneyline",
+                    "isSuspended": false,
+                    "isOpen": true,
+                    "offerSubcategoryId": 4514,
+                    "isSubcategoryFeatured": true,
+                    "betOfferTypeId": 2,
+                    "providerCriterionId": "1_0",
+                    "outcomes": [
+                      {
+                        "providerOutcomeId": "0ML74199439_1",
+                        "providerId": 2,
+                        "providerOfferId": "1_74199439",
+                        "label": "Napoli",
+                        "oddsAmerican": "-115",
+                        "oddsDecimal": 1.86956522,
+                        "oddsDecimalDisplay": "1.86",
+                        "oddsFractional": "20/23",
+                        "participant": "Napoli",
+                        "participantType": "Team",
+                        "sortOrder": 1166891859,
+                        "participants": [
+                          { "id": "87591", "name": "Napoli", "type": "Team" }
+                        ]
+                      },
+                      {
+                        "providerOutcomeId": "0ML74199439_2",
+                        "providerId": 2,
+                        "providerOfferId": "1_74199439",
+                        "label": "Draw",
+                        "oddsAmerican": "+230",
+                        "oddsDecimal": 3.3,
+                        "oddsDecimalDisplay": "3.30",
+                        "oddsFractional": "23/10",
+                        "participant": "",
+                        "participantType": "Unknown",
+                        "sortOrder": 1166892862
+                      },
+                      {
+                        "providerOutcomeId": "0ML74199439_3",
+                        "providerId": 2,
+                        "providerOfferId": "1_74199439",
+                        "label": "Torino",
+                        "oddsAmerican": "+310",
+                        "oddsDecimal": 4.1,
+                        "oddsDecimalDisplay": "4.10",
+                        "oddsFractional": "31/10",
+                        "participant": "Torino",
+                        "participantType": "Team",
+                        "sortOrder": 1166893863,
+                        "participants": [
+                          { "id": "85627", "name": "Torino", "type": "Team" }
+                        ]
+                      }
+                    ],
+                    "offerSequence": 0,
+                    "source": "5",
+                    "displayGroupId": "1",
+                    "main": true,
+                    "tags": [
+                      "PrimaryMarket",
+                      "Cashout",
+                      "FeaturedSubcategory",
+                      "Default"
+                    ]
+                  }
+                ],
+                [
+                  {
+                    "providerOfferId": "1_74199443",
+                    "eventId": "30189384",
+                    "eventGroupId": "40030",
+                    "label": "Moneyline",
+                    "isSuspended": false,
+                    "isOpen": true,
+                    "offerSubcategoryId": 4514,
+                    "isSubcategoryFeatured": true,
+                    "betOfferTypeId": 2,
+                    "providerCriterionId": "1_0",
+                    "outcomes": [
+                      {
+                        "providerOutcomeId": "0ML74199443_1",
+                        "providerId": 2,
+                        "providerOfferId": "1_74199443",
+                        "label": "Cagliari",
+                        "oddsAmerican": "-120",
+                        "oddsDecimal": 1.83333334,
+                        "oddsDecimalDisplay": "1.83",
+                        "oddsFractional": "5/6",
+                        "participant": "Cagliari",
+                        "participantType": "Team",
+                        "sortOrder": 1166891887,
+                        "participants": [
+                          { "id": "87341", "name": "Cagliari", "type": "Team" }
+                        ]
+                      },
+                      {
+                        "providerOutcomeId": "0ML74199443_2",
+                        "providerId": 2,
+                        "providerOfferId": "1_74199443",
+                        "label": "Draw",
+                        "oddsAmerican": "+245",
+                        "oddsDecimal": 3.45,
+                        "oddsDecimalDisplay": "3.45",
+                        "oddsFractional": "49/20",
+                        "participant": "",
+                        "participantType": "Unknown",
+                        "sortOrder": 1166892890
+                      },
+                      {
+                        "providerOutcomeId": "0ML74199443_3",
+                        "providerId": 2,
+                        "providerOfferId": "1_74199443",
+                        "label": "Salernitana",
+                        "oddsAmerican": "+300",
+                        "oddsDecimal": 4,
+                        "oddsDecimalDisplay": "4.00",
+                        "oddsFractional": "3/1",
+                        "participant": "Salernitana",
+                        "participantType": "Team",
+                        "sortOrder": 1166893891,
+                        "participants": [
+                          {
+                            "id": "87310",
+                            "name": "Salernitana",
+                            "type": "Team"
+                          }
+                        ]
+                      }
+                    ],
+                    "offerSequence": 0,
+                    "source": "5",
+                    "displayGroupId": "1",
+                    "main": true,
+                    "tags": [
+                      "PrimaryMarket",
+                      "Cashout",
+                      "FeaturedSubcategory",
+                      "Default"
+                    ]
+                  }
+                ],
+                [
+                  {
+                    "providerOfferId": "1_74199441",
+                    "eventId": "30189382",
+                    "eventGroupId": "40030",
+                    "label": "Moneyline",
+                    "isSuspended": false,
+                    "isOpen": true,
+                    "offerSubcategoryId": 4514,
+                    "isSubcategoryFeatured": true,
+                    "betOfferTypeId": 2,
+                    "providerCriterionId": "1_0",
+                    "outcomes": [
+                      {
+                        "providerOutcomeId": "0ML74199441_1",
+                        "providerId": 2,
+                        "providerOfferId": "1_74199441",
+                        "label": "Sassuolo",
+                        "oddsAmerican": "+115",
+                        "oddsDecimal": 2.15,
+                        "oddsDecimalDisplay": "2.15",
+                        "oddsFractional": "23/20",
+                        "participant": "Sassuolo",
+                        "participantType": "Team",
+                        "sortOrder": 1166891873,
+                        "participants": [
+                          { "id": "87378", "name": "Sassuolo", "type": "Team" }
+                        ]
+                      },
+                      {
+                        "providerOutcomeId": "0ML74199441_2",
+                        "providerId": 2,
+                        "providerOfferId": "1_74199441",
+                        "label": "Draw",
+                        "oddsAmerican": "+250",
+                        "oddsDecimal": 3.5,
+                        "oddsDecimalDisplay": "3.50",
+                        "oddsFractional": "5/2",
+                        "participant": "",
+                        "participantType": "Unknown",
+                        "sortOrder": 1166892876
+                      },
+                      {
+                        "providerOutcomeId": "0ML74199441_3",
+                        "providerId": 2,
+                        "providerOfferId": "1_74199441",
+                        "label": "Frosinone",
+                        "oddsAmerican": "+195",
+                        "oddsDecimal": 2.95,
+                        "oddsDecimalDisplay": "2.95",
+                        "oddsFractional": "39/20",
+                        "participant": "Frosinone",
+                        "participantType": "Team",
+                        "sortOrder": 1166893877,
+                        "participants": [
+                          { "id": "87275", "name": "Frosinone", "type": "Team" }
+                        ]
+                      }
+                    ],
+                    "offerSequence": 0,
+                    "source": "5",
+                    "displayGroupId": "1",
+                    "main": true,
+                    "tags": [
+                      "PrimaryMarket",
+                      "Cashout",
+                      "FeaturedSubcategory",
+                      "Default"
+                    ]
+                  }
+                ],
+                [
+                  {
+                    "providerOfferId": "1_74199445",
+                    "eventId": "30189386",
+                    "eventGroupId": "40030",
+                    "label": "Moneyline",
+                    "isSuspended": false,
+                    "isOpen": true,
+                    "offerSubcategoryId": 4514,
+                    "isSubcategoryFeatured": true,
+                    "betOfferTypeId": 2,
+                    "providerCriterionId": "1_0",
+                    "outcomes": [
+                      {
+                        "providerOutcomeId": "0ML74199445_1",
+                        "providerId": 2,
+                        "providerOfferId": "1_74199445",
+                        "label": "Bologna",
+                        "oddsAmerican": "+250",
+                        "oddsDecimal": 3.5,
+                        "oddsDecimalDisplay": "3.50",
+                        "oddsFractional": "5/2",
+                        "participant": "Bologna",
+                        "participantType": "Team",
+                        "sortOrder": 1166891894,
+                        "participants": [
+                          { "id": "87371", "name": "Bologna", "type": "Team" }
+                        ]
+                      },
+                      {
+                        "providerOutcomeId": "0ML74199445_2",
+                        "providerId": 2,
+                        "providerOfferId": "1_74199445",
+                        "label": "Draw",
+                        "oddsAmerican": "+225",
+                        "oddsDecimal": 3.25,
+                        "oddsDecimalDisplay": "3.25",
+                        "oddsFractional": "9/4",
+                        "participant": "",
+                        "participantType": "Unknown",
+                        "sortOrder": 1166892897
+                      },
+                      {
+                        "providerOutcomeId": "0ML74199445_3",
+                        "providerId": 2,
+                        "providerOfferId": "1_74199445",
+                        "label": "Inter Milan",
+                        "oddsAmerican": "+105",
+                        "oddsDecimal": 2.05,
+                        "oddsDecimalDisplay": "2.05",
+                        "oddsFractional": "21/20",
+                        "participant": "Inter Milan",
+                        "participantType": "Team",
+                        "sortOrder": 1166893898,
+                        "participants": [
+                          {
+                            "id": "84084",
+                            "name": "Inter Milan",
+                            "type": "Team"
+                          }
+                        ]
+                      }
+                    ],
+                    "offerSequence": 0,
+                    "source": "5",
+                    "displayGroupId": "1",
+                    "main": true,
+                    "tags": [
+                      "PrimaryMarket",
+                      "Cashout",
+                      "FeaturedSubcategory",
+                      "Default"
+                    ]
+                  }
+                ],
+                [
+                  {
+                    "providerOfferId": "1_74199446",
+                    "eventId": "30189387",
+                    "eventGroupId": "40030",
+                    "label": "Moneyline",
+                    "isSuspended": false,
+                    "isOpen": true,
+                    "offerSubcategoryId": 4514,
+                    "isSubcategoryFeatured": true,
+                    "betOfferTypeId": 2,
+                    "providerCriterionId": "1_0",
+                    "outcomes": [
+                      {
+                        "providerOutcomeId": "0ML74199446_1",
+                        "providerId": 2,
+                        "providerOfferId": "1_74199446",
+                        "label": "Genoa",
+                        "oddsAmerican": "+115",
+                        "oddsDecimal": 2.15,
+                        "oddsDecimalDisplay": "2.15",
+                        "oddsFractional": "23/20",
+                        "participant": "Genoa",
+                        "participantType": "Team",
+                        "sortOrder": 1166891908,
+                        "participants": [
+                          { "id": "87331", "name": "Genoa", "type": "Team" }
+                        ]
+                      },
+                      {
+                        "providerOutcomeId": "0ML74199446_2",
+                        "providerId": 2,
+                        "providerOfferId": "1_74199446",
+                        "label": "Draw",
+                        "oddsAmerican": "+195",
+                        "oddsDecimal": 2.95,
+                        "oddsDecimalDisplay": "2.95",
+                        "oddsFractional": "39/20",
+                        "participant": "",
+                        "participantType": "Unknown",
+                        "sortOrder": 1166892911
+                      },
+                      {
+                        "providerOutcomeId": "0ML74199446_3",
+                        "providerId": 2,
+                        "providerOfferId": "1_74199446",
+                        "label": "Monza Brianza",
+                        "oddsAmerican": "+255",
+                        "oddsDecimal": 3.55,
+                        "oddsDecimalDisplay": "3.55",
+                        "oddsFractional": "51/20",
+                        "participant": "Monza Brianza",
+                        "participantType": "Team",
+                        "sortOrder": 1166893912,
+                        "participants": [
+                          {
+                            "id": "87164",
+                            "name": "Monza Brianza",
+                            "type": "Team"
+                          }
+                        ]
+                      }
+                    ],
+                    "offerSequence": 0,
+                    "source": "5",
+                    "displayGroupId": "1",
+                    "main": true,
+                    "tags": [
+                      "PrimaryMarket",
+                      "Cashout",
+                      "FeaturedSubcategory",
+                      "Default"
+                    ]
+                  }
+                ],
+                [
+                  {
+                    "providerOfferId": "1_74199440",
+                    "eventId": "30189381",
+                    "eventGroupId": "40030",
+                    "label": "Moneyline",
+                    "isSuspended": false,
+                    "isOpen": true,
+                    "offerSubcategoryId": 4514,
+                    "isSubcategoryFeatured": true,
+                    "betOfferTypeId": 2,
+                    "providerCriterionId": "1_0",
+                    "outcomes": [
+                      {
+                        "providerOutcomeId": "0ML74199440_1",
+                        "providerId": 2,
+                        "providerOfferId": "1_74199440",
+                        "label": "Lecce",
+                        "oddsAmerican": "+120",
+                        "oddsDecimal": 2.2,
+                        "oddsDecimalDisplay": "2.20",
+                        "oddsFractional": "6/5",
+                        "participant": "Lecce",
+                        "participantType": "Team",
+                        "sortOrder": 1166891866,
+                        "participants": [
+                          { "id": "87362", "name": "Lecce", "type": "Team" }
+                        ]
+                      },
+                      {
+                        "providerOutcomeId": "0ML74199440_2",
+                        "providerId": 2,
+                        "providerOfferId": "1_74199440",
+                        "label": "Draw",
+                        "oddsAmerican": "+210",
+                        "oddsDecimal": 3.1,
+                        "oddsDecimalDisplay": "3.10",
+                        "oddsFractional": "21/10",
+                        "participant": "",
+                        "participantType": "Unknown",
+                        "sortOrder": 1166892869
+                      },
+                      {
+                        "providerOutcomeId": "0ML74199440_3",
+                        "providerId": 2,
+                        "providerOfferId": "1_74199440",
+                        "label": "Verona",
+                        "oddsAmerican": "+225",
+                        "oddsDecimal": 3.25,
+                        "oddsDecimalDisplay": "3.25",
+                        "oddsFractional": "9/4",
+                        "participant": "Verona",
+                        "participantType": "Team",
+                        "sortOrder": 1166893870,
+                        "participants": [
+                          { "id": "87386", "name": "Verona", "type": "Team" }
+                        ]
+                      }
+                    ],
+                    "offerSequence": 0,
+                    "source": "5",
+                    "displayGroupId": "1",
+                    "main": true,
+                    "tags": [
+                      "PrimaryMarket",
+                      "Cashout",
+                      "FeaturedSubcategory",
+                      "Default"
+                    ]
+                  }
+                ],
+                [
+                  {
+                    "providerOfferId": "1_74199444",
+                    "eventId": "30189385",
+                    "eventGroupId": "40030",
+                    "label": "Moneyline",
+                    "isSuspended": false,
+                    "isOpen": true,
+                    "offerSubcategoryId": 4514,
+                    "isSubcategoryFeatured": true,
+                    "betOfferTypeId": 2,
+                    "providerCriterionId": "1_0",
+                    "outcomes": [
+                      {
+                        "providerOutcomeId": "0ML74199444_1",
+                        "providerId": 2,
+                        "providerOfferId": "1_74199444",
+                        "label": "AC Milan",
+                        "oddsAmerican": "-255",
+                        "oddsDecimal": 1.39215687,
+                        "oddsDecimalDisplay": "1.39",
+                        "oddsFractional": "20/51",
+                        "participant": "AC Milan",
+                        "participantType": "Team",
+                        "sortOrder": 1166891901,
+                        "participants": [
+                          { "id": "84090", "name": "AC Milan", "type": "Team" }
+                        ]
+                      },
+                      {
+                        "providerOutcomeId": "0ML74199444_2",
+                        "providerId": 2,
+                        "providerOfferId": "1_74199444",
+                        "label": "Draw",
+                        "oddsAmerican": "+360",
+                        "oddsDecimal": 4.6,
+                        "oddsDecimalDisplay": "4.60",
+                        "oddsFractional": "18/5",
+                        "participant": "",
+                        "participantType": "Unknown",
+                        "sortOrder": 1166892904
+                      },
+                      {
+                        "providerOutcomeId": "0ML74199444_3",
+                        "providerId": 2,
+                        "providerOfferId": "1_74199444",
+                        "label": "Empoli",
+                        "oddsAmerican": "+550",
+                        "oddsDecimal": 6.5,
+                        "oddsDecimalDisplay": "6.50",
+                        "oddsFractional": "11/2",
+                        "participant": "Empoli",
+                        "participantType": "Team",
+                        "sortOrder": 1166893905,
+                        "participants": [
+                          { "id": "87272", "name": "Empoli", "type": "Team" }
+                        ]
+                      }
+                    ],
+                    "offerSequence": 0,
+                    "source": "5",
+                    "displayGroupId": "1",
+                    "main": true,
+                    "tags": [
+                      "PrimaryMarket",
+                      "Cashout",
+                      "FeaturedSubcategory",
+                      "Default"
+                    ]
+                  }
+                ],
+                [
+                  {
+                    "providerOfferId": "1_74199442",
+                    "eventId": "30189383",
+                    "eventGroupId": "40030",
+                    "label": "Moneyline",
+                    "isSuspended": false,
+                    "isOpen": true,
+                    "offerSubcategoryId": 4514,
+                    "isSubcategoryFeatured": true,
+                    "betOfferTypeId": 2,
+                    "providerCriterionId": "1_0",
+                    "outcomes": [
+                      {
+                        "providerOutcomeId": "0ML74199442_1",
+                        "providerId": 2,
+                        "providerOfferId": "1_74199442",
+                        "label": "Juventus",
+                        "oddsAmerican": "+110",
+                        "oddsDecimal": 2.1,
+                        "oddsDecimalDisplay": "2.10",
+                        "oddsFractional": "11/10",
+                        "participant": "Juventus",
+                        "participantType": "Team",
+                        "sortOrder": 1166891880,
+                        "participants": [
+                          { "id": "84088", "name": "Juventus", "type": "Team" }
+                        ]
+                      },
+                      {
+                        "providerOutcomeId": "0ML74199442_2",
+                        "providerId": 2,
+                        "providerOfferId": "1_74199442",
+                        "label": "Draw",
+                        "oddsAmerican": "+220",
+                        "oddsDecimal": 3.2,
+                        "oddsDecimalDisplay": "3.20",
+                        "oddsFractional": "11/5",
+                        "participant": "",
+                        "participantType": "Unknown",
+                        "sortOrder": 1166892883
+                      },
+                      {
+                        "providerOutcomeId": "0ML74199442_3",
+                        "providerId": 2,
+                        "providerOfferId": "1_74199442",
+                        "label": "Atalanta",
+                        "oddsAmerican": "+235",
+                        "oddsDecimal": 3.35,
+                        "oddsDecimalDisplay": "3.35",
+                        "oddsFractional": "47/20",
+                        "participant": "Atalanta",
+                        "participantType": "Team",
+                        "sortOrder": 1166893884,
+                        "participants": [
+                          { "id": "87597", "name": "Atalanta", "type": "Team" }
+                        ]
+                      }
+                    ],
+                    "offerSequence": 0,
+                    "source": "5",
+                    "displayGroupId": "1",
+                    "main": true,
+                    "tags": [
+                      "PrimaryMarket",
+                      "Cashout",
+                      "FeaturedSubcategory",
+                      "Default"
+                    ]
+                  }
+                ],
+                [
+                  {
+                    "providerOfferId": "1_74199700",
+                    "eventId": "30189463",
+                    "eventGroupId": "40030",
+                    "label": "Moneyline",
+                    "isSuspended": false,
+                    "isOpen": true,
+                    "offerSubcategoryId": 4514,
+                    "isSubcategoryFeatured": true,
+                    "betOfferTypeId": 2,
+                    "providerCriterionId": "1_0",
+                    "outcomes": [
+                      {
+                        "providerOutcomeId": "0ML74199700_1",
+                        "providerId": 2,
+                        "providerOfferId": "1_74199700",
+                        "label": "Fiorentina",
+                        "oddsAmerican": "+140",
+                        "oddsDecimal": 2.4,
+                        "oddsDecimalDisplay": "2.40",
+                        "oddsFractional": "7/5",
+                        "participant": "Fiorentina",
+                        "participantType": "Team",
+                        "sortOrder": 1166898047,
+                        "participants": [
+                          {
+                            "id": "84077",
+                            "name": "Fiorentina",
+                            "type": "Team"
+                          }
+                        ]
+                      },
+                      {
+                        "providerOutcomeId": "0ML74199700_2",
+                        "providerId": 2,
+                        "providerOfferId": "1_74199700",
+                        "label": "Draw",
+                        "oddsAmerican": "+215",
+                        "oddsDecimal": 3.15,
+                        "oddsDecimalDisplay": "3.15",
+                        "oddsFractional": "43/20",
+                        "participant": "",
+                        "participantType": "Unknown",
+                        "sortOrder": 1166899050
+                      },
+                      {
+                        "providerOutcomeId": "0ML74199700_3",
+                        "providerId": 2,
+                        "providerOfferId": "1_74199700",
+                        "label": "AS Roma",
+                        "oddsAmerican": "+180",
+                        "oddsDecimal": 2.8,
+                        "oddsDecimalDisplay": "2.80",
+                        "oddsFractional": "9/5",
+                        "participant": "AS Roma",
+                        "participantType": "Team",
+                        "sortOrder": 1166900051,
+                        "participants": [
+                          { "id": "87595", "name": "AS Roma", "type": "Team" }
+                        ]
+                      }
+                    ],
+                    "offerSequence": 0,
+                    "source": "5",
+                    "displayGroupId": "1",
+                    "main": true,
+                    "tags": [
+                      "PrimaryMarket",
+                      "Cashout",
+                      "FeaturedSubcategory",
+                      "Default"
+                    ]
+                  }
+                ],
+                [
+                  {
+                    "providerOfferId": "1_74199705",
+                    "eventId": "30189464",
+                    "eventGroupId": "40030",
+                    "label": "Moneyline",
+                    "isSuspended": false,
+                    "isOpen": true,
+                    "offerSubcategoryId": 4514,
+                    "isSubcategoryFeatured": true,
+                    "betOfferTypeId": 2,
+                    "providerCriterionId": "1_0",
+                    "outcomes": [
+                      {
+                        "providerOutcomeId": "0ML74199705_1",
+                        "providerId": 2,
+                        "providerOfferId": "1_74199705",
+                        "label": "Lazio",
+                        "oddsAmerican": "-105",
+                        "oddsDecimal": 1.95238096,
+                        "oddsDecimalDisplay": "1.95",
+                        "oddsFractional": "20/21",
+                        "participant": "Lazio",
+                        "participantType": "Team",
+                        "sortOrder": 1166898138,
+                        "participants": [
+                          { "id": "87599", "name": "Lazio", "type": "Team" }
+                        ]
+                      },
+                      {
+                        "providerOutcomeId": "0ML74199705_2",
+                        "providerId": 2,
+                        "providerOfferId": "1_74199705",
+                        "label": "Draw",
+                        "oddsAmerican": "+220",
+                        "oddsDecimal": 3.2,
+                        "oddsDecimalDisplay": "3.20",
+                        "oddsFractional": "11/5",
+                        "participant": "",
+                        "participantType": "Unknown",
+                        "sortOrder": 1166899141
+                      },
+                      {
+                        "providerOutcomeId": "0ML74199705_3",
+                        "providerId": 2,
+                        "providerOfferId": "1_74199705",
+                        "label": "Udinese",
+                        "oddsAmerican": "+280",
+                        "oddsDecimal": 3.8,
+                        "oddsDecimalDisplay": "3.80",
+                        "oddsFractional": "14/5",
+                        "participant": "Udinese",
+                        "participantType": "Team",
+                        "sortOrder": 1166900142,
+                        "participants": [
+                          { "id": "87382", "name": "Udinese", "type": "Team" }
+                        ]
+                      }
+                    ],
+                    "offerSequence": 0,
+                    "source": "5",
+                    "displayGroupId": "1",
+                    "main": true,
+                    "tags": [
+                      "PrimaryMarket",
+                      "Cashout",
+                      "FeaturedSubcategory",
+                      "Default"
+                    ]
+                  }
+                ],
+                [
+                  {
+                    "providerOfferId": "1_74303612",
+                    "eventId": "30228750",
+                    "eventGroupId": "40030",
+                    "label": "Moneyline",
+                    "isSuspended": false,
+                    "isOpen": true,
+                    "offerSubcategoryId": 4514,
+                    "isSubcategoryFeatured": true,
+                    "betOfferTypeId": 2,
+                    "providerCriterionId": "1_0",
+                    "outcomes": [
+                      {
+                        "providerOutcomeId": "0ML74303612_1",
+                        "providerId": 2,
+                        "providerOfferId": "1_74303612",
+                        "label": "Empoli",
+                        "oddsAmerican": "+255",
+                        "oddsDecimal": 3.55,
+                        "oddsDecimalDisplay": "3.55",
+                        "oddsFractional": "51/20",
+                        "participant": "Empoli",
+                        "participantType": "Team",
+                        "sortOrder": 1169441364,
+                        "participants": [
+                          { "id": "87272", "name": "Empoli", "type": "Team" }
+                        ]
+                      },
+                      {
+                        "providerOutcomeId": "0ML74303612_2",
+                        "providerId": 2,
+                        "providerOfferId": "1_74303612",
+                        "label": "Draw",
+                        "oddsAmerican": "+225",
+                        "oddsDecimal": 3.25,
+                        "oddsDecimalDisplay": "3.25",
+                        "oddsFractional": "9/4",
+                        "participant": "",
+                        "participantType": "Unknown",
+                        "sortOrder": 1169442368
+                      },
+                      {
+                        "providerOutcomeId": "0ML74303612_3",
+                        "providerId": 2,
+                        "providerOfferId": "1_74303612",
+                        "label": "Bologna",
+                        "oddsAmerican": "-105",
+                        "oddsDecimal": 1.95238096,
+                        "oddsDecimalDisplay": "1.95",
+                        "oddsFractional": "20/21",
+                        "participant": "Bologna",
+                        "participantType": "Team",
+                        "sortOrder": 1169443369,
+                        "participants": [
+                          { "id": "87371", "name": "Bologna", "type": "Team" }
+                        ]
+                      }
+                    ],
+                    "offerSequence": 0,
+                    "source": "5",
+                    "displayGroupId": "1",
+                    "main": true,
+                    "tags": [
+                      "PrimaryMarket",
+                      "Cashout",
+                      "FeaturedSubcategory",
+                      "Default"
+                    ]
+                  }
+                ],
+                [
+                  {
+                    "providerOfferId": "1_74303610",
+                    "eventId": "30228746",
+                    "eventGroupId": "40030",
+                    "label": "Moneyline",
+                    "isSuspended": false,
+                    "isOpen": true,
+                    "offerSubcategoryId": 4514,
+                    "isSubcategoryFeatured": true,
+                    "betOfferTypeId": 2,
+                    "providerCriterionId": "1_0",
+                    "outcomes": [
+                      {
+                        "providerOutcomeId": "0ML74303610_1",
+                        "providerId": 2,
+                        "providerOfferId": "1_74303610",
+                        "label": "Udinese",
+                        "oddsAmerican": "+160",
+                        "oddsDecimal": 2.6,
+                        "oddsDecimalDisplay": "2.60",
+                        "oddsFractional": "8/5",
+                        "participant": "Udinese",
+                        "participantType": "Team",
+                        "sortOrder": 1169441315,
+                        "participants": [
+                          { "id": "87382", "name": "Udinese", "type": "Team" }
+                        ]
+                      },
+                      {
+                        "providerOutcomeId": "0ML74303610_2",
+                        "providerId": 2,
+                        "providerOfferId": "1_74303610",
+                        "label": "Draw",
+                        "oddsAmerican": "+180",
+                        "oddsDecimal": 2.8,
+                        "oddsDecimalDisplay": "2.80",
+                        "oddsFractional": "9/5",
+                        "participant": "",
+                        "participantType": "Unknown",
+                        "sortOrder": 1169442318
+                      },
+                      {
+                        "providerOutcomeId": "0ML74303610_3",
+                        "providerId": 2,
+                        "providerOfferId": "1_74303610",
+                        "label": "Torino",
+                        "oddsAmerican": "+180",
+                        "oddsDecimal": 2.8,
+                        "oddsDecimalDisplay": "2.80",
+                        "oddsFractional": "9/5",
+                        "participant": "Torino",
+                        "participantType": "Team",
+                        "sortOrder": 1169443319,
+                        "participants": [
+                          { "id": "85627", "name": "Torino", "type": "Team" }
+                        ]
+                      }
+                    ],
+                    "offerSequence": 0,
+                    "source": "5",
+                    "displayGroupId": "1",
+                    "main": true,
+                    "tags": [
+                      "PrimaryMarket",
+                      "Cashout",
+                      "FeaturedSubcategory",
+                      "Default"
+                    ]
+                  }
+                ],
+                [
+                  {
+                    "providerOfferId": "1_74303611",
+                    "eventId": "30228747",
+                    "eventGroupId": "40030",
+                    "label": "Moneyline",
+                    "isSuspended": false,
+                    "isOpen": true,
+                    "offerSubcategoryId": 4514,
+                    "isSubcategoryFeatured": true,
+                    "betOfferTypeId": 2,
+                    "providerCriterionId": "1_0",
+                    "outcomes": [
+                      {
+                        "providerOutcomeId": "0ML74303611_1",
+                        "providerId": 2,
+                        "providerOfferId": "1_74303611",
+                        "label": "Monza Brianza",
+                        "oddsAmerican": "-110",
+                        "oddsDecimal": 1.90909091,
+                        "oddsDecimalDisplay": "1.90",
+                        "oddsFractional": "10/11",
+                        "participant": "Monza Brianza",
+                        "participantType": "Team",
+                        "sortOrder": 1169441321,
+                        "participants": [
+                          {
+                            "id": "87164",
+                            "name": "Monza Brianza",
+                            "type": "Team"
+                          }
+                        ]
+                      },
+                      {
+                        "providerOutcomeId": "0ML74303611_2",
+                        "providerId": 2,
+                        "providerOfferId": "1_74303611",
+                        "label": "Draw",
+                        "oddsAmerican": "+235",
+                        "oddsDecimal": 3.35,
+                        "oddsDecimalDisplay": "3.35",
+                        "oddsFractional": "47/20",
+                        "participant": "",
+                        "participantType": "Unknown",
+                        "sortOrder": 1169442325
+                      },
+                      {
+                        "providerOutcomeId": "0ML74303611_3",
+                        "providerId": 2,
+                        "providerOfferId": "1_74303611",
+                        "label": "Cagliari",
+                        "oddsAmerican": "+260",
+                        "oddsDecimal": 3.6,
+                        "oddsDecimalDisplay": "3.60",
+                        "oddsFractional": "13/5",
+                        "participant": "Cagliari",
+                        "participantType": "Team",
+                        "sortOrder": 1169443326,
+                        "participants": [
+                          { "id": "87341", "name": "Cagliari", "type": "Team" }
+                        ]
+                      }
+                    ],
+                    "offerSequence": 0,
+                    "source": "5",
+                    "displayGroupId": "1",
+                    "main": true,
+                    "tags": [
+                      "PrimaryMarket",
+                      "Cashout",
+                      "FeaturedSubcategory",
+                      "Default"
+                    ]
+                  }
+                ],
+                [
+                  {
+                    "providerOfferId": "1_74303614",
+                    "eventId": "30228752",
+                    "eventGroupId": "40030",
+                    "label": "Moneyline",
+                    "isSuspended": false,
+                    "isOpen": true,
+                    "offerSubcategoryId": 4514,
+                    "isSubcategoryFeatured": true,
+                    "betOfferTypeId": 2,
+                    "providerCriterionId": "1_0",
+                    "outcomes": [
+                      {
+                        "providerOutcomeId": "0ML74303614_1",
+                        "providerId": 2,
+                        "providerOfferId": "1_74303614",
+                        "label": "Salernitana",
+                        "oddsAmerican": "+155",
+                        "oddsDecimal": 2.55,
+                        "oddsDecimalDisplay": "2.55",
+                        "oddsFractional": "31/20",
+                        "participant": "Salernitana",
+                        "participantType": "Team",
+                        "sortOrder": 1169441367,
+                        "participants": [
+                          {
+                            "id": "87310",
+                            "name": "Salernitana",
+                            "type": "Team"
+                          }
+                        ]
+                      },
+                      {
+                        "providerOutcomeId": "0ML74303614_2",
+                        "providerId": 2,
+                        "providerOfferId": "1_74303614",
+                        "label": "Draw",
+                        "oddsAmerican": "+200",
+                        "oddsDecimal": 3,
+                        "oddsDecimalDisplay": "3.00",
+                        "oddsFractional": "2/1",
+                        "participant": "",
+                        "participantType": "Unknown",
+                        "sortOrder": 1169442374
+                      },
+                      {
+                        "providerOutcomeId": "0ML74303614_3",
+                        "providerId": 2,
+                        "providerOfferId": "1_74303614",
+                        "label": "Lecce",
+                        "oddsAmerican": "+165",
+                        "oddsDecimal": 2.65,
+                        "oddsDecimalDisplay": "2.65",
+                        "oddsFractional": "33/20",
+                        "participant": "Lecce",
+                        "participantType": "Team",
+                        "sortOrder": 1169443375,
+                        "participants": [
+                          { "id": "87362", "name": "Lecce", "type": "Team" }
+                        ]
+                      }
+                    ],
+                    "offerSequence": 0,
+                    "source": "5",
+                    "displayGroupId": "1",
+                    "main": true,
+                    "tags": [
+                      "PrimaryMarket",
+                      "Cashout",
+                      "FeaturedSubcategory",
+                      "Default"
+                    ]
+                  }
+                ],
+                [
+                  {
+                    "providerOfferId": "1_74303609",
+                    "eventId": "30228748",
+                    "eventGroupId": "40030",
+                    "label": "Moneyline",
+                    "isSuspended": false,
+                    "isOpen": true,
+                    "offerSubcategoryId": 4514,
+                    "isSubcategoryFeatured": true,
+                    "betOfferTypeId": 2,
+                    "providerCriterionId": "1_0",
+                    "outcomes": [
+                      {
+                        "providerOutcomeId": "0ML74303609_1",
+                        "providerId": 2,
+                        "providerOfferId": "1_74303609",
+                        "label": "Frosinone",
+                        "oddsAmerican": "+200",
+                        "oddsDecimal": 3,
+                        "oddsDecimalDisplay": "3.00",
+                        "oddsFractional": "2/1",
+                        "participant": "Frosinone",
+                        "participantType": "Team",
+                        "sortOrder": 1169441308,
+                        "participants": [
+                          { "id": "87275", "name": "Frosinone", "type": "Team" }
+                        ]
+                      },
+                      {
+                        "providerOutcomeId": "0ML74303609_2",
+                        "providerId": 2,
+                        "providerOfferId": "1_74303609",
+                        "label": "Draw",
+                        "oddsAmerican": "+230",
+                        "oddsDecimal": 3.3,
+                        "oddsDecimalDisplay": "3.30",
+                        "oddsFractional": "23/10",
+                        "participant": "",
+                        "participantType": "Unknown",
+                        "sortOrder": 1169442311
+                      },
+                      {
+                        "providerOutcomeId": "0ML74303609_3",
+                        "providerId": 2,
+                        "providerOfferId": "1_74303609",
+                        "label": "Lazio",
+                        "oddsAmerican": "+115",
+                        "oddsDecimal": 2.15,
+                        "oddsDecimalDisplay": "2.15",
+                        "oddsFractional": "23/20",
+                        "participant": "Lazio",
+                        "participantType": "Team",
+                        "sortOrder": 1169443312,
+                        "participants": [
+                          { "id": "87599", "name": "Lazio", "type": "Team" }
+                        ]
+                      }
+                    ],
+                    "offerSequence": 0,
+                    "source": "5",
+                    "displayGroupId": "1",
+                    "main": true,
+                    "tags": [
+                      "PrimaryMarket",
+                      "Cashout",
+                      "FeaturedSubcategory",
+                      "Default"
+                    ]
+                  }
+                ],
+                [
+                  {
+                    "providerOfferId": "1_74303616",
+                    "eventId": "30228753",
+                    "eventGroupId": "40030",
+                    "label": "Moneyline",
+                    "isSuspended": false,
+                    "isOpen": true,
+                    "offerSubcategoryId": 4514,
+                    "isSubcategoryFeatured": true,
+                    "betOfferTypeId": 2,
+                    "providerCriterionId": "1_0",
+                    "outcomes": [
+                      {
+                        "providerOutcomeId": "0ML74303616_1",
+                        "providerId": 2,
+                        "providerOfferId": "1_74303616",
+                        "label": "Juventus",
+                        "oddsAmerican": "-230",
+                        "oddsDecimal": 1.43478261,
+                        "oddsDecimalDisplay": "1.43",
+                        "oddsFractional": "10/23",
+                        "participant": "Juventus",
+                        "participantType": "Team",
+                        "sortOrder": 1169441350,
+                        "participants": [
+                          { "id": "84088", "name": "Juventus", "type": "Team" }
+                        ]
+                      },
+                      {
+                        "providerOutcomeId": "0ML74303616_2",
+                        "providerId": 2,
+                        "providerOfferId": "1_74303616",
+                        "label": "Draw",
+                        "oddsAmerican": "+295",
+                        "oddsDecimal": 3.95,
+                        "oddsDecimalDisplay": "3.95",
+                        "oddsFractional": "59/20",
+                        "participant": "",
+                        "participantType": "Unknown",
+                        "sortOrder": 1169442353
+                      },
+                      {
+                        "providerOutcomeId": "0ML74303616_3",
+                        "providerId": 2,
+                        "providerOfferId": "1_74303616",
+                        "label": "Genoa",
+                        "oddsAmerican": "+550",
+                        "oddsDecimal": 6.5,
+                        "oddsDecimalDisplay": "6.50",
+                        "oddsFractional": "11/2",
+                        "participant": "Genoa",
+                        "participantType": "Team",
+                        "sortOrder": 1169443354,
+                        "participants": [
+                          { "id": "87331", "name": "Genoa", "type": "Team" }
+                        ]
+                      }
+                    ],
+                    "offerSequence": 0,
+                    "source": "5",
+                    "displayGroupId": "1",
+                    "main": true,
+                    "tags": [
+                      "PrimaryMarket",
+                      "Cashout",
+                      "FeaturedSubcategory",
+                      "Default"
+                    ]
+                  }
+                ],
+                [
+                  {
+                    "providerOfferId": "1_74303615",
+                    "eventId": "30228751",
+                    "eventGroupId": "40030",
+                    "label": "Moneyline",
+                    "isSuspended": false,
+                    "isOpen": true,
+                    "offerSubcategoryId": 4514,
+                    "isSubcategoryFeatured": true,
+                    "betOfferTypeId": 2,
+                    "providerCriterionId": "1_0",
+                    "outcomes": [
+                      {
+                        "providerOutcomeId": "0ML74303615_1",
+                        "providerId": 2,
+                        "providerOfferId": "1_74303615",
+                        "label": "Verona",
+                        "oddsAmerican": "+310",
+                        "oddsDecimal": 4.1,
+                        "oddsDecimalDisplay": "4.10",
+                        "oddsFractional": "31/10",
+                        "participant": "Verona",
+                        "participantType": "Team",
+                        "sortOrder": 1169441336,
+                        "participants": [
+                          { "id": "87386", "name": "Verona", "type": "Team" }
+                        ]
+                      },
+                      {
+                        "providerOutcomeId": "0ML74303615_2",
+                        "providerId": 2,
+                        "providerOfferId": "1_74303615",
+                        "label": "Draw",
+                        "oddsAmerican": "+250",
+                        "oddsDecimal": 3.5,
+                        "oddsDecimalDisplay": "3.50",
+                        "oddsFractional": "5/2",
+                        "participant": "",
+                        "participantType": "Unknown",
+                        "sortOrder": 1169442339
+                      },
+                      {
+                        "providerOutcomeId": "0ML74303615_3",
+                        "providerId": 2,
+                        "providerOfferId": "1_74303615",
+                        "label": "AC Milan",
+                        "oddsAmerican": "-130",
+                        "oddsDecimal": 1.76923077,
+                        "oddsDecimalDisplay": "1.76",
+                        "oddsFractional": "10/13",
+                        "participant": "AC Milan",
+                        "participantType": "Team",
+                        "sortOrder": 1169443340,
+                        "participants": [
+                          { "id": "84090", "name": "AC Milan", "type": "Team" }
+                        ]
+                      }
+                    ],
+                    "offerSequence": 0,
+                    "source": "5",
+                    "displayGroupId": "1",
+                    "main": true,
+                    "tags": [
+                      "PrimaryMarket",
+                      "Cashout",
+                      "FeaturedSubcategory",
+                      "Default"
+                    ]
+                  }
+                ],
+                [
+                  {
+                    "providerOfferId": "1_74303613",
+                    "eventId": "30228749",
+                    "eventGroupId": "40030",
+                    "label": "Moneyline",
+                    "isSuspended": false,
+                    "isOpen": true,
+                    "offerSubcategoryId": 4514,
+                    "isSubcategoryFeatured": true,
+                    "betOfferTypeId": 2,
+                    "providerCriterionId": "1_0",
+                    "outcomes": [
+                      {
+                        "providerOutcomeId": "0ML74303613_1",
+                        "providerId": 2,
+                        "providerOfferId": "1_74303613",
+                        "label": "AS Roma",
+                        "oddsAmerican": "-295",
+                        "oddsDecimal": 1.33898306,
+                        "oddsDecimalDisplay": "1.33",
+                        "oddsFractional": "20/59",
+                        "participant": "AS Roma",
+                        "participantType": "Team",
+                        "sortOrder": 1169441329,
+                        "participants": [
+                          { "id": "87595", "name": "AS Roma", "type": "Team" }
+                        ]
+                      },
+                      {
+                        "providerOutcomeId": "0ML74303613_2",
+                        "providerId": 2,
+                        "providerOfferId": "1_74303613",
+                        "label": "Draw",
+                        "oddsAmerican": "+390",
+                        "oddsDecimal": 4.9,
+                        "oddsDecimalDisplay": "4.90",
+                        "oddsFractional": "39/10",
+                        "participant": "",
+                        "participantType": "Unknown",
+                        "sortOrder": 1169442332
+                      },
+                      {
+                        "providerOutcomeId": "0ML74303613_3",
+                        "providerId": 2,
+                        "providerOfferId": "1_74303613",
+                        "label": "Sassuolo",
+                        "oddsAmerican": "+550",
+                        "oddsDecimal": 6.5,
+                        "oddsDecimalDisplay": "6.50",
+                        "oddsFractional": "11/2",
+                        "participant": "Sassuolo",
+                        "participantType": "Team",
+                        "sortOrder": 1169443333,
+                        "participants": [
+                          { "id": "87378", "name": "Sassuolo", "type": "Team" }
+                        ]
+                      }
+                    ],
+                    "offerSequence": 0,
+                    "source": "5",
+                    "displayGroupId": "1",
+                    "main": true,
+                    "tags": [
+                      "PrimaryMarket",
+                      "Cashout",
+                      "FeaturedSubcategory",
+                      "Default"
+                    ]
+                  }
+                ],
+                [
+                  {
+                    "providerOfferId": "1_74303618",
+                    "eventId": "30228755",
+                    "eventGroupId": "40030",
+                    "label": "Moneyline",
+                    "isSuspended": false,
+                    "isOpen": true,
+                    "offerSubcategoryId": 4514,
+                    "isSubcategoryFeatured": true,
+                    "betOfferTypeId": 2,
+                    "providerCriterionId": "1_0",
+                    "outcomes": [
+                      {
+                        "providerOutcomeId": "0ML74303618_1",
+                        "providerId": 2,
+                        "providerOfferId": "1_74303618",
+                        "label": "Atalanta",
+                        "oddsAmerican": "-125",
+                        "oddsDecimal": 1.8,
+                        "oddsDecimalDisplay": "1.80",
+                        "oddsFractional": "4/5",
+                        "participant": "Atalanta",
+                        "participantType": "Team",
+                        "sortOrder": 1169441343,
+                        "participants": [
+                          { "id": "87597", "name": "Atalanta", "type": "Team" }
+                        ]
+                      },
+                      {
+                        "providerOutcomeId": "0ML74303618_2",
+                        "providerId": 2,
+                        "providerOfferId": "1_74303618",
+                        "label": "Draw",
+                        "oddsAmerican": "+255",
+                        "oddsDecimal": 3.55,
+                        "oddsDecimalDisplay": "3.55",
+                        "oddsFractional": "51/20",
+                        "participant": "",
+                        "participantType": "Unknown",
+                        "sortOrder": 1169442346
+                      },
+                      {
+                        "providerOutcomeId": "0ML74303618_3",
+                        "providerId": 2,
+                        "providerOfferId": "1_74303618",
+                        "label": "Fiorentina",
+                        "oddsAmerican": "+280",
+                        "oddsDecimal": 3.8,
+                        "oddsDecimalDisplay": "3.80",
+                        "oddsFractional": "14/5",
+                        "participant": "Fiorentina",
+                        "participantType": "Team",
+                        "sortOrder": 1169443347,
+                        "participants": [
+                          {
+                            "id": "84077",
+                            "name": "Fiorentina",
+                            "type": "Team"
+                          }
+                        ]
+                      }
+                    ],
+                    "offerSequence": 0,
+                    "source": "5",
+                    "displayGroupId": "1",
+                    "main": true,
+                    "tags": [
+                      "PrimaryMarket",
+                      "Cashout",
+                      "FeaturedSubcategory",
+                      "Default"
+                    ]
+                  }
+                ],
+                [
+                  {
+                    "providerOfferId": "1_74303617",
+                    "eventId": "30228754",
+                    "eventGroupId": "40030",
+                    "label": "Moneyline",
+                    "isSuspended": false,
+                    "isOpen": true,
+                    "offerSubcategoryId": 4514,
+                    "isSubcategoryFeatured": true,
+                    "betOfferTypeId": 2,
+                    "providerCriterionId": "1_0",
+                    "outcomes": [
+                      {
+                        "providerOutcomeId": "0ML74303617_1",
+                        "providerId": 2,
+                        "providerOfferId": "1_74303617",
+                        "label": "Inter Milan",
+                        "oddsAmerican": "-205",
+                        "oddsDecimal": 1.48780488,
+                        "oddsDecimalDisplay": "1.48",
+                        "oddsFractional": "20/41",
+                        "participant": "Inter Milan",
+                        "participantType": "Team",
+                        "sortOrder": 1169441357,
+                        "participants": [
+                          {
+                            "id": "84084",
+                            "name": "Inter Milan",
+                            "type": "Team"
+                          }
+                        ]
+                      },
+                      {
+                        "providerOutcomeId": "0ML74303617_2",
+                        "providerId": 2,
+                        "providerOfferId": "1_74303617",
+                        "label": "Draw",
+                        "oddsAmerican": "+320",
+                        "oddsDecimal": 4.2,
+                        "oddsDecimalDisplay": "4.20",
+                        "oddsFractional": "16/5",
+                        "participant": "",
+                        "participantType": "Unknown",
+                        "sortOrder": 1169442360
+                      },
+                      {
+                        "providerOutcomeId": "0ML74303617_3",
+                        "providerId": 2,
+                        "providerOfferId": "1_74303617",
+                        "label": "Napoli",
+                        "oddsAmerican": "+425",
+                        "oddsDecimal": 5.25,
+                        "oddsDecimalDisplay": "5.25",
+                        "oddsFractional": "17/4",
+                        "participant": "Napoli",
+                        "participantType": "Team",
+                        "sortOrder": 1169443361,
+                        "participants": [
+                          { "id": "87591", "name": "Napoli", "type": "Team" }
+                        ]
+                      }
+                    ],
+                    "offerSequence": 0,
+                    "source": "5",
+                    "displayGroupId": "1",
+                    "main": true,
+                    "tags": [
+                      "PrimaryMarket",
+                      "Cashout",
+                      "FeaturedSubcategory",
+                      "Default"
+                    ]
+                  }
+                ]
+              ]
+            }
+          },
+          { "subcategoryId": 6497, "name": "Draw No Bet (Regular Time)" },
+          { "subcategoryId": 13171, "name": "Total Goals (Regular Time)" },
+          { "subcategoryId": 13170, "name": "Spread (Regular Time)" }
+        ]
+      },
+      { "offerCategoryId": 537, "name": "Goalscorer Props" },
+      { "offerCategoryId": 540, "name": "Game Props" },
+      { "offerCategoryId": 542, "name": "Game Parlays" },
+      { "offerCategoryId": 541, "name": "Team Props" },
+      { "offerCategoryId": 543, "name": "Corners" },
+      { "offerCategoryId": 653, "name": "Spread/Total" },
+      { "offerCategoryId": 544, "name": "Halves" },
+      { "offerCategoryId": 497, "name": "Team Futures" }
+    ],
+    "events": [
+      {
+        "eventId": "30189380",
+        "displayGroupId": "1",
+        "eventGroupId": "40030",
+        "eventGroupName": "Italy - Serie A",
+        "name": "Napoli vs Torino",
+        "nameIdentifier": "Napoli vs Torino",
+        "startDate": "2024-03-08T19:45:00.0000000Z",
+        "teamName1": "Napoli",
+        "teamName2": "Torino",
+        "teamShortName1": "",
+        "teamShortName2": "",
+        "team1": { "teamId": 87591, "name": "Napoli" },
+        "team2": { "teamId": 85627, "name": "Torino" },
+        "eventStatus": {
+          "state": "NOT_STARTED",
+          "isClockDisabled": false,
+          "minute": 0,
+          "second": 0,
+          "isClockRunning": false
+        },
+        "eventScorecard": { "scorecardComponentId": 1 },
+        "mediaList": [
+          {
+            "mediaProviderName": "BetRadarStats",
+            "mediaId": "42134667",
+            "mediaTypeName": "Stats",
+            "metadata": {},
+            "updatedAt": "2024-03-05T05:09:10.0515170Z"
+          },
+          {
+            "mediaProviderName": "BetRadarV3",
+            "mediaId": "42134667",
+            "mediaTypeName": "MatchTracker",
+            "metadata": { "betRadarCoverage": "4" },
+            "updatedAt": "2024-03-05T05:09:10.0515170Z"
+          },
+          {
+            "mediaProviderName": "BetRadarV3",
+            "mediaId": "42134667",
+            "mediaTypeName": "Scoreboard",
+            "metadata": { "betRadarCoverage": "4" },
+            "updatedAt": "2024-03-05T05:09:10.0515170Z"
+          }
+        ],
+        "liveBettingOffered": false,
+        "liveBettingEnabled": false,
+        "isSameGameParlayEligible": true,
+        "tags": [
+          "FeaturedSubcategory",
+          "MatchTracker",
+          "PrePack",
+          "Scoreboard",
+          "SportcastBetBuilder",
+          "Stats",
+          "YourBetEligible"
+        ],
+        "flashBetOfferCount": 0,
+        "eventMetadata": {
+          "participantMetadata": {},
+          "mediaMetadata": {
+            "BetRadarStats_Stats": {},
+            "BetRadarV3_MatchTracker": {},
+            "BetRadarV3_Scoreboard": {}
+          }
+        }
+      },
+      {
+        "eventId": "30189384",
+        "displayGroupId": "1",
+        "eventGroupId": "40030",
+        "eventGroupName": "Italy - Serie A",
+        "name": "Cagliari vs Salernitana",
+        "nameIdentifier": "Cagliari vs Salernitana",
+        "startDate": "2024-03-09T14:00:00.0000000Z",
+        "teamName1": "Cagliari",
+        "teamName2": "Salernitana",
+        "teamShortName1": "",
+        "teamShortName2": "",
+        "team1": { "teamId": 87341, "name": "Cagliari" },
+        "team2": { "teamId": 87310, "name": "Salernitana" },
+        "eventStatus": {
+          "state": "NOT_STARTED",
+          "isClockDisabled": false,
+          "minute": 0,
+          "second": 0,
+          "isClockRunning": false
+        },
+        "eventScorecard": { "scorecardComponentId": 1 },
+        "mediaList": [
+          {
+            "mediaProviderName": "BetRadarStats",
+            "mediaId": "42134653",
+            "mediaTypeName": "Stats",
+            "metadata": {},
+            "updatedAt": "2024-03-05T05:09:08.2264941Z"
+          },
+          {
+            "mediaProviderName": "BetRadarV3",
+            "mediaId": "42134653",
+            "mediaTypeName": "MatchTracker",
+            "metadata": { "betRadarCoverage": "4" },
+            "updatedAt": "2024-03-05T05:09:08.2264941Z"
+          },
+          {
+            "mediaProviderName": "BetRadarV3",
+            "mediaId": "42134653",
+            "mediaTypeName": "Scoreboard",
+            "metadata": { "betRadarCoverage": "4" },
+            "updatedAt": "2024-03-05T05:09:08.2264941Z"
+          }
+        ],
+        "liveBettingOffered": false,
+        "liveBettingEnabled": false,
+        "isSameGameParlayEligible": true,
+        "tags": [
+          "FeaturedSubcategory",
+          "MatchTracker",
+          "PrePack",
+          "Scoreboard",
+          "SportcastBetBuilder",
+          "Stats",
+          "YourBetEligible"
+        ],
+        "flashBetOfferCount": 0,
+        "eventMetadata": {
+          "participantMetadata": {},
+          "mediaMetadata": {
+            "BetRadarStats_Stats": {},
+            "BetRadarV3_MatchTracker": {},
+            "BetRadarV3_Scoreboard": {}
+          }
+        }
+      },
+      {
+        "eventId": "30189382",
+        "displayGroupId": "1",
+        "eventGroupId": "40030",
+        "eventGroupName": "Italy - Serie A",
+        "name": "Sassuolo vs Frosinone",
+        "nameIdentifier": "Sassuolo vs Frosinone",
+        "startDate": "2024-03-09T14:00:00.0000000Z",
+        "teamName1": "Sassuolo",
+        "teamName2": "Frosinone",
+        "teamShortName1": "",
+        "teamShortName2": "",
+        "team1": { "teamId": 87378, "name": "Sassuolo" },
+        "team2": { "teamId": 87275, "name": "Frosinone" },
+        "eventStatus": {
+          "state": "NOT_STARTED",
+          "isClockDisabled": false,
+          "minute": 0,
+          "second": 0,
+          "isClockRunning": false
+        },
+        "eventScorecard": { "scorecardComponentId": 1 },
+        "mediaList": [
+          {
+            "mediaProviderName": "BetRadarStats",
+            "mediaId": "42134669",
+            "mediaTypeName": "Stats",
+            "metadata": {},
+            "updatedAt": "2024-03-05T05:09:43.5266217Z"
+          },
+          {
+            "mediaProviderName": "BetRadarV3",
+            "mediaId": "42134669",
+            "mediaTypeName": "MatchTracker",
+            "metadata": { "betRadarCoverage": "4" },
+            "updatedAt": "2024-03-05T05:09:43.5266217Z"
+          },
+          {
+            "mediaProviderName": "BetRadarV3",
+            "mediaId": "42134669",
+            "mediaTypeName": "Scoreboard",
+            "metadata": { "betRadarCoverage": "4" },
+            "updatedAt": "2024-03-05T05:09:43.5266217Z"
+          }
+        ],
+        "liveBettingOffered": false,
+        "liveBettingEnabled": false,
+        "isSameGameParlayEligible": true,
+        "tags": [
+          "FeaturedSubcategory",
+          "MatchTracker",
+          "PrePack",
+          "Scoreboard",
+          "SportcastBetBuilder",
+          "Stats",
+          "YourBetEligible"
+        ],
+        "flashBetOfferCount": 0,
+        "eventMetadata": {
+          "participantMetadata": {},
+          "mediaMetadata": {
+            "BetRadarStats_Stats": {},
+            "BetRadarV3_MatchTracker": {},
+            "BetRadarV3_Scoreboard": {}
+          }
+        }
+      },
+      {
+        "eventId": "30189386",
+        "displayGroupId": "1",
+        "eventGroupId": "40030",
+        "eventGroupName": "Italy - Serie A",
+        "name": "Bologna vs Inter Milan",
+        "nameIdentifier": "Bologna vs Inter Milan",
+        "startDate": "2024-03-09T17:00:00.0000000Z",
+        "teamName1": "Bologna",
+        "teamName2": "Inter Milan",
+        "teamShortName1": "",
+        "teamShortName2": "",
+        "team1": { "teamId": 87371, "name": "Bologna" },
+        "team2": { "teamId": 84084, "name": "Inter Milan" },
+        "eventStatus": {
+          "state": "NOT_STARTED",
+          "isClockDisabled": false,
+          "minute": 0,
+          "second": 0,
+          "isClockRunning": false
+        },
+        "eventScorecard": { "scorecardComponentId": 1 },
+        "mediaList": [
+          {
+            "mediaProviderName": "BetRadarStats",
+            "mediaId": "42134651",
+            "mediaTypeName": "Stats",
+            "metadata": {},
+            "updatedAt": "2024-03-05T05:11:46.7443372Z"
+          },
+          {
+            "mediaProviderName": "BetRadarV3",
+            "mediaId": "42134651",
+            "mediaTypeName": "MatchTracker",
+            "metadata": { "betRadarCoverage": "4" },
+            "updatedAt": "2024-03-05T05:11:46.7443372Z"
+          },
+          {
+            "mediaProviderName": "BetRadarV3",
+            "mediaId": "42134651",
+            "mediaTypeName": "Scoreboard",
+            "metadata": { "betRadarCoverage": "4" },
+            "updatedAt": "2024-03-05T05:11:46.7443372Z"
+          }
+        ],
+        "liveBettingOffered": false,
+        "liveBettingEnabled": false,
+        "isSameGameParlayEligible": true,
+        "tags": [
+          "FeaturedSubcategory",
+          "MatchTracker",
+          "PrePack",
+          "Scoreboard",
+          "SportcastBetBuilder",
+          "Stats",
+          "YourBetEligible"
+        ],
+        "flashBetOfferCount": 0,
+        "eventMetadata": {
+          "participantMetadata": {},
+          "mediaMetadata": {
+            "BetRadarStats_Stats": {},
+            "BetRadarV3_MatchTracker": {},
+            "BetRadarV3_Scoreboard": {}
+          }
+        }
+      },
+      {
+        "eventId": "30189387",
+        "displayGroupId": "1",
+        "eventGroupId": "40030",
+        "eventGroupName": "Italy - Serie A",
+        "name": "Genoa vs Monza Brianza",
+        "nameIdentifier": "Genoa vs Monza Brianza",
+        "startDate": "2024-03-09T19:45:00.0000000Z",
+        "teamName1": "Genoa",
+        "teamName2": "Monza Brianza",
+        "teamShortName1": "",
+        "teamShortName2": "",
+        "team1": { "teamId": 87331, "name": "Genoa" },
+        "team2": { "teamId": 87164, "name": "Monza Brianza" },
+        "eventStatus": {
+          "state": "NOT_STARTED",
+          "isClockDisabled": false,
+          "minute": 0,
+          "second": 0,
+          "isClockRunning": false
+        },
+        "eventScorecard": { "scorecardComponentId": 1 },
+        "mediaList": [
+          {
+            "mediaProviderName": "BetRadarStats",
+            "mediaId": "42134657",
+            "mediaTypeName": "Stats",
+            "metadata": {},
+            "updatedAt": "2024-03-05T05:10:01.1872004Z"
+          },
+          {
+            "mediaProviderName": "BetRadarV3",
+            "mediaId": "42134657",
+            "mediaTypeName": "MatchTracker",
+            "metadata": { "betRadarCoverage": "4" },
+            "updatedAt": "2024-03-05T05:10:01.1872004Z"
+          },
+          {
+            "mediaProviderName": "BetRadarV3",
+            "mediaId": "42134657",
+            "mediaTypeName": "Scoreboard",
+            "metadata": { "betRadarCoverage": "4" },
+            "updatedAt": "2024-03-05T05:10:01.1872004Z"
+          }
+        ],
+        "liveBettingOffered": false,
+        "liveBettingEnabled": false,
+        "isSameGameParlayEligible": true,
+        "tags": [
+          "FeaturedSubcategory",
+          "MatchTracker",
+          "PrePack",
+          "Scoreboard",
+          "SportcastBetBuilder",
+          "Stats",
+          "YourBetEligible"
+        ],
+        "flashBetOfferCount": 0,
+        "eventMetadata": {
+          "participantMetadata": {},
+          "mediaMetadata": {
+            "BetRadarStats_Stats": {},
+            "BetRadarV3_MatchTracker": {},
+            "BetRadarV3_Scoreboard": {}
+          }
+        }
+      },
+      {
+        "eventId": "30189381",
+        "displayGroupId": "1",
+        "eventGroupId": "40030",
+        "eventGroupName": "Italy - Serie A",
+        "name": "Lecce vs Verona",
+        "nameIdentifier": "Lecce vs Verona",
+        "startDate": "2024-03-10T11:30:00.0000000Z",
+        "teamName1": "Lecce",
+        "teamName2": "Verona",
+        "teamShortName1": "",
+        "teamShortName2": "",
+        "team1": { "teamId": 87362, "name": "Lecce" },
+        "team2": { "teamId": 87386, "name": "Verona" },
+        "eventStatus": {
+          "state": "NOT_STARTED",
+          "isClockDisabled": false,
+          "minute": 0,
+          "second": 0,
+          "isClockRunning": false
+        },
+        "eventScorecard": { "scorecardComponentId": 1 },
+        "mediaList": [
+          {
+            "mediaProviderName": "BetRadarStats",
+            "mediaId": "42134663",
+            "mediaTypeName": "Stats",
+            "metadata": {},
+            "updatedAt": "2024-03-05T05:16:31.1379279Z"
+          },
+          {
+            "mediaProviderName": "BetRadarV3",
+            "mediaId": "42134663",
+            "mediaTypeName": "MatchTracker",
+            "metadata": { "betRadarCoverage": "4" },
+            "updatedAt": "2024-03-05T05:16:31.1379279Z"
+          },
+          {
+            "mediaProviderName": "BetRadarV3",
+            "mediaId": "42134663",
+            "mediaTypeName": "Scoreboard",
+            "metadata": { "betRadarCoverage": "4" },
+            "updatedAt": "2024-03-05T05:16:31.1379279Z"
+          }
+        ],
+        "liveBettingOffered": false,
+        "liveBettingEnabled": false,
+        "isSameGameParlayEligible": true,
+        "tags": [
+          "FeaturedSubcategory",
+          "MatchTracker",
+          "PrePack",
+          "Scoreboard",
+          "SportcastBetBuilder",
+          "Stats",
+          "YourBetEligible"
+        ],
+        "flashBetOfferCount": 0,
+        "eventMetadata": {
+          "participantMetadata": {},
+          "mediaMetadata": {
+            "BetRadarStats_Stats": {},
+            "BetRadarV3_MatchTracker": {},
+            "BetRadarV3_Scoreboard": {}
+          }
+        }
+      },
+      {
+        "eventId": "30189385",
+        "displayGroupId": "1",
+        "eventGroupId": "40030",
+        "eventGroupName": "Italy - Serie A",
+        "name": "AC Milan vs Empoli",
+        "nameIdentifier": "AC Milan vs Empoli",
+        "startDate": "2024-03-10T14:00:00.0000000Z",
+        "teamName1": "AC Milan",
+        "teamName2": "Empoli",
+        "teamShortName1": "",
+        "teamShortName2": "",
+        "team1": { "teamId": 84090, "name": "AC Milan" },
+        "team2": { "teamId": 87272, "name": "Empoli" },
+        "eventStatus": {
+          "state": "NOT_STARTED",
+          "isClockDisabled": false,
+          "minute": 0,
+          "second": 0,
+          "isClockRunning": false
+        },
+        "eventScorecard": { "scorecardComponentId": 1 },
+        "mediaList": [
+          {
+            "mediaProviderName": "BetRadarStats",
+            "mediaId": "42134665",
+            "mediaTypeName": "Stats",
+            "metadata": {},
+            "updatedAt": "2024-03-05T05:12:04.4201826Z"
+          },
+          {
+            "mediaProviderName": "BetRadarV3",
+            "mediaId": "42134665",
+            "mediaTypeName": "MatchTracker",
+            "metadata": { "betRadarCoverage": "4" },
+            "updatedAt": "2024-03-05T05:12:04.4201826Z"
+          },
+          {
+            "mediaProviderName": "BetRadarV3",
+            "mediaId": "42134665",
+            "mediaTypeName": "Scoreboard",
+            "metadata": { "betRadarCoverage": "4" },
+            "updatedAt": "2024-03-05T05:12:04.4201826Z"
+          }
+        ],
+        "liveBettingOffered": false,
+        "liveBettingEnabled": false,
+        "isSameGameParlayEligible": true,
+        "tags": [
+          "FeaturedSubcategory",
+          "MatchTracker",
+          "PrePack",
+          "Scoreboard",
+          "SportcastBetBuilder",
+          "Stats",
+          "YourBetEligible"
+        ],
+        "flashBetOfferCount": 0,
+        "eventMetadata": {
+          "participantMetadata": {},
+          "mediaMetadata": {
+            "BetRadarStats_Stats": {},
+            "BetRadarV3_MatchTracker": {},
+            "BetRadarV3_Scoreboard": {}
+          }
+        }
+      },
+      {
+        "eventId": "30189383",
+        "displayGroupId": "1",
+        "eventGroupId": "40030",
+        "eventGroupName": "Italy - Serie A",
+        "name": "Juventus vs Atalanta",
+        "nameIdentifier": "Juventus vs Atalanta",
+        "startDate": "2024-03-10T17:00:00.0000000Z",
+        "teamName1": "Juventus",
+        "teamName2": "Atalanta",
+        "teamShortName1": "",
+        "teamShortName2": "",
+        "team1": { "teamId": 84088, "name": "Juventus" },
+        "team2": { "teamId": 87597, "name": "Atalanta" },
+        "eventStatus": {
+          "state": "NOT_STARTED",
+          "isClockDisabled": false,
+          "minute": 0,
+          "second": 0,
+          "isClockRunning": false
+        },
+        "eventScorecard": { "scorecardComponentId": 1 },
+        "mediaList": [
+          {
+            "mediaProviderName": "BetRadarStats",
+            "mediaId": "42134659",
+            "mediaTypeName": "Stats",
+            "metadata": {},
+            "updatedAt": "2024-03-05T05:14:30.5041086Z"
+          },
+          {
+            "mediaProviderName": "BetRadarV3",
+            "mediaId": "42134659",
+            "mediaTypeName": "MatchTracker",
+            "metadata": { "betRadarCoverage": "4" },
+            "updatedAt": "2024-03-05T05:14:30.5041086Z"
+          },
+          {
+            "mediaProviderName": "BetRadarV3",
+            "mediaId": "42134659",
+            "mediaTypeName": "Scoreboard",
+            "metadata": { "betRadarCoverage": "4" },
+            "updatedAt": "2024-03-05T05:14:30.5041086Z"
+          }
+        ],
+        "liveBettingOffered": false,
+        "liveBettingEnabled": false,
+        "isSameGameParlayEligible": true,
+        "tags": [
+          "FeaturedSubcategory",
+          "MatchTracker",
+          "PrePack",
+          "Scoreboard",
+          "SportcastBetBuilder",
+          "Stats",
+          "YourBetEligible"
+        ],
+        "flashBetOfferCount": 0,
+        "eventMetadata": {
+          "participantMetadata": {},
+          "mediaMetadata": {
+            "BetRadarStats_Stats": {},
+            "BetRadarV3_MatchTracker": {},
+            "BetRadarV3_Scoreboard": {}
+          }
+        }
+      },
+      {
+        "eventId": "30189463",
+        "displayGroupId": "1",
+        "eventGroupId": "40030",
+        "eventGroupName": "Italy - Serie A",
+        "name": "Fiorentina vs AS Roma",
+        "nameIdentifier": "Fiorentina vs AS Roma",
+        "startDate": "2024-03-10T19:45:00.0000000Z",
+        "teamName1": "Fiorentina",
+        "teamName2": "AS Roma",
+        "teamShortName1": "",
+        "teamShortName2": "",
+        "team1": { "teamId": 84077, "name": "Fiorentina" },
+        "team2": { "teamId": 87595, "name": "AS Roma" },
+        "eventStatus": {
+          "state": "NOT_STARTED",
+          "isClockDisabled": false,
+          "minute": 0,
+          "second": 0,
+          "isClockRunning": false
+        },
+        "eventScorecard": { "scorecardComponentId": 1 },
+        "mediaList": [
+          {
+            "mediaProviderName": "BetRadarStats",
+            "mediaId": "42134655",
+            "mediaTypeName": "Stats",
+            "metadata": {},
+            "updatedAt": "2024-03-05T05:14:37.9492033Z"
+          },
+          {
+            "mediaProviderName": "BetRadarV3",
+            "mediaId": "42134655",
+            "mediaTypeName": "MatchTracker",
+            "metadata": { "betRadarCoverage": "4" },
+            "updatedAt": "2024-03-05T05:14:37.9492033Z"
+          },
+          {
+            "mediaProviderName": "BetRadarV3",
+            "mediaId": "42134655",
+            "mediaTypeName": "Scoreboard",
+            "metadata": { "betRadarCoverage": "4" },
+            "updatedAt": "2024-03-05T05:14:37.9492033Z"
+          }
+        ],
+        "liveBettingOffered": false,
+        "liveBettingEnabled": false,
+        "isSameGameParlayEligible": true,
+        "tags": [
+          "FeaturedSubcategory",
+          "MatchTracker",
+          "PrePack",
+          "Scoreboard",
+          "SportcastBetBuilder",
+          "Stats",
+          "YourBetEligible"
+        ],
+        "flashBetOfferCount": 0,
+        "eventMetadata": {
+          "participantMetadata": {},
+          "mediaMetadata": {
+            "BetRadarStats_Stats": {},
+            "BetRadarV3_MatchTracker": {},
+            "BetRadarV3_Scoreboard": {}
+          }
+        }
+      },
+      {
+        "eventId": "30189464",
+        "displayGroupId": "1",
+        "eventGroupId": "40030",
+        "eventGroupName": "Italy - Serie A",
+        "name": "Lazio vs Udinese",
+        "nameIdentifier": "Lazio vs Udinese",
+        "startDate": "2024-03-11T19:45:00.0000000Z",
+        "teamName1": "Lazio",
+        "teamName2": "Udinese",
+        "teamShortName1": "",
+        "teamShortName2": "",
+        "team1": { "teamId": 87599, "name": "Lazio" },
+        "team2": { "teamId": 87382, "name": "Udinese" },
+        "eventStatus": {
+          "state": "NOT_STARTED",
+          "isClockDisabled": false,
+          "minute": 0,
+          "second": 0,
+          "isClockRunning": false
+        },
+        "eventScorecard": { "scorecardComponentId": 1 },
+        "mediaList": [
+          {
+            "mediaProviderName": "BetRadarStats",
+            "mediaId": "42134661",
+            "mediaTypeName": "Stats",
+            "metadata": {},
+            "updatedAt": "2024-03-05T05:14:32.2320013Z"
+          },
+          {
+            "mediaProviderName": "BetRadarV3",
+            "mediaId": "42134661",
+            "mediaTypeName": "MatchTracker",
+            "metadata": { "betRadarCoverage": "4" },
+            "updatedAt": "2024-03-05T05:14:32.2320013Z"
+          },
+          {
+            "mediaProviderName": "BetRadarV3",
+            "mediaId": "42134661",
+            "mediaTypeName": "Scoreboard",
+            "metadata": { "betRadarCoverage": "4" },
+            "updatedAt": "2024-03-05T05:14:32.2320013Z"
+          }
+        ],
+        "liveBettingOffered": false,
+        "liveBettingEnabled": false,
+        "isSameGameParlayEligible": true,
+        "tags": [
+          "FeaturedSubcategory",
+          "MatchTracker",
+          "PrePack",
+          "Scoreboard",
+          "SportcastBetBuilder",
+          "Stats",
+          "YourBetEligible"
+        ],
+        "flashBetOfferCount": 0,
+        "eventMetadata": {
+          "participantMetadata": {},
+          "mediaMetadata": {
+            "BetRadarStats_Stats": {},
+            "BetRadarV3_MatchTracker": {},
+            "BetRadarV3_Scoreboard": {}
+          }
+        }
+      },
+      {
+        "eventId": "30228750",
+        "displayGroupId": "1",
+        "eventGroupId": "40030",
+        "eventGroupName": "Italy - Serie A",
+        "name": "Empoli vs Bologna",
+        "nameIdentifier": "Empoli vs Bologna",
+        "startDate": "2024-03-15T19:45:00.0000000Z",
+        "teamName1": "Empoli",
+        "teamName2": "Bologna",
+        "teamShortName1": "",
+        "teamShortName2": "",
+        "team1": { "teamId": 87272, "name": "Empoli" },
+        "team2": { "teamId": 87371, "name": "Bologna" },
+        "eventStatus": {
+          "state": "NOT_STARTED",
+          "isClockDisabled": false,
+          "minute": 0,
+          "second": 0,
+          "isClockRunning": false
+        },
+        "eventScorecard": { "scorecardComponentId": 1 },
+        "mediaList": [
+          {
+            "mediaProviderName": "BetRadarStats",
+            "mediaId": "42134673",
+            "mediaTypeName": "Stats",
+            "metadata": {},
+            "updatedAt": "2024-03-04T23:36:47.8206551Z"
+          },
+          {
+            "mediaProviderName": "BetRadarV3",
+            "mediaId": "42134673",
+            "mediaTypeName": "MatchTracker",
+            "metadata": { "betRadarCoverage": "4" },
+            "updatedAt": "2024-03-04T23:36:47.8206551Z"
+          },
+          {
+            "mediaProviderName": "BetRadarV3",
+            "mediaId": "42134673",
+            "mediaTypeName": "Scoreboard",
+            "metadata": { "betRadarCoverage": "4" },
+            "updatedAt": "2024-03-04T23:36:47.8206551Z"
+          }
+        ],
+        "liveBettingOffered": false,
+        "liveBettingEnabled": false,
+        "tags": ["FeaturedSubcategory", "MatchTracker", "Scoreboard", "Stats"],
+        "flashBetOfferCount": 0,
+        "eventMetadata": {
+          "participantMetadata": {},
+          "mediaMetadata": {
+            "BetRadarStats_Stats": {},
+            "BetRadarV3_MatchTracker": {},
+            "BetRadarV3_Scoreboard": {}
+          }
+        }
+      },
+      {
+        "eventId": "30228746",
+        "displayGroupId": "1",
+        "eventGroupId": "40030",
+        "eventGroupName": "Italy - Serie A",
+        "name": "Udinese vs Torino",
+        "nameIdentifier": "Udinese vs Torino",
+        "startDate": "2024-03-16T14:00:00.0000000Z",
+        "teamName1": "Udinese",
+        "teamName2": "Torino",
+        "teamShortName1": "",
+        "teamShortName2": "",
+        "team1": { "teamId": 87382, "name": "Udinese" },
+        "team2": { "teamId": 85627, "name": "Torino" },
+        "eventStatus": {
+          "state": "NOT_STARTED",
+          "isClockDisabled": false,
+          "minute": 0,
+          "second": 0,
+          "isClockRunning": false
+        },
+        "eventScorecard": { "scorecardComponentId": 1 },
+        "mediaList": [
+          {
+            "mediaProviderName": "BetRadarStats",
+            "mediaId": "42134691",
+            "mediaTypeName": "Stats",
+            "metadata": {},
+            "updatedAt": "2024-03-04T23:37:57.9726014Z"
+          },
+          {
+            "mediaProviderName": "BetRadarV3",
+            "mediaId": "42134691",
+            "mediaTypeName": "MatchTracker",
+            "metadata": { "betRadarCoverage": "4" },
+            "updatedAt": "2024-03-04T23:37:57.9726014Z"
+          },
+          {
+            "mediaProviderName": "BetRadarV3",
+            "mediaId": "42134691",
+            "mediaTypeName": "Scoreboard",
+            "metadata": { "betRadarCoverage": "4" },
+            "updatedAt": "2024-03-04T23:37:57.9726014Z"
+          }
+        ],
+        "liveBettingOffered": false,
+        "liveBettingEnabled": false,
+        "tags": ["FeaturedSubcategory", "MatchTracker", "Scoreboard", "Stats"],
+        "flashBetOfferCount": 0,
+        "eventMetadata": {
+          "participantMetadata": {},
+          "mediaMetadata": {
+            "BetRadarStats_Stats": {},
+            "BetRadarV3_MatchTracker": {},
+            "BetRadarV3_Scoreboard": {}
+          }
+        }
+      },
+      {
+        "eventId": "30228747",
+        "displayGroupId": "1",
+        "eventGroupId": "40030",
+        "eventGroupName": "Italy - Serie A",
+        "name": "Monza Brianza vs Cagliari",
+        "nameIdentifier": "Monza Brianza vs Cagliari",
+        "startDate": "2024-03-16T14:00:00.0000000Z",
+        "teamName1": "Monza Brianza",
+        "teamName2": "Cagliari",
+        "teamShortName1": "",
+        "teamShortName2": "",
+        "team1": { "teamId": 87164, "name": "Monza Brianza" },
+        "team2": { "teamId": 87341, "name": "Cagliari" },
+        "eventStatus": {
+          "state": "NOT_STARTED",
+          "isClockDisabled": false,
+          "minute": 0,
+          "second": 0,
+          "isClockRunning": false
+        },
+        "eventScorecard": { "scorecardComponentId": 1 },
+        "mediaList": [
+          {
+            "mediaProviderName": "BetRadarStats",
+            "mediaId": "42134683",
+            "mediaTypeName": "Stats",
+            "metadata": {},
+            "updatedAt": "2024-03-04T23:34:44.6596118Z"
+          },
+          {
+            "mediaProviderName": "BetRadarV3",
+            "mediaId": "42134683",
+            "mediaTypeName": "MatchTracker",
+            "metadata": { "betRadarCoverage": "4" },
+            "updatedAt": "2024-03-04T23:34:44.6596118Z"
+          },
+          {
+            "mediaProviderName": "BetRadarV3",
+            "mediaId": "42134683",
+            "mediaTypeName": "Scoreboard",
+            "metadata": { "betRadarCoverage": "4" },
+            "updatedAt": "2024-03-04T23:34:44.6596118Z"
+          }
+        ],
+        "liveBettingOffered": false,
+        "liveBettingEnabled": false,
+        "tags": ["FeaturedSubcategory", "MatchTracker", "Scoreboard", "Stats"],
+        "flashBetOfferCount": 0,
+        "eventMetadata": {
+          "participantMetadata": {},
+          "mediaMetadata": {
+            "BetRadarStats_Stats": {},
+            "BetRadarV3_MatchTracker": {},
+            "BetRadarV3_Scoreboard": {}
+          }
+        }
+      },
+      {
+        "eventId": "30228752",
+        "displayGroupId": "1",
+        "eventGroupId": "40030",
+        "eventGroupName": "Italy - Serie A",
+        "name": "Salernitana vs Lecce",
+        "nameIdentifier": "Salernitana vs Lecce",
+        "startDate": "2024-03-16T17:00:00.0000000Z",
+        "teamName1": "Salernitana",
+        "teamName2": "Lecce",
+        "teamShortName1": "",
+        "teamShortName2": "",
+        "team1": { "teamId": 87310, "name": "Salernitana" },
+        "team2": { "teamId": 87362, "name": "Lecce" },
+        "eventStatus": {
+          "state": "NOT_STARTED",
+          "isClockDisabled": false,
+          "minute": 0,
+          "second": 0,
+          "isClockRunning": false
+        },
+        "eventScorecard": { "scorecardComponentId": 1 },
+        "mediaList": [
+          {
+            "mediaProviderName": "BetRadarStats",
+            "mediaId": "42134687",
+            "mediaTypeName": "Stats",
+            "metadata": {},
+            "updatedAt": "2024-03-05T05:13:14.8741659Z"
+          },
+          {
+            "mediaProviderName": "BetRadarV3",
+            "mediaId": "42134687",
+            "mediaTypeName": "MatchTracker",
+            "metadata": { "betRadarCoverage": "4" },
+            "updatedAt": "2024-03-05T05:13:14.8741659Z"
+          },
+          {
+            "mediaProviderName": "BetRadarV3",
+            "mediaId": "42134687",
+            "mediaTypeName": "Scoreboard",
+            "metadata": { "betRadarCoverage": "4" },
+            "updatedAt": "2024-03-05T05:13:14.8741659Z"
+          }
+        ],
+        "liveBettingOffered": false,
+        "liveBettingEnabled": false,
+        "tags": ["FeaturedSubcategory", "MatchTracker", "Scoreboard", "Stats"],
+        "flashBetOfferCount": 0,
+        "eventMetadata": {
+          "participantMetadata": {},
+          "mediaMetadata": {
+            "BetRadarStats_Stats": {},
+            "BetRadarV3_MatchTracker": {},
+            "BetRadarV3_Scoreboard": {}
+          }
+        }
+      },
+      {
+        "eventId": "30228748",
+        "displayGroupId": "1",
+        "eventGroupId": "40030",
+        "eventGroupName": "Italy - Serie A",
+        "name": "Frosinone vs Lazio",
+        "nameIdentifier": "Frosinone vs Lazio",
+        "startDate": "2024-03-16T19:45:00.0000000Z",
+        "teamName1": "Frosinone",
+        "teamName2": "Lazio",
+        "teamShortName1": "",
+        "teamShortName2": "",
+        "team1": { "teamId": 87275, "name": "Frosinone" },
+        "team2": { "teamId": 87599, "name": "Lazio" },
+        "eventStatus": {
+          "state": "NOT_STARTED",
+          "isClockDisabled": false,
+          "minute": 0,
+          "second": 0,
+          "isClockRunning": false
+        },
+        "eventScorecard": { "scorecardComponentId": 1 },
+        "mediaList": [
+          {
+            "mediaProviderName": "BetRadarStats",
+            "mediaId": "42134675",
+            "mediaTypeName": "Stats",
+            "metadata": {},
+            "updatedAt": "2024-03-04T23:40:18.9286698Z"
+          },
+          {
+            "mediaProviderName": "BetRadarV3",
+            "mediaId": "42134675",
+            "mediaTypeName": "MatchTracker",
+            "metadata": { "betRadarCoverage": "4" },
+            "updatedAt": "2024-03-04T23:40:18.9286698Z"
+          },
+          {
+            "mediaProviderName": "BetRadarV3",
+            "mediaId": "42134675",
+            "mediaTypeName": "Scoreboard",
+            "metadata": { "betRadarCoverage": "4" },
+            "updatedAt": "2024-03-04T23:40:18.9286698Z"
+          }
+        ],
+        "liveBettingOffered": false,
+        "liveBettingEnabled": false,
+        "tags": ["FeaturedSubcategory", "MatchTracker", "Scoreboard", "Stats"],
+        "flashBetOfferCount": 0,
+        "eventMetadata": {
+          "participantMetadata": {},
+          "mediaMetadata": {
+            "BetRadarStats_Stats": {},
+            "BetRadarV3_MatchTracker": {},
+            "BetRadarV3_Scoreboard": {}
+          }
+        }
+      },
+      {
+        "eventId": "30228753",
+        "displayGroupId": "1",
+        "eventGroupId": "40030",
+        "eventGroupName": "Italy - Serie A",
+        "name": "Juventus vs Genoa",
+        "nameIdentifier": "Juventus vs Genoa",
+        "startDate": "2024-03-17T11:30:00.0000000Z",
+        "teamName1": "Juventus",
+        "teamName2": "Genoa",
+        "teamShortName1": "",
+        "teamShortName2": "",
+        "team1": { "teamId": 84088, "name": "Juventus" },
+        "team2": { "teamId": 87331, "name": "Genoa" },
+        "eventStatus": {
+          "state": "NOT_STARTED",
+          "isClockDisabled": false,
+          "minute": 0,
+          "second": 0,
+          "isClockRunning": false
+        },
+        "eventScorecard": { "scorecardComponentId": 1 },
+        "mediaList": [
+          {
+            "mediaProviderName": "BetRadarStats",
+            "mediaId": "42134681",
+            "mediaTypeName": "Stats",
+            "metadata": {},
+            "updatedAt": "2024-03-05T05:09:25.8538125Z"
+          },
+          {
+            "mediaProviderName": "BetRadarV3",
+            "mediaId": "42134681",
+            "mediaTypeName": "MatchTracker",
+            "metadata": { "betRadarCoverage": "4" },
+            "updatedAt": "2024-03-05T05:09:25.8538125Z"
+          },
+          {
+            "mediaProviderName": "BetRadarV3",
+            "mediaId": "42134681",
+            "mediaTypeName": "Scoreboard",
+            "metadata": { "betRadarCoverage": "4" },
+            "updatedAt": "2024-03-05T05:09:25.8538125Z"
+          }
+        ],
+        "liveBettingOffered": false,
+        "liveBettingEnabled": false,
+        "tags": ["FeaturedSubcategory", "MatchTracker", "Scoreboard", "Stats"],
+        "flashBetOfferCount": 0,
+        "eventMetadata": {
+          "participantMetadata": {},
+          "mediaMetadata": {
+            "BetRadarStats_Stats": {},
+            "BetRadarV3_MatchTracker": {},
+            "BetRadarV3_Scoreboard": {}
+          }
+        }
+      },
+      {
+        "eventId": "30228751",
+        "displayGroupId": "1",
+        "eventGroupId": "40030",
+        "eventGroupName": "Italy - Serie A",
+        "name": "Verona vs AC Milan",
+        "nameIdentifier": "Verona vs AC Milan",
+        "startDate": "2024-03-17T14:00:00.0000000Z",
+        "teamName1": "Verona",
+        "teamName2": "AC Milan",
+        "teamShortName1": "",
+        "teamShortName2": "",
+        "team1": { "teamId": 87386, "name": "Verona" },
+        "team2": { "teamId": 84090, "name": "AC Milan" },
+        "eventStatus": {
+          "state": "NOT_STARTED",
+          "isClockDisabled": false,
+          "minute": 0,
+          "second": 0,
+          "isClockRunning": false
+        },
+        "eventScorecard": { "scorecardComponentId": 1 },
+        "mediaList": [
+          {
+            "mediaProviderName": "BetRadarStats",
+            "mediaId": "42134677",
+            "mediaTypeName": "Stats",
+            "metadata": {},
+            "updatedAt": "2024-03-04T23:40:53.8834090Z"
+          },
+          {
+            "mediaProviderName": "BetRadarV3",
+            "mediaId": "42134677",
+            "mediaTypeName": "MatchTracker",
+            "metadata": { "betRadarCoverage": "4" },
+            "updatedAt": "2024-03-04T23:40:53.8834090Z"
+          },
+          {
+            "mediaProviderName": "BetRadarV3",
+            "mediaId": "42134677",
+            "mediaTypeName": "Scoreboard",
+            "metadata": { "betRadarCoverage": "4" },
+            "updatedAt": "2024-03-04T23:40:53.8834090Z"
+          }
+        ],
+        "liveBettingOffered": false,
+        "liveBettingEnabled": false,
+        "tags": ["FeaturedSubcategory", "MatchTracker", "Scoreboard", "Stats"],
+        "flashBetOfferCount": 0,
+        "eventMetadata": {
+          "participantMetadata": {},
+          "mediaMetadata": {
+            "BetRadarStats_Stats": {},
+            "BetRadarV3_MatchTracker": {},
+            "BetRadarV3_Scoreboard": {}
+          }
+        }
+      },
+      {
+        "eventId": "30228749",
+        "displayGroupId": "1",
+        "eventGroupId": "40030",
+        "eventGroupName": "Italy - Serie A",
+        "name": "AS Roma vs Sassuolo",
+        "nameIdentifier": "AS Roma vs Sassuolo",
+        "startDate": "2024-03-17T17:00:00.0000000Z",
+        "teamName1": "AS Roma",
+        "teamName2": "Sassuolo",
+        "teamShortName1": "",
+        "teamShortName2": "",
+        "team1": { "teamId": 87595, "name": "AS Roma" },
+        "team2": { "teamId": 87378, "name": "Sassuolo" },
+        "eventStatus": {
+          "state": "NOT_STARTED",
+          "isClockDisabled": false,
+          "minute": 0,
+          "second": 0,
+          "isClockRunning": false
+        },
+        "eventScorecard": { "scorecardComponentId": 1 },
+        "mediaList": [
+          {
+            "mediaProviderName": "BetRadarStats",
+            "mediaId": "42134685",
+            "mediaTypeName": "Stats",
+            "metadata": {},
+            "updatedAt": "2024-03-05T05:06:47.6911119Z"
+          },
+          {
+            "mediaProviderName": "BetRadarV3",
+            "mediaId": "42134685",
+            "mediaTypeName": "MatchTracker",
+            "metadata": { "betRadarCoverage": "4" },
+            "updatedAt": "2024-03-05T05:06:47.6911119Z"
+          },
+          {
+            "mediaProviderName": "BetRadarV3",
+            "mediaId": "42134685",
+            "mediaTypeName": "Scoreboard",
+            "metadata": { "betRadarCoverage": "4" },
+            "updatedAt": "2024-03-05T05:06:47.6911119Z"
+          }
+        ],
+        "liveBettingOffered": false,
+        "liveBettingEnabled": false,
+        "tags": ["FeaturedSubcategory", "MatchTracker", "Scoreboard", "Stats"],
+        "flashBetOfferCount": 0,
+        "eventMetadata": {
+          "participantMetadata": {},
+          "mediaMetadata": {
+            "BetRadarStats_Stats": {},
+            "BetRadarV3_MatchTracker": {},
+            "BetRadarV3_Scoreboard": {}
+          }
+        }
+      },
+      {
+        "eventId": "30228755",
+        "displayGroupId": "1",
+        "eventGroupId": "40030",
+        "eventGroupName": "Italy - Serie A",
+        "name": "Atalanta vs Fiorentina",
+        "nameIdentifier": "Atalanta vs Fiorentina",
+        "startDate": "2024-03-17T17:00:00.0000000Z",
+        "teamName1": "Atalanta",
+        "teamName2": "Fiorentina",
+        "teamShortName1": "",
+        "teamShortName2": "",
+        "team1": { "teamId": 87597, "name": "Atalanta" },
+        "team2": { "teamId": 84077, "name": "Fiorentina" },
+        "eventStatus": {
+          "state": "NOT_STARTED",
+          "isClockDisabled": false,
+          "minute": 0,
+          "second": 0,
+          "isClockRunning": false
+        },
+        "eventScorecard": { "scorecardComponentId": 1 },
+        "mediaList": [
+          {
+            "mediaProviderName": "BetRadarStats",
+            "mediaId": "42134671",
+            "mediaTypeName": "Stats",
+            "metadata": {},
+            "updatedAt": "2024-03-05T05:07:40.4528384Z"
+          },
+          {
+            "mediaProviderName": "BetRadarV3",
+            "mediaId": "42134671",
+            "mediaTypeName": "MatchTracker",
+            "metadata": { "betRadarCoverage": "4" },
+            "updatedAt": "2024-03-05T05:07:40.4528384Z"
+          },
+          {
+            "mediaProviderName": "BetRadarV3",
+            "mediaId": "42134671",
+            "mediaTypeName": "Scoreboard",
+            "metadata": { "betRadarCoverage": "4" },
+            "updatedAt": "2024-03-05T05:07:40.4528384Z"
+          }
+        ],
+        "liveBettingOffered": false,
+        "liveBettingEnabled": false,
+        "tags": ["FeaturedSubcategory", "MatchTracker", "Scoreboard", "Stats"],
+        "flashBetOfferCount": 0,
+        "eventMetadata": {
+          "participantMetadata": {},
+          "mediaMetadata": {
+            "BetRadarStats_Stats": {},
+            "BetRadarV3_MatchTracker": {},
+            "BetRadarV3_Scoreboard": {}
+          }
+        }
+      },
+      {
+        "eventId": "30228754",
+        "displayGroupId": "1",
+        "eventGroupId": "40030",
+        "eventGroupName": "Italy - Serie A",
+        "name": "Inter Milan vs Napoli",
+        "nameIdentifier": "Inter Milan vs Napoli",
+        "startDate": "2024-03-17T19:45:00.0000000Z",
+        "teamName1": "Inter Milan",
+        "teamName2": "Napoli",
+        "teamShortName1": "",
+        "teamShortName2": "",
+        "team1": { "teamId": 84084, "name": "Inter Milan" },
+        "team2": { "teamId": 87591, "name": "Napoli" },
+        "eventStatus": {
+          "state": "NOT_STARTED",
+          "isClockDisabled": false,
+          "minute": 0,
+          "second": 0,
+          "isClockRunning": false
+        },
+        "eventScorecard": { "scorecardComponentId": 1 },
+        "mediaList": [
+          {
+            "mediaProviderName": "BetRadarStats",
+            "mediaId": "42134679",
+            "mediaTypeName": "Stats",
+            "metadata": {},
+            "updatedAt": "2024-03-05T05:17:58.8708013Z"
+          },
+          {
+            "mediaProviderName": "BetRadarV3",
+            "mediaId": "42134679",
+            "mediaTypeName": "MatchTracker",
+            "metadata": { "betRadarCoverage": "4" },
+            "updatedAt": "2024-03-05T05:17:58.8708013Z"
+          },
+          {
+            "mediaProviderName": "BetRadarV3",
+            "mediaId": "42134679",
+            "mediaTypeName": "Scoreboard",
+            "metadata": { "betRadarCoverage": "4" },
+            "updatedAt": "2024-03-05T05:17:58.8708013Z"
+          }
+        ],
+        "liveBettingOffered": false,
+        "liveBettingEnabled": false,
+        "tags": ["FeaturedSubcategory", "MatchTracker", "Scoreboard", "Stats"],
+        "flashBetOfferCount": 0,
+        "eventMetadata": {
+          "participantMetadata": {},
+          "mediaMetadata": {
+            "BetRadarStats_Stats": {},
+            "BetRadarV3_MatchTracker": {},
+            "BetRadarV3_Scoreboard": {}
+          }
+        }
+      }
+    ],
+    "tags": [
+      "FeaturedSubcategory",
+      "MatchTracker",
+      "Scoreboard",
+      "Stats",
+      "PrePack",
+      "SportcastBetBuilder",
+      "YourBetEligible"
+    ],
+    "nameIdentifier": "Italy - Serie A"
+  }
+}

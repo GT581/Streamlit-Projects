@@ -1,0 +1,3996 @@
+{
+    "sports": [
+        {
+            "id": "3",
+            "seoIdentifier": "Football",
+            "name": "Football",
+            "sortOrder": 60
+        }
+    ],
+    "leagues": [
+        {
+            "id": "88808",
+            "name": "NFL",
+            "sportId": "3",
+            "sortOrder": 4847,
+            "tags": [
+                "FeaturedSubcategory",
+                "PrePack",
+                "SGP",
+                "SgpDynamicOdds",
+                "YourBetEligible",
+                "Featured",
+                "FavoriteableFromPage"
+            ],
+            "isTeamSwap": true,
+            "featured": true
+        }
+    ],
+    "events": [
+        {
+            "id": "c6f2d9a9-de3d-4136-3e2e-08dcbd07fadd",
+            "seoIdentifier": "Sam Darnold 2024/25",
+            "sportId": "3",
+            "leagueId": "88808",
+            "name": "Sam Darnold 2024/25",
+            "startEventDate": "2024-09-05T23:00:00.0000000Z",
+            "participants": [
+                {
+                    "name": "Sam Darnold",
+                    "type": "Team"
+                }
+            ],
+            "eventParticipantType": "OneTeam",
+            "status": "NOT_STARTED",
+            "eventScorecard": {
+                "scorecardComponentId": 1
+            },
+            "metadata": {
+                "settlementDate": "2025-01-08T00:00:00Z"
+            },
+            "sortOrder": 546234000,
+            "subscriptionKey": "league-events-88808"
+        },
+        {
+            "id": "02cd1244-ab02-4b2f-a561-08dc65488f96",
+            "seoIdentifier": "Gardner Minshew II 2024/25",
+            "sportId": "3",
+            "leagueId": "88808",
+            "name": "Gardner Minshew II 2024/25",
+            "startEventDate": "2024-09-05T23:00:00.0000000Z",
+            "participants": [
+                {
+                    "name": "Gardner Minshew II",
+                    "type": "Team"
+                },
+                {
+                    "id": "18388",
+                    "name": "LV Raiders",
+                    "type": "Team",
+                    "metadata": {
+                        "rosettaTeamId": "18388",
+                        "shortName": "LV"
+                    }
+                },
+                {
+                    "name": "Gardner Minshew",
+                    "type": "Team"
+                }
+            ],
+            "eventParticipantType": "MultiTeam",
+            "status": "NOT_STARTED",
+            "eventScorecard": {
+                "scorecardComponentId": 1
+            },
+            "metadata": {
+                "settlementDate": "2025-01-05T21:00:00Z"
+            },
+            "sortOrder": 546234011,
+            "subscriptionKey": "league-events-88808"
+        },
+        {
+            "id": "0e777f2e-133f-48c4-a55c-08dc65488f96",
+            "seoIdentifier": "Matthew Stafford 2024/25",
+            "sportId": "3",
+            "leagueId": "88808",
+            "name": "Matthew Stafford 2024/25",
+            "startEventDate": "2024-09-05T23:00:00.0000000Z",
+            "participants": [
+                {
+                    "id": "18397",
+                    "name": "LA Rams",
+                    "type": "Team",
+                    "metadata": {
+                        "rosettaTeamId": "18397",
+                        "shortName": "LAR"
+                    }
+                },
+                {
+                    "name": "Matthew Stafford",
+                    "type": "Team"
+                }
+            ],
+            "eventParticipantType": "",
+            "status": "NOT_STARTED",
+            "eventScorecard": {
+                "scorecardComponentId": 1
+            },
+            "metadata": {
+                "settlementDate": "2025-01-05T21:00:00Z"
+            },
+            "sortOrder": 546234011,
+            "subscriptionKey": "league-events-88808"
+        },
+        {
+            "id": "11a6759e-5ffd-4ba2-a5c9-08dc65488f96",
+            "seoIdentifier": "Anthony Richardson 2024/25",
+            "sportId": "3",
+            "leagueId": "88808",
+            "name": "Anthony Richardson 2024/25",
+            "startEventDate": "2024-09-05T23:00:00.0000000Z",
+            "participants": [
+                {
+                    "name": "Anthony Richardson",
+                    "type": "Team"
+                },
+                {
+                    "id": "18372",
+                    "name": "IND Colts",
+                    "type": "Team",
+                    "metadata": {
+                        "rosettaTeamId": "18372",
+                        "shortName": "IND"
+                    }
+                }
+            ],
+            "eventParticipantType": "",
+            "status": "NOT_STARTED",
+            "eventScorecard": {
+                "scorecardComponentId": 1
+            },
+            "metadata": {
+                "settlementDate": "2025-01-05T21:00:00Z"
+            },
+            "sortOrder": 546234011,
+            "subscriptionKey": "league-events-88808"
+        },
+        {
+            "id": "126a34e2-c533-4593-a55b-08dc65488f96",
+            "seoIdentifier": "Kyler Murray 2024/25",
+            "sportId": "3",
+            "leagueId": "88808",
+            "name": "Kyler Murray 2024/25",
+            "startEventDate": "2024-09-05T23:00:00.0000000Z",
+            "participants": [
+                {
+                    "id": "18454",
+                    "name": "ARI Cardinals",
+                    "type": "Team",
+                    "metadata": {
+                        "rosettaTeamId": "18454",
+                        "shortName": "ARI"
+                    }
+                },
+                {
+                    "name": "Kyler Murray",
+                    "type": "Team"
+                }
+            ],
+            "eventParticipantType": "",
+            "status": "NOT_STARTED",
+            "eventScorecard": {
+                "scorecardComponentId": 1
+            },
+            "metadata": {
+                "settlementDate": "2025-01-05T21:00:00Z"
+            },
+            "sortOrder": 546234011,
+            "subscriptionKey": "league-events-88808"
+        },
+        {
+            "id": "2e00a68b-a566-40cd-a393-08dc65488f96",
+            "seoIdentifier": "Bo Nix 2024/25",
+            "sportId": "3",
+            "leagueId": "88808",
+            "name": "Bo Nix 2024/25",
+            "startEventDate": "2024-09-05T23:00:00.0000000Z",
+            "participants": [
+                {
+                    "id": "18342",
+                    "name": "DEN Broncos",
+                    "type": "Team",
+                    "metadata": {
+                        "rosettaTeamId": "18342",
+                        "shortName": "DEN"
+                    }
+                },
+                {
+                    "name": "Bo Nix",
+                    "type": "Team"
+                }
+            ],
+            "eventParticipantType": "",
+            "status": "NOT_STARTED",
+            "eventScorecard": {
+                "scorecardComponentId": 1
+            },
+            "metadata": {
+                "settlementDate": "2025-01-05T21:00:00Z"
+            },
+            "sortOrder": 546234011,
+            "subscriptionKey": "league-events-88808"
+        },
+        {
+            "id": "4856fcb5-52f3-4739-a560-08dc65488f96",
+            "seoIdentifier": "Daniel Jones 2024/25",
+            "sportId": "3",
+            "leagueId": "88808",
+            "name": "Daniel Jones 2024/25",
+            "startEventDate": "2024-09-05T23:00:00.0000000Z",
+            "participants": [
+                {
+                    "name": "Daniel Jones",
+                    "type": "Team"
+                },
+                {
+                    "id": "18432",
+                    "name": "NY Giants",
+                    "type": "Team",
+                    "metadata": {
+                        "rosettaTeamId": "18432",
+                        "shortName": "NYG"
+                    }
+                }
+            ],
+            "eventParticipantType": "",
+            "status": "NOT_STARTED",
+            "eventScorecard": {
+                "scorecardComponentId": 1
+            },
+            "metadata": {
+                "settlementDate": "2025-01-05T21:00:00Z"
+            },
+            "sortOrder": 546234011,
+            "subscriptionKey": "league-events-88808"
+        },
+        {
+            "id": "48d5b0a6-3507-4444-a554-08dc65488f96",
+            "seoIdentifier": "Jared Goff 2024/25",
+            "sportId": "3",
+            "leagueId": "88808",
+            "name": "Jared Goff 2024/25",
+            "startEventDate": "2024-09-05T23:00:00.0000000Z",
+            "participants": [
+                {
+                    "id": "18348",
+                    "name": "DET Lions",
+                    "type": "Team",
+                    "metadata": {
+                        "rosettaTeamId": "18348",
+                        "shortName": "DET"
+                    }
+                },
+                {
+                    "name": "Jared Goff",
+                    "type": "Team"
+                }
+            ],
+            "eventParticipantType": "",
+            "status": "NOT_STARTED",
+            "eventScorecard": {
+                "scorecardComponentId": 1
+            },
+            "metadata": {
+                "settlementDate": "2025-01-05T21:00:00Z"
+            },
+            "sortOrder": 546234011,
+            "subscriptionKey": "league-events-88808"
+        },
+        {
+            "id": "70a0629b-921b-4a08-a37e-08dc65488f96",
+            "seoIdentifier": "Jayden Daniels 2024/25",
+            "sportId": "3",
+            "leagueId": "88808",
+            "name": "Jayden Daniels 2024/25",
+            "startEventDate": "2024-09-05T23:00:00.0000000Z",
+            "participants": [
+                {
+                    "name": "Jayden Daniels",
+                    "type": "Team"
+                },
+                {
+                    "id": "18480",
+                    "name": "WAS Commanders",
+                    "type": "Team",
+                    "metadata": {
+                        "rosettaTeamId": "18480",
+                        "shortName": "WAS"
+                    }
+                }
+            ],
+            "eventParticipantType": "",
+            "status": "NOT_STARTED",
+            "eventScorecard": {
+                "scorecardComponentId": 1
+            },
+            "metadata": {
+                "settlementDate": "2025-01-05T21:00:00Z"
+            },
+            "sortOrder": 546234011,
+            "subscriptionKey": "league-events-88808"
+        },
+        {
+            "id": "7e0fea61-247f-4a37-a553-08dc65488f96",
+            "seoIdentifier": "Josh Allen 2024/25",
+            "sportId": "3",
+            "leagueId": "88808",
+            "name": "Josh Allen 2024/25",
+            "startEventDate": "2024-09-05T23:00:00.0000000Z",
+            "participants": [
+                {
+                    "id": "18302",
+                    "name": "BUF Bills",
+                    "type": "Team",
+                    "metadata": {
+                        "rosettaTeamId": "18302",
+                        "shortName": "BUF"
+                    }
+                },
+                {
+                    "name": "Josh Allen",
+                    "type": "Team"
+                }
+            ],
+            "eventParticipantType": "",
+            "status": "NOT_STARTED",
+            "eventScorecard": {
+                "scorecardComponentId": 1
+            },
+            "metadata": {
+                "settlementDate": "2025-01-05T21:00:00Z"
+            },
+            "sortOrder": 546234011,
+            "subscriptionKey": "league-events-88808"
+        },
+        {
+            "id": "88872806-b580-4260-a556-08dc65488f96",
+            "seoIdentifier": "Lamar Jackson 2024/25",
+            "sportId": "3",
+            "leagueId": "88808",
+            "name": "Lamar Jackson 2024/25",
+            "startEventDate": "2024-09-05T23:00:00.0000000Z",
+            "participants": [
+                {
+                    "id": "18495",
+                    "name": "BAL Ravens",
+                    "type": "Team",
+                    "metadata": {
+                        "rosettaTeamId": "18495",
+                        "shortName": "BAL"
+                    }
+                },
+                {
+                    "name": "Lamar Jackson",
+                    "type": "Team"
+                }
+            ],
+            "eventParticipantType": "",
+            "status": "NOT_STARTED",
+            "eventScorecard": {
+                "scorecardComponentId": 1
+            },
+            "metadata": {
+                "settlementDate": "2025-01-05T21:00:00Z"
+            },
+            "sortOrder": 546234011,
+            "subscriptionKey": "league-events-88808"
+        },
+        {
+            "id": "89d6505e-7f2c-4f80-a55d-08dc65488f96",
+            "seoIdentifier": "Derek Carr 2024/25",
+            "sportId": "3",
+            "leagueId": "88808",
+            "name": "Derek Carr 2024/25",
+            "startEventDate": "2024-09-05T23:00:00.0000000Z",
+            "participants": [
+                {
+                    "id": "18423",
+                    "name": "NO Saints",
+                    "type": "Team",
+                    "metadata": {
+                        "rosettaTeamId": "18423",
+                        "shortName": "NO"
+                    }
+                },
+                {
+                    "name": "Derek Carr",
+                    "type": "Team"
+                }
+            ],
+            "eventParticipantType": "",
+            "status": "NOT_STARTED",
+            "eventScorecard": {
+                "scorecardComponentId": 1
+            },
+            "metadata": {
+                "settlementDate": "2025-01-05T21:00:00Z"
+            },
+            "sortOrder": 546234011,
+            "subscriptionKey": "league-events-88808"
+        },
+        {
+            "id": "8fb51814-e623-42d9-a54e-08dc65488f96",
+            "seoIdentifier": "Aaron Rodgers 2024/25",
+            "sportId": "3",
+            "leagueId": "88808",
+            "name": "Aaron Rodgers 2024/25",
+            "startEventDate": "2024-09-05T23:00:00.0000000Z",
+            "participants": [
+                {
+                    "name": "Aaron Rodgers",
+                    "type": "Team"
+                },
+                {
+                    "id": "18441",
+                    "name": "NY Jets",
+                    "type": "Team",
+                    "metadata": {
+                        "rosettaTeamId": "18441",
+                        "shortName": "NYJ"
+                    }
+                }
+            ],
+            "eventParticipantType": "",
+            "status": "NOT_STARTED",
+            "eventScorecard": {
+                "scorecardComponentId": 1
+            },
+            "metadata": {
+                "settlementDate": "2025-01-05T21:00:00Z"
+            },
+            "sortOrder": 546234011,
+            "subscriptionKey": "league-events-88808"
+        },
+        {
+            "id": "9a428289-3f57-4e26-a552-08dc65488f96",
+            "seoIdentifier": "Jalen Hurts 2024/25",
+            "sportId": "3",
+            "leagueId": "88808",
+            "name": "Jalen Hurts 2024/25",
+            "startEventDate": "2024-09-05T23:00:00.0000000Z",
+            "participants": [
+                {
+                    "name": "Jalen Hurts",
+                    "type": "Team"
+                },
+                {
+                    "id": "18448",
+                    "name": "PHI Eagles",
+                    "type": "Team",
+                    "metadata": {
+                        "rosettaTeamId": "18448",
+                        "shortName": "PHI"
+                    }
+                }
+            ],
+            "eventParticipantType": "",
+            "status": "NOT_STARTED",
+            "eventScorecard": {
+                "scorecardComponentId": 1
+            },
+            "metadata": {
+                "settlementDate": "2025-01-05T21:00:00Z"
+            },
+            "sortOrder": 546234011,
+            "subscriptionKey": "league-events-88808"
+        },
+        {
+            "id": "a49ade29-c388-4fa4-a55a-08dc65488f96",
+            "seoIdentifier": "Will Levis 2024/25",
+            "sportId": "3",
+            "leagueId": "88808",
+            "name": "Will Levis 2024/25",
+            "startEventDate": "2024-09-05T23:00:00.0000000Z",
+            "participants": [
+                {
+                    "name": "Will Levis",
+                    "type": "Team"
+                },
+                {
+                    "id": "18366",
+                    "name": "TEN Titans",
+                    "type": "Team",
+                    "metadata": {
+                        "rosettaTeamId": "18366",
+                        "shortName": "TEN"
+                    }
+                }
+            ],
+            "eventParticipantType": "",
+            "status": "NOT_STARTED",
+            "eventScorecard": {
+                "scorecardComponentId": 1
+            },
+            "metadata": {
+                "settlementDate": "2025-01-05T21:00:00Z"
+            },
+            "sortOrder": 546234011,
+            "subscriptionKey": "league-events-88808"
+        },
+        {
+            "id": "ba4a0d7b-1843-43b3-a55e-08dc65488f96",
+            "seoIdentifier": "Deshaun Watson 2024/25",
+            "sportId": "3",
+            "leagueId": "88808",
+            "name": "Deshaun Watson 2024/25",
+            "startEventDate": "2024-09-05T23:00:00.0000000Z",
+            "participants": [
+                {
+                    "name": "Deshaun Watson",
+                    "type": "Team"
+                },
+                {
+                    "id": "18325",
+                    "name": "CLE Browns",
+                    "type": "Team",
+                    "metadata": {
+                        "rosettaTeamId": "18325",
+                        "shortName": "CLE"
+                    }
+                }
+            ],
+            "eventParticipantType": "",
+            "status": "NOT_STARTED",
+            "eventScorecard": {
+                "scorecardComponentId": 1
+            },
+            "metadata": {
+                "settlementDate": "2025-01-05T21:00:00Z"
+            },
+            "sortOrder": 546234011,
+            "subscriptionKey": "league-events-88808"
+        },
+        {
+            "id": "bf4d35af-e9ee-4829-a558-08dc65488f96",
+            "seoIdentifier": "Jordan Love 2024/25",
+            "sportId": "3",
+            "leagueId": "88808",
+            "name": "Jordan Love 2024/25",
+            "startEventDate": "2024-09-05T23:00:00.0000000Z",
+            "participants": [
+                {
+                    "id": "18357",
+                    "name": "GB Packers",
+                    "type": "Team",
+                    "metadata": {
+                        "rosettaTeamId": "18357",
+                        "shortName": "GB"
+                    }
+                },
+                {
+                    "name": "Jordan Love",
+                    "type": "Team"
+                }
+            ],
+            "eventParticipantType": "",
+            "status": "NOT_STARTED",
+            "eventScorecard": {
+                "scorecardComponentId": 1
+            },
+            "metadata": {
+                "settlementDate": "2025-01-05T21:00:00Z"
+            },
+            "sortOrder": 546234011,
+            "subscriptionKey": "league-events-88808"
+        },
+        {
+            "id": "d0677620-63bd-423c-a562-08dc65488f96",
+            "seoIdentifier": "Trevor Lawrence 2024/25",
+            "sportId": "3",
+            "leagueId": "88808",
+            "name": "Trevor Lawrence 2024/25",
+            "startEventDate": "2024-09-05T23:00:00.0000000Z",
+            "participants": [
+                {
+                    "id": "18489",
+                    "name": "JAX Jaguars",
+                    "type": "Team",
+                    "metadata": {
+                        "rosettaTeamId": "18489",
+                        "shortName": "JAX"
+                    }
+                },
+                {
+                    "name": "Trevor Lawrence",
+                    "type": "Team"
+                }
+            ],
+            "eventParticipantType": "",
+            "status": "NOT_STARTED",
+            "eventScorecard": {
+                "scorecardComponentId": 1
+            },
+            "metadata": {
+                "settlementDate": "2025-01-05T21:00:00Z"
+            },
+            "sortOrder": 546234011,
+            "subscriptionKey": "league-events-88808"
+        },
+        {
+            "id": "d0b03bbe-3b21-40fb-0a85-08dc0d28e478",
+            "seoIdentifier": "Kirk Cousins 2024/25",
+            "sportId": "3",
+            "leagueId": "88808",
+            "name": "Kirk Cousins 2024/25",
+            "startEventDate": "2024-09-05T23:00:00.0000000Z",
+            "participants": [
+                {
+                    "id": "18297",
+                    "name": "ATL Falcons",
+                    "type": "Team",
+                    "metadata": {
+                        "rosettaTeamId": "18297",
+                        "shortName": "ATL"
+                    }
+                },
+                {
+                    "name": "Kirk Cousins",
+                    "type": "Team"
+                }
+            ],
+            "eventParticipantType": "",
+            "status": "NOT_STARTED",
+            "eventScorecard": {
+                "scorecardComponentId": 1
+            },
+            "metadata": {
+                "settlementDate": "2025-01-05T21:00:00Z"
+            },
+            "sortOrder": 546234011,
+            "subscriptionKey": "league-events-88808"
+        },
+        {
+            "id": "ded3f1fc-f240-4882-a54f-08dc65488f96",
+            "seoIdentifier": "Brock Purdy 2024/25",
+            "sportId": "3",
+            "leagueId": "88808",
+            "name": "Brock Purdy 2024/25",
+            "startEventDate": "2024-09-05T23:00:00.0000000Z",
+            "participants": [
+                {
+                    "id": "18465",
+                    "name": "SF 49ers",
+                    "type": "Team",
+                    "metadata": {
+                        "rosettaTeamId": "18465",
+                        "shortName": "SF"
+                    }
+                },
+                {
+                    "name": "Brock Purdy",
+                    "type": "Team"
+                }
+            ],
+            "eventParticipantType": "",
+            "status": "NOT_STARTED",
+            "eventScorecard": {
+                "scorecardComponentId": 1
+            },
+            "metadata": {
+                "settlementDate": "2025-01-05T21:00:00Z"
+            },
+            "sortOrder": 546234011,
+            "subscriptionKey": "league-events-88808"
+        },
+        {
+            "id": "ea1d1c9e-2ad4-46ef-a551-08dc65488f96",
+            "seoIdentifier": "Dak Prescott 2024/25",
+            "sportId": "3",
+            "leagueId": "88808",
+            "name": "Dak Prescott 2024/25",
+            "startEventDate": "2024-09-05T23:00:00.0000000Z",
+            "participants": [
+                {
+                    "id": "18336",
+                    "name": "DAL Cowboys",
+                    "type": "Team",
+                    "metadata": {
+                        "rosettaTeamId": "18336",
+                        "shortName": "DAL"
+                    }
+                },
+                {
+                    "name": "Dak Prescott",
+                    "type": "Team"
+                }
+            ],
+            "eventParticipantType": "",
+            "status": "NOT_STARTED",
+            "eventScorecard": {
+                "scorecardComponentId": 1
+            },
+            "metadata": {
+                "settlementDate": "2025-01-05T21:00:00Z"
+            },
+            "sortOrder": 546234011,
+            "subscriptionKey": "league-events-88808"
+        },
+        {
+            "id": "fc1b3875-d7e8-4d29-a557-08dc65488f96",
+            "seoIdentifier": "Tua Tagovailoa 2024/25",
+            "sportId": "3",
+            "leagueId": "88808",
+            "name": "Tua Tagovailoa 2024/25",
+            "startEventDate": "2024-09-05T23:00:00.0000000Z",
+            "participants": [
+                {
+                    "id": "18401",
+                    "name": "MIA Dolphins",
+                    "type": "Team",
+                    "metadata": {
+                        "rosettaTeamId": "18401",
+                        "shortName": "MIA"
+                    }
+                },
+                {
+                    "name": "Tua Tagovailoa",
+                    "type": "Team"
+                }
+            ],
+            "eventParticipantType": "",
+            "status": "NOT_STARTED",
+            "eventScorecard": {
+                "scorecardComponentId": 1
+            },
+            "metadata": {
+                "settlementDate": "2025-01-05T21:00:00Z"
+            },
+            "sortOrder": 546234011,
+            "subscriptionKey": "league-events-88808"
+        },
+        {
+            "id": "3a9ff9c0-3544-47d6-464d-08dc5d3ef379",
+            "seoIdentifier": "Caleb Williams 2024/25",
+            "sportId": "3",
+            "leagueId": "88808",
+            "name": "Caleb Williams 2024/25",
+            "startEventDate": "2024-09-05T23:00:00.0000000Z",
+            "participants": [
+                {
+                    "name": "Caleb Williams",
+                    "type": "Team"
+                },
+                {
+                    "id": "18312",
+                    "name": "CHI Bears",
+                    "type": "Team",
+                    "metadata": {
+                        "rosettaTeamId": "18312",
+                        "shortName": "CHI"
+                    }
+                }
+            ],
+            "eventParticipantType": "",
+            "status": "NOT_STARTED",
+            "eventScorecard": {
+                "scorecardComponentId": 1
+            },
+            "metadata": {
+                "settlementDate": "2025-01-05T21:00:00Z"
+            },
+            "sortOrder": 546234012,
+            "subscriptionKey": "league-events-88808"
+        },
+        {
+            "id": "11719cd0-485c-479a-e532-08dca70fde3d",
+            "seoIdentifier": "Joe Burrow 2024/2025",
+            "sportId": "3",
+            "leagueId": "88808",
+            "name": "Joe Burrow 2024/2025",
+            "startEventDate": "2024-09-05T23:00:00.0000000Z",
+            "participants": [
+                {
+                    "name": "Joe Burrow",
+                    "type": "Team"
+                }
+            ],
+            "eventParticipantType": "OneTeam",
+            "status": "NOT_STARTED",
+            "eventScorecard": {
+                "scorecardComponentId": 1
+            },
+            "metadata": {
+                "settlementDate": "2025-01-05T21:00:00Z"
+            },
+            "sortOrder": 546234051,
+            "subscriptionKey": "league-events-88808"
+        },
+        {
+            "id": "35f8f86c-2ec7-439c-0b6d-08dc3d01c9ea",
+            "seoIdentifier": "Bryce Young 2024/25",
+            "sportId": "3",
+            "leagueId": "88808",
+            "name": "Bryce Young 2024/25",
+            "startEventDate": "2024-09-05T23:00:00.0000000Z",
+            "participants": [
+                {
+                    "id": "18484",
+                    "name": "CAR Panthers",
+                    "type": "Team",
+                    "metadata": {
+                        "rosettaTeamId": "18484",
+                        "shortName": "CAR"
+                    }
+                },
+                {
+                    "name": "Bryce Young",
+                    "type": "Team"
+                }
+            ],
+            "eventParticipantType": "",
+            "status": "NOT_STARTED",
+            "eventScorecard": {
+                "scorecardComponentId": 1
+            },
+            "metadata": {
+                "settlementDate": "2025-01-05T21:00:00Z"
+            },
+            "sortOrder": 546234098,
+            "subscriptionKey": "league-events-88808"
+        },
+        {
+            "id": "4b153063-e3d8-4869-0b6f-08dc3d01c9ea",
+            "seoIdentifier": "C.J. Stroud 2024/25",
+            "sportId": "3",
+            "leagueId": "88808",
+            "name": "C.J. Stroud 2024/25",
+            "startEventDate": "2024-09-05T23:00:00.0000000Z",
+            "participants": [
+                {
+                    "name": "CJ Stroud",
+                    "type": "Team"
+                },
+                {
+                    "name": "C.J. Stroud",
+                    "type": "Team"
+                },
+                {
+                    "id": "18500",
+                    "name": "HOU Texans",
+                    "type": "Team",
+                    "metadata": {
+                        "rosettaTeamId": "18500",
+                        "shortName": "HOU"
+                    }
+                }
+            ],
+            "eventParticipantType": "MultiTeam",
+            "status": "NOT_STARTED",
+            "eventScorecard": {
+                "scorecardComponentId": 1
+            },
+            "metadata": {
+                "settlementDate": "2025-01-05T21:00:00Z"
+            },
+            "sortOrder": 546234098,
+            "subscriptionKey": "league-events-88808"
+        },
+        {
+            "id": "98f825a8-3d10-4c42-0bc0-08dc3d01c9ea",
+            "seoIdentifier": "Baker Mayfield 2024/25",
+            "sportId": "3",
+            "leagueId": "88808",
+            "name": "Baker Mayfield 2024/25",
+            "startEventDate": "2024-09-05T23:00:00.0000000Z",
+            "participants": [
+                {
+                    "id": "18474",
+                    "name": "TB Buccaneers",
+                    "type": "Team",
+                    "metadata": {
+                        "rosettaTeamId": "18474",
+                        "shortName": "TB"
+                    }
+                },
+                {
+                    "name": "Baker Mayfield",
+                    "type": "Team"
+                }
+            ],
+            "eventParticipantType": "",
+            "status": "NOT_STARTED",
+            "eventScorecard": {
+                "scorecardComponentId": 1
+            },
+            "metadata": {
+                "settlementDate": "2025-01-05T21:00:00Z"
+            },
+            "sortOrder": 546234098,
+            "subscriptionKey": "league-events-88808"
+        },
+        {
+            "id": "e9820691-92b2-4a15-0b6e-08dc3d01c9ea",
+            "seoIdentifier": "Patrick Mahomes 2024/25",
+            "sportId": "3",
+            "leagueId": "88808",
+            "name": "Patrick Mahomes 2024/25",
+            "startEventDate": "2024-09-05T23:00:00.0000000Z",
+            "participants": [
+                {
+                    "id": "18379",
+                    "name": "KC Chiefs",
+                    "type": "Team",
+                    "metadata": {
+                        "rosettaTeamId": "18379",
+                        "shortName": "KC"
+                    }
+                },
+                {
+                    "name": "Patrick Mahomes",
+                    "type": "Team"
+                }
+            ],
+            "eventParticipantType": "",
+            "status": "NOT_STARTED",
+            "eventScorecard": {
+                "scorecardComponentId": 1
+            },
+            "metadata": {
+                "settlementDate": "2025-01-05T21:00:00Z"
+            },
+            "sortOrder": 546234098,
+            "subscriptionKey": "league-events-88808"
+        }
+    ],
+    "markets": [
+        {
+            "id": "209277166",
+            "eventId": "c6f2d9a9-de3d-4136-3e2e-08dcbd07fadd",
+            "sportId": "3",
+            "leagueId": "88808",
+            "name": "Regular Season Passing Yards",
+            "subcategoryId": 7200,
+            "marketType": {
+                "id": "5207",
+                "betOfferTypeId": 0,
+                "name": "Passing Yards"
+            },
+            "subscriptionKey": "league-events-88808",
+            "sortOrder": 209277166,
+            "tags": [
+                "Cashout",
+                "Default"
+            ],
+            "correlatedId": "209277166|5207"
+        },
+        {
+            "id": "195639293",
+            "eventId": "02cd1244-ab02-4b2f-a561-08dc65488f96",
+            "sportId": "3",
+            "leagueId": "88808",
+            "name": "Gardner Minshew II Regular Season Passing Yards",
+            "subcategoryId": 7200,
+            "marketType": {
+                "id": "5207",
+                "betOfferTypeId": 0,
+                "name": "Passing Yards"
+            },
+            "subscriptionKey": "league-events-88808",
+            "sortOrder": 195639293,
+            "tags": [
+                "Cashout",
+                "Default"
+            ],
+            "correlatedId": "195639293|5207"
+        },
+        {
+            "id": "195641596",
+            "eventId": "0e777f2e-133f-48c4-a55c-08dc65488f96",
+            "sportId": "3",
+            "leagueId": "88808",
+            "name": "Regular Season Passing Yards",
+            "subcategoryId": 7200,
+            "marketType": {
+                "id": "5207",
+                "betOfferTypeId": 0,
+                "name": "Passing Yards"
+            },
+            "subscriptionKey": "league-events-88808",
+            "sortOrder": 195641596,
+            "tags": [
+                "Cashout",
+                "Default"
+            ],
+            "correlatedId": "195641596|5207"
+        },
+        {
+            "id": "195933885",
+            "eventId": "11a6759e-5ffd-4ba2-a5c9-08dc65488f96",
+            "sportId": "3",
+            "leagueId": "88808",
+            "name": "Regular Season Passing Yards",
+            "subcategoryId": 7200,
+            "marketType": {
+                "id": "5207",
+                "betOfferTypeId": 0,
+                "name": "Passing Yards"
+            },
+            "subscriptionKey": "league-events-88808",
+            "sortOrder": 195933885,
+            "tags": [
+                "Cashout",
+                "Default"
+            ],
+            "correlatedId": "195933885|5207"
+        },
+        {
+            "id": "195641576",
+            "eventId": "126a34e2-c533-4593-a55b-08dc65488f96",
+            "sportId": "3",
+            "leagueId": "88808",
+            "name": "Regular Season Passing Yards",
+            "subcategoryId": 7200,
+            "marketType": {
+                "id": "5207",
+                "betOfferTypeId": 0,
+                "name": "Passing Yards"
+            },
+            "subscriptionKey": "league-events-88808",
+            "sortOrder": 195641576,
+            "tags": [
+                "Cashout",
+                "Default"
+            ],
+            "correlatedId": "195641576|5207"
+        },
+        {
+            "id": "193891154",
+            "eventId": "2e00a68b-a566-40cd-a393-08dc65488f96",
+            "sportId": "3",
+            "leagueId": "88808",
+            "name": "Regular Season Passing Yards",
+            "subcategoryId": 7200,
+            "marketType": {
+                "id": "5207",
+                "betOfferTypeId": 0,
+                "name": "Passing Yards"
+            },
+            "subscriptionKey": "league-events-88808",
+            "sortOrder": 193891154,
+            "tags": [
+                "Cashout",
+                "Default"
+            ],
+            "correlatedId": "193891154|5207"
+        },
+        {
+            "id": "195641715",
+            "eventId": "4856fcb5-52f3-4739-a560-08dc65488f96",
+            "sportId": "3",
+            "leagueId": "88808",
+            "name": "Daniel Jones Regular Season Passing Yards",
+            "subcategoryId": 7200,
+            "marketType": {
+                "id": "5207",
+                "betOfferTypeId": 0,
+                "name": "Passing Yards"
+            },
+            "subscriptionKey": "league-events-88808",
+            "sortOrder": 195641715,
+            "tags": [
+                "Cashout",
+                "Default"
+            ],
+            "correlatedId": "195641715|5207"
+        },
+        {
+            "id": "195641355",
+            "eventId": "48d5b0a6-3507-4444-a554-08dc65488f96",
+            "sportId": "3",
+            "leagueId": "88808",
+            "name": "Regular Season Passing Yards",
+            "subcategoryId": 7200,
+            "marketType": {
+                "id": "5207",
+                "betOfferTypeId": 0,
+                "name": "Passing Yards"
+            },
+            "subscriptionKey": "league-events-88808",
+            "sortOrder": 195641355,
+            "tags": [
+                "Cashout",
+                "Default"
+            ],
+            "correlatedId": "195641355|5207"
+        },
+        {
+            "id": "193832236",
+            "eventId": "70a0629b-921b-4a08-a37e-08dc65488f96",
+            "sportId": "3",
+            "leagueId": "88808",
+            "name": "Regular Season Passing Yards",
+            "subcategoryId": 7200,
+            "marketType": {
+                "id": "5207",
+                "betOfferTypeId": 0,
+                "name": "Passing Yards"
+            },
+            "subscriptionKey": "league-events-88808",
+            "sortOrder": 193832236,
+            "tags": [
+                "Cashout",
+                "Default"
+            ],
+            "correlatedId": "193832236|5207"
+        },
+        {
+            "id": "195641324",
+            "eventId": "7e0fea61-247f-4a37-a553-08dc65488f96",
+            "sportId": "3",
+            "leagueId": "88808",
+            "name": "Regular Season Passing Yards",
+            "subcategoryId": 7200,
+            "marketType": {
+                "id": "5207",
+                "betOfferTypeId": 0,
+                "name": "Passing Yards"
+            },
+            "subscriptionKey": "league-events-88808",
+            "sortOrder": 195641324,
+            "tags": [
+                "Cashout",
+                "Default"
+            ],
+            "correlatedId": "195641324|5207"
+        },
+        {
+            "id": "195641425",
+            "eventId": "88872806-b580-4260-a556-08dc65488f96",
+            "sportId": "3",
+            "leagueId": "88808",
+            "name": "Regular Season Passing Yards",
+            "subcategoryId": 7200,
+            "marketType": {
+                "id": "5207",
+                "betOfferTypeId": 0,
+                "name": "Passing Yards"
+            },
+            "subscriptionKey": "league-events-88808",
+            "sortOrder": 195641425,
+            "tags": [
+                "Cashout",
+                "Default"
+            ],
+            "correlatedId": "195641425|5207"
+        },
+        {
+            "id": "195641605",
+            "eventId": "89d6505e-7f2c-4f80-a55d-08dc65488f96",
+            "sportId": "3",
+            "leagueId": "88808",
+            "name": "Regular Season Passing Yards",
+            "subcategoryId": 7200,
+            "marketType": {
+                "id": "5207",
+                "betOfferTypeId": 0,
+                "name": "Passing Yards"
+            },
+            "subscriptionKey": "league-events-88808",
+            "sortOrder": 195641605,
+            "tags": [
+                "Cashout",
+                "Default"
+            ],
+            "correlatedId": "195641605|5207"
+        },
+        {
+            "id": "195641049",
+            "eventId": "8fb51814-e623-42d9-a54e-08dc65488f96",
+            "sportId": "3",
+            "leagueId": "88808",
+            "name": "Regular Season Passing Yards",
+            "subcategoryId": 7200,
+            "marketType": {
+                "id": "5207",
+                "betOfferTypeId": 0,
+                "name": "Passing Yards"
+            },
+            "subscriptionKey": "league-events-88808",
+            "sortOrder": 195641049,
+            "tags": [
+                "Cashout",
+                "Default"
+            ],
+            "correlatedId": "195641049|5207"
+        },
+        {
+            "id": "195641150",
+            "eventId": "9a428289-3f57-4e26-a552-08dc65488f96",
+            "sportId": "3",
+            "leagueId": "88808",
+            "name": "Regular Season Passing Yards",
+            "subcategoryId": 7200,
+            "marketType": {
+                "id": "5207",
+                "betOfferTypeId": 0,
+                "name": "Passing Yards"
+            },
+            "subscriptionKey": "league-events-88808",
+            "sortOrder": 195641150,
+            "tags": [
+                "Cashout",
+                "Default"
+            ],
+            "correlatedId": "195641150|5207"
+        },
+        {
+            "id": "195641530",
+            "eventId": "a49ade29-c388-4fa4-a55a-08dc65488f96",
+            "sportId": "3",
+            "leagueId": "88808",
+            "name": "Regular Season Passing Yards",
+            "subcategoryId": 7200,
+            "marketType": {
+                "id": "5207",
+                "betOfferTypeId": 0,
+                "name": "Passing Yards"
+            },
+            "subscriptionKey": "league-events-88808",
+            "sortOrder": 195641530,
+            "tags": [
+                "Cashout",
+                "Default"
+            ],
+            "correlatedId": "195641530|5207"
+        },
+        {
+            "id": "195641631",
+            "eventId": "ba4a0d7b-1843-43b3-a55e-08dc65488f96",
+            "sportId": "3",
+            "leagueId": "88808",
+            "name": "Regular Season Passing Yards",
+            "subcategoryId": 7200,
+            "marketType": {
+                "id": "5207",
+                "betOfferTypeId": 0,
+                "name": "Passing Yards"
+            },
+            "subscriptionKey": "league-events-88808",
+            "sortOrder": 195641631,
+            "tags": [
+                "Cashout",
+                "Default"
+            ],
+            "correlatedId": "195641631|5207"
+        },
+        {
+            "id": "195641476",
+            "eventId": "bf4d35af-e9ee-4829-a558-08dc65488f96",
+            "sportId": "3",
+            "leagueId": "88808",
+            "name": "Regular Season Passing Yards",
+            "subcategoryId": 7200,
+            "marketType": {
+                "id": "5207",
+                "betOfferTypeId": 0,
+                "name": "Passing Yards"
+            },
+            "subscriptionKey": "league-events-88808",
+            "sortOrder": 195641476,
+            "tags": [
+                "Cashout",
+                "Default"
+            ],
+            "correlatedId": "195641476|5207"
+        },
+        {
+            "id": "195641480",
+            "eventId": "d0677620-63bd-423c-a562-08dc65488f96",
+            "sportId": "3",
+            "leagueId": "88808",
+            "name": "Regular Season Passing Yards",
+            "subcategoryId": 7200,
+            "marketType": {
+                "id": "5207",
+                "betOfferTypeId": 0,
+                "name": "Passing Yards"
+            },
+            "subscriptionKey": "league-events-88808",
+            "sortOrder": 195641480,
+            "tags": [
+                "Cashout",
+                "Default"
+            ],
+            "correlatedId": "195641480|5207"
+        },
+        {
+            "id": "187353442",
+            "eventId": "d0b03bbe-3b21-40fb-0a85-08dc0d28e478",
+            "sportId": "3",
+            "leagueId": "88808",
+            "name": "Regular Season Passing Yards",
+            "subcategoryId": 7200,
+            "marketType": {
+                "id": "5207",
+                "betOfferTypeId": 0,
+                "name": "Passing Yards"
+            },
+            "subscriptionKey": "league-events-88808",
+            "sortOrder": 187353442,
+            "tags": [
+                "Cashout",
+                "Default"
+            ],
+            "correlatedId": "187353442|5207"
+        },
+        {
+            "id": "195641076",
+            "eventId": "ded3f1fc-f240-4882-a54f-08dc65488f96",
+            "sportId": "3",
+            "leagueId": "88808",
+            "name": "Regular Season Passing Yards",
+            "subcategoryId": 7200,
+            "marketType": {
+                "id": "5207",
+                "betOfferTypeId": 0,
+                "name": "Passing Yards"
+            },
+            "subscriptionKey": "league-events-88808",
+            "sortOrder": 195641076,
+            "tags": [
+                "Cashout",
+                "Default"
+            ],
+            "correlatedId": "195641076|5207"
+        },
+        {
+            "id": "195641285",
+            "eventId": "ea1d1c9e-2ad4-46ef-a551-08dc65488f96",
+            "sportId": "3",
+            "leagueId": "88808",
+            "name": "Regular Season Passing Yards",
+            "subcategoryId": 7200,
+            "marketType": {
+                "id": "5207",
+                "betOfferTypeId": 0,
+                "name": "Passing Yards"
+            },
+            "subscriptionKey": "league-events-88808",
+            "sortOrder": 195641285,
+            "tags": [
+                "Cashout",
+                "Default"
+            ],
+            "correlatedId": "195641285|5207"
+        },
+        {
+            "id": "195641436",
+            "eventId": "fc1b3875-d7e8-4d29-a557-08dc65488f96",
+            "sportId": "3",
+            "leagueId": "88808",
+            "name": "Regular Season Passing Yards",
+            "subcategoryId": 7200,
+            "marketType": {
+                "id": "5207",
+                "betOfferTypeId": 0,
+                "name": "Passing Yards"
+            },
+            "subscriptionKey": "league-events-88808",
+            "sortOrder": 195641436,
+            "tags": [
+                "Cashout",
+                "Default"
+            ],
+            "correlatedId": "195641436|5207"
+        },
+        {
+            "id": "192848216",
+            "eventId": "3a9ff9c0-3544-47d6-464d-08dc5d3ef379",
+            "sportId": "3",
+            "leagueId": "88808",
+            "name": "Regular Season Passing Yards",
+            "subcategoryId": 7200,
+            "marketType": {
+                "id": "5207",
+                "betOfferTypeId": 0,
+                "name": "Passing Yards"
+            },
+            "subscriptionKey": "league-events-88808",
+            "sortOrder": 192848216,
+            "tags": [
+                "Cashout",
+                "Default"
+            ],
+            "correlatedId": "192848216|5207"
+        },
+        {
+            "id": "195641418",
+            "eventId": "11719cd0-485c-479a-e532-08dca70fde3d",
+            "sportId": "3",
+            "leagueId": "88808",
+            "name": "Regular Season Passing Yards",
+            "subcategoryId": 7200,
+            "marketType": {
+                "id": "5207",
+                "betOfferTypeId": 0,
+                "name": "Passing Yards"
+            },
+            "subscriptionKey": "league-events-88808",
+            "sortOrder": 195641418,
+            "tags": [
+                "Cashout",
+                "Default"
+            ],
+            "correlatedId": "195641418|5207"
+        },
+        {
+            "id": "186797334",
+            "eventId": "35f8f86c-2ec7-439c-0b6d-08dc3d01c9ea",
+            "sportId": "3",
+            "leagueId": "88808",
+            "name": "Regular Season Passing Yards",
+            "subcategoryId": 7200,
+            "marketType": {
+                "id": "5207",
+                "betOfferTypeId": 0,
+                "name": "Passing Yards"
+            },
+            "subscriptionKey": "league-events-88808",
+            "sortOrder": 186797334,
+            "tags": [
+                "Cashout",
+                "Default"
+            ],
+            "correlatedId": "186797334|5207"
+        },
+        {
+            "id": "186797414",
+            "eventId": "4b153063-e3d8-4869-0b6f-08dc3d01c9ea",
+            "sportId": "3",
+            "leagueId": "88808",
+            "name": "Regular Season Passing Yards",
+            "subcategoryId": 7200,
+            "marketType": {
+                "id": "5207",
+                "betOfferTypeId": 0,
+                "name": "Passing Yards"
+            },
+            "subscriptionKey": "league-events-88808",
+            "sortOrder": 186797414,
+            "tags": [
+                "Cashout",
+                "Default"
+            ],
+            "correlatedId": "186797414|5207"
+        },
+        {
+            "id": "187316828",
+            "eventId": "98f825a8-3d10-4c42-0bc0-08dc3d01c9ea",
+            "sportId": "3",
+            "leagueId": "88808",
+            "name": "Regular Season Passing Yards",
+            "subcategoryId": 7200,
+            "marketType": {
+                "id": "5207",
+                "betOfferTypeId": 0,
+                "name": "Passing Yards"
+            },
+            "subscriptionKey": "league-events-88808",
+            "sortOrder": 187316828,
+            "tags": [
+                "Cashout",
+                "Default"
+            ],
+            "correlatedId": "187316828|5207"
+        },
+        {
+            "id": "186797368",
+            "eventId": "e9820691-92b2-4a15-0b6e-08dc3d01c9ea",
+            "sportId": "3",
+            "leagueId": "88808",
+            "name": "Regular Season Passing Yards",
+            "subcategoryId": 7200,
+            "marketType": {
+                "id": "5207",
+                "betOfferTypeId": 0,
+                "name": "Passing Yards"
+            },
+            "subscriptionKey": "league-events-88808",
+            "sortOrder": 186797368,
+            "tags": [
+                "Cashout",
+                "Default"
+            ],
+            "correlatedId": "186797368|5207"
+        }
+    ],
+    "selections": [
+        {
+            "id": "0QA195639293#1789967298_13L88808Q12034974Q2-1",
+            "marketId": "195639293",
+            "label": "Over 2925.5",
+            "displayOdds": {
+                "american": "\u2212115",
+                "decimal": "1.86",
+                "fractional": "20/23"
+            },
+            "trueOdds": 1.86956522,
+            "outcomeType": "Over",
+            "participants": [
+                {
+                    "name": "Over 2925.5",
+                    "type": "Team"
+                }
+            ],
+            "sortOrder": 1000
+        },
+        {
+            "id": "0QA195641596#1832549319_13L88808Q11185946Q2-1",
+            "marketId": "195641596",
+            "label": "Over 3900.5",
+            "displayOdds": {
+                "american": "\u2212115",
+                "decimal": "1.86",
+                "fractional": "20/23"
+            },
+            "trueOdds": 1.86956522,
+            "outcomeType": "Over",
+            "participants": [
+                {
+                    "name": "Over 3900.5",
+                    "type": "Team"
+                }
+            ],
+            "sortOrder": 1000
+        },
+        {
+            "id": "0QA195641418#1812402693_13L88808Q11185909Q2-1",
+            "marketId": "195641418",
+            "label": "Over 4000.5",
+            "displayOdds": {
+                "american": "\u2212110",
+                "decimal": "1.90",
+                "fractional": "10/11"
+            },
+            "trueOdds": 1.90909091,
+            "outcomeType": "Over",
+            "participants": [
+                {
+                    "name": "Over 4000.5",
+                    "type": "Team"
+                }
+            ],
+            "sortOrder": 1000
+        },
+        {
+            "id": "0QA195933885#1791508250_13L88808Q12052058Q2-1",
+            "marketId": "195933885",
+            "label": "Over 3200.5",
+            "displayOdds": {
+                "american": "\u002B110",
+                "decimal": "2.10",
+                "fractional": "11/10"
+            },
+            "trueOdds": 2.1,
+            "outcomeType": "Over",
+            "participants": [
+                {
+                    "name": "Over 3200.5",
+                    "type": "Team"
+                }
+            ],
+            "sortOrder": 1000
+        },
+        {
+            "id": "0QA195641576#1789967226_13L88808Q11965749Q2-1",
+            "marketId": "195641576",
+            "label": "Over 3400.5",
+            "displayOdds": {
+                "american": "\u2212110",
+                "decimal": "1.90",
+                "fractional": "10/11"
+            },
+            "trueOdds": 1.90909091,
+            "outcomeType": "Over",
+            "participants": [
+                {
+                    "name": "Over 3400.5",
+                    "type": "Team"
+                }
+            ],
+            "sortOrder": 1000
+        },
+        {
+            "id": "0QA193891154#25087832_13L88808Q12238659Q2-1",
+            "marketId": "193891154",
+            "label": "Over 3100.5",
+            "displayOdds": {
+                "american": "\u002B100",
+                "decimal": "2.00",
+                "fractional": "1/1"
+            },
+            "trueOdds": 2,
+            "outcomeType": "Over",
+            "participants": [
+                {
+                    "name": "Over 3100.5",
+                    "type": "Team"
+                }
+            ],
+            "sortOrder": 1000
+        },
+        {
+            "id": "0QA186797334#1779696271_13L88808Q12052058Q2-1",
+            "marketId": "186797334",
+            "label": "Over 3200.5",
+            "displayOdds": {
+                "american": "\u2212110",
+                "decimal": "1.90",
+                "fractional": "10/11"
+            },
+            "trueOdds": 1.90909091,
+            "outcomeType": "Over",
+            "participants": [
+                {
+                    "name": "Over 3200.5",
+                    "type": "Team"
+                }
+            ],
+            "sortOrder": 1000
+        },
+        {
+            "id": "0QA192848216#1780157045_13L88808Q11628320Q2-1",
+            "marketId": "192848216",
+            "label": "Over 3500.5",
+            "displayOdds": {
+                "american": "\u2212125",
+                "decimal": "1.80",
+                "fractional": "4/5"
+            },
+            "trueOdds": 1.8,
+            "outcomeType": "Over",
+            "participants": [
+                {
+                    "name": "Over 3500.5",
+                    "type": "Team"
+                }
+            ],
+            "sortOrder": 1000
+        },
+        {
+            "id": "0QA195641715#1831412151_13L88808Q12034971Q2-1",
+            "marketId": "195641715",
+            "label": "Over 2800.5",
+            "displayOdds": {
+                "american": "\u002B110",
+                "decimal": "2.10",
+                "fractional": "11/10"
+            },
+            "trueOdds": 2.1,
+            "outcomeType": "Over",
+            "participants": [
+                {
+                    "name": "Over 2800.5",
+                    "type": "Team"
+                }
+            ],
+            "sortOrder": 1000
+        },
+        {
+            "id": "0QA195641355#1812871991_13L88808Q11185907Q2-1",
+            "marketId": "195641355",
+            "label": "Over 4050.5",
+            "displayOdds": {
+                "american": "\u2212110",
+                "decimal": "1.90",
+                "fractional": "10/11"
+            },
+            "trueOdds": 1.90909091,
+            "outcomeType": "Over",
+            "participants": [
+                {
+                    "name": "Over 4050.5",
+                    "type": "Team"
+                }
+            ],
+            "sortOrder": 1000
+        },
+        {
+            "id": "0QA186797414#1762305290_13L88808Q1808008Q2-1",
+            "marketId": "186797414",
+            "label": "Over 4150.5",
+            "displayOdds": {
+                "american": "\u2212125",
+                "decimal": "1.80",
+                "fractional": "4/5"
+            },
+            "trueOdds": 1.8,
+            "outcomeType": "Over",
+            "participants": [
+                {
+                    "name": "Over 4150.5",
+                    "type": "Team"
+                }
+            ],
+            "sortOrder": 1000
+        },
+        {
+            "id": "0QA193832236#1790138612_13L88808Q1807036Q2-1",
+            "marketId": "193832236",
+            "label": "Over 3150.5",
+            "displayOdds": {
+                "american": "\u002B110",
+                "decimal": "2.10",
+                "fractional": "11/10"
+            },
+            "trueOdds": 2.1,
+            "outcomeType": "Over",
+            "participants": [
+                {
+                    "name": "Over 3150.5",
+                    "type": "Team"
+                }
+            ],
+            "sortOrder": 1000
+        },
+        {
+            "id": "0QA195641324#1817205216_13L88808Q11232031Q2-1",
+            "marketId": "195641324",
+            "label": "Over 3750.5",
+            "displayOdds": {
+                "american": "\u2212120",
+                "decimal": "1.83",
+                "fractional": "5/6"
+            },
+            "trueOdds": 1.83333334,
+            "outcomeType": "Over",
+            "participants": [
+                {
+                    "name": "Over 3750.5",
+                    "type": "Team"
+                }
+            ],
+            "sortOrder": 1000
+        },
+        {
+            "id": "0QA195641425#1812393743_13L88808Q12279873Q2-1",
+            "marketId": "195641425",
+            "label": "Over 3250.5",
+            "displayOdds": {
+                "american": "\u2212110",
+                "decimal": "1.90",
+                "fractional": "10/11"
+            },
+            "trueOdds": 1.90909091,
+            "outcomeType": "Over",
+            "participants": [
+                {
+                    "name": "Over 3250.5",
+                    "type": "Team"
+                }
+            ],
+            "sortOrder": 1000
+        },
+        {
+            "id": "0QA195641605#1832550227_13L88808Q11619274Q2-1",
+            "marketId": "195641605",
+            "label": "Over 3350.5",
+            "displayOdds": {
+                "american": "\u2212115",
+                "decimal": "1.86",
+                "fractional": "20/23"
+            },
+            "trueOdds": 1.86956522,
+            "outcomeType": "Over",
+            "participants": [
+                {
+                    "name": "Over 3350.5",
+                    "type": "Team"
+                }
+            ],
+            "sortOrder": 1000
+        },
+        {
+            "id": "0QA195641049#6782767_13L88808Q11217395Q2-1",
+            "marketId": "195641049",
+            "label": "Over 3650.5",
+            "displayOdds": {
+                "american": "\u2212135",
+                "decimal": "1.74",
+                "fractional": "20/27"
+            },
+            "trueOdds": 1.74074075,
+            "outcomeType": "Over",
+            "participants": [
+                {
+                    "name": "Over 3650.5",
+                    "type": "Team"
+                }
+            ],
+            "sortOrder": 1000
+        },
+        {
+            "id": "0QA187316828#1743829751_13L88808Q11217395Q2-1",
+            "marketId": "187316828",
+            "label": "Over 3650.5",
+            "displayOdds": {
+                "american": "\u002B100",
+                "decimal": "2.00",
+                "fractional": "1/1"
+            },
+            "trueOdds": 2,
+            "outcomeType": "Over",
+            "participants": [
+                {
+                    "name": "Over 3650.5",
+                    "type": "Team"
+                }
+            ],
+            "sortOrder": 1000
+        },
+        {
+            "id": "0QA195641150#1789967102_13L88808Q11619917Q2-1",
+            "marketId": "195641150",
+            "label": "Over 3600.5",
+            "displayOdds": {
+                "american": "\u002B110",
+                "decimal": "2.10",
+                "fractional": "11/10"
+            },
+            "trueOdds": 2.1,
+            "outcomeType": "Over",
+            "participants": [
+                {
+                    "name": "Over 3600.5",
+                    "type": "Team"
+                }
+            ],
+            "sortOrder": 1000
+        },
+        {
+            "id": "0QA195641530#1789967214_13L88808Q11965749Q2-1",
+            "marketId": "195641530",
+            "label": "Over 3400.5",
+            "displayOdds": {
+                "american": "\u2212110",
+                "decimal": "1.90",
+                "fractional": "10/11"
+            },
+            "trueOdds": 1.90909091,
+            "outcomeType": "Over",
+            "participants": [
+                {
+                    "name": "Over 3400.5",
+                    "type": "Team"
+                }
+            ],
+            "sortOrder": 1000
+        },
+        {
+            "id": "0QA195641631#1812493197_13L88808Q11965753Q2-1",
+            "marketId": "195641631",
+            "label": "Over 3300.5",
+            "displayOdds": {
+                "american": "\u002B100",
+                "decimal": "2.00",
+                "fractional": "1/1"
+            },
+            "trueOdds": 2,
+            "outcomeType": "Over",
+            "participants": [
+                {
+                    "name": "Over 3300.5",
+                    "type": "Team"
+                }
+            ],
+            "sortOrder": 1000
+        },
+        {
+            "id": "0QA195641476#1789967176_13L88808Q11185946Q2-1",
+            "marketId": "195641476",
+            "label": "Over 3900.5",
+            "displayOdds": {
+                "american": "\u002B100",
+                "decimal": "2.00",
+                "fractional": "1/1"
+            },
+            "trueOdds": 2,
+            "outcomeType": "Over",
+            "participants": [
+                {
+                    "name": "Over 3900.5",
+                    "type": "Team"
+                }
+            ],
+            "sortOrder": 1000
+        },
+        {
+            "id": "0QA209277166#21993043_13L88808Q11628320Q2-1",
+            "marketId": "209277166",
+            "label": "Over 3500.5",
+            "displayOdds": {
+                "american": "\u002B100",
+                "decimal": "2.00",
+                "fractional": "1/1"
+            },
+            "trueOdds": 2,
+            "outcomeType": "Over",
+            "participants": [
+                {
+                    "name": "Over 3500.5",
+                    "type": "Team"
+                }
+            ],
+            "sortOrder": 1000
+        },
+        {
+            "id": "0QA195641480#1789967188_13L88808Q11172471Q2-1",
+            "marketId": "195641480",
+            "label": "Over 3800.5",
+            "displayOdds": {
+                "american": "\u002B105",
+                "decimal": "2.05",
+                "fractional": "21/20"
+            },
+            "trueOdds": 2.05,
+            "outcomeType": "Over",
+            "participants": [
+                {
+                    "name": "Over 3800.5",
+                    "type": "Team"
+                }
+            ],
+            "sortOrder": 1000
+        },
+        {
+            "id": "0QA187353442#19074374_13L88808Q11172471Q2-1",
+            "marketId": "187353442",
+            "label": "Over 3800.5",
+            "displayOdds": {
+                "american": "\u2212115",
+                "decimal": "1.86",
+                "fractional": "20/23"
+            },
+            "trueOdds": 1.86956522,
+            "outcomeType": "Over",
+            "participants": [
+                {
+                    "name": "Over 3800.5",
+                    "type": "Team"
+                }
+            ],
+            "sortOrder": 1000
+        },
+        {
+            "id": "0QA195641076#1789967078_13L88808Q11185946Q2-1",
+            "marketId": "195641076",
+            "label": "Over 3900.5",
+            "displayOdds": {
+                "american": "\u2212110",
+                "decimal": "1.90",
+                "fractional": "10/11"
+            },
+            "trueOdds": 1.90909091,
+            "outcomeType": "Over",
+            "participants": [
+                {
+                    "name": "Over 3900.5",
+                    "type": "Team"
+                }
+            ],
+            "sortOrder": 1000
+        },
+        {
+            "id": "0QA186797368#1740490212_13L88808Q11625407Q2-1",
+            "marketId": "186797368",
+            "label": "Over 4350.5",
+            "displayOdds": {
+                "american": "\u002B110",
+                "decimal": "2.10",
+                "fractional": "11/10"
+            },
+            "trueOdds": 2.1,
+            "outcomeType": "Over",
+            "participants": [
+                {
+                    "name": "Over 4350.5",
+                    "type": "Team"
+                }
+            ],
+            "sortOrder": 1000
+        },
+        {
+            "id": "0QA195641285#19582428_13L88808Q11172469Q2-1",
+            "marketId": "195641285",
+            "label": "Over 4100.5",
+            "displayOdds": {
+                "american": "\u2212110",
+                "decimal": "1.90",
+                "fractional": "10/11"
+            },
+            "trueOdds": 1.90909091,
+            "outcomeType": "Over",
+            "participants": [
+                {
+                    "name": "Over 4100.5",
+                    "type": "Team"
+                }
+            ],
+            "sortOrder": 1000
+        },
+        {
+            "id": "0QA195641436#1789967162_13L88808Q11172469Q2-1",
+            "marketId": "195641436",
+            "label": "Over 4100.5",
+            "displayOdds": {
+                "american": "\u002B100",
+                "decimal": "2.00",
+                "fractional": "1/1"
+            },
+            "trueOdds": 2,
+            "outcomeType": "Over",
+            "participants": [
+                {
+                    "name": "Over 4100.5",
+                    "type": "Team"
+                }
+            ],
+            "sortOrder": 1000
+        },
+        {
+            "id": "0QA195639293#1789967295_13L88808Q12034973Q2-1",
+            "marketId": "195639293",
+            "label": "Under 2925.5",
+            "displayOdds": {
+                "american": "\u2212115",
+                "decimal": "1.86",
+                "fractional": "20/23"
+            },
+            "trueOdds": 1.86956522,
+            "outcomeType": "Under",
+            "participants": [
+                {
+                    "name": "Under 2925.5",
+                    "type": "Team"
+                }
+            ],
+            "sortOrder": 1002
+        },
+        {
+            "id": "0QA195641596#1832549316_13L88808Q11185947Q2-1",
+            "marketId": "195641596",
+            "label": "Under 3900.5",
+            "displayOdds": {
+                "american": "\u2212115",
+                "decimal": "1.86",
+                "fractional": "20/23"
+            },
+            "trueOdds": 1.86956522,
+            "outcomeType": "Under",
+            "participants": [
+                {
+                    "name": "Under 3900.5",
+                    "type": "Team"
+                }
+            ],
+            "sortOrder": 1002
+        },
+        {
+            "id": "0QA195641418#1812402690_13L88808Q11185910Q2-1",
+            "marketId": "195641418",
+            "label": "Under 4000.5",
+            "displayOdds": {
+                "american": "\u2212110",
+                "decimal": "1.90",
+                "fractional": "10/11"
+            },
+            "trueOdds": 1.90909091,
+            "outcomeType": "Under",
+            "participants": [
+                {
+                    "name": "Under 4000.5",
+                    "type": "Team"
+                }
+            ],
+            "sortOrder": 1002
+        },
+        {
+            "id": "0QA195933885#1791508245_13L88808Q12052057Q2-1",
+            "marketId": "195933885",
+            "label": "Under 3200.5",
+            "displayOdds": {
+                "american": "\u2212135",
+                "decimal": "1.74",
+                "fractional": "20/27"
+            },
+            "trueOdds": 1.74074075,
+            "outcomeType": "Under",
+            "participants": [
+                {
+                    "name": "Under 3200.5",
+                    "type": "Team"
+                }
+            ],
+            "sortOrder": 1002
+        },
+        {
+            "id": "0QA195641576#1789967223_13L88808Q11965748Q2-1",
+            "marketId": "195641576",
+            "label": "Under 3400.5",
+            "displayOdds": {
+                "american": "\u2212110",
+                "decimal": "1.90",
+                "fractional": "10/11"
+            },
+            "trueOdds": 1.90909091,
+            "outcomeType": "Under",
+            "participants": [
+                {
+                    "name": "Under 3400.5",
+                    "type": "Team"
+                }
+            ],
+            "sortOrder": 1002
+        },
+        {
+            "id": "0QA193891154#25087831_13L88808Q12238658Q2-1",
+            "marketId": "193891154",
+            "label": "Under 3100.5",
+            "displayOdds": {
+                "american": "\u2212125",
+                "decimal": "1.80",
+                "fractional": "4/5"
+            },
+            "trueOdds": 1.8,
+            "outcomeType": "Under",
+            "participants": [
+                {
+                    "name": "Under 3100.5",
+                    "type": "Team"
+                }
+            ],
+            "sortOrder": 1002
+        },
+        {
+            "id": "0QA186797334#1779696253_13L88808Q12052057Q2-1",
+            "marketId": "186797334",
+            "label": "Under 3200.5",
+            "displayOdds": {
+                "american": "\u2212110",
+                "decimal": "1.90",
+                "fractional": "10/11"
+            },
+            "trueOdds": 1.90909091,
+            "outcomeType": "Under",
+            "participants": [
+                {
+                    "name": "Under 3200.5",
+                    "type": "Team"
+                }
+            ],
+            "sortOrder": 1002
+        },
+        {
+            "id": "0QA192848216#1780157042_13L88808Q11628319Q2-1",
+            "marketId": "192848216",
+            "label": "Under 3500.5",
+            "displayOdds": {
+                "american": "\u002B105",
+                "decimal": "2.05",
+                "fractional": "21/20"
+            },
+            "trueOdds": 2.05,
+            "outcomeType": "Under",
+            "participants": [
+                {
+                    "name": "Under 3500.5",
+                    "type": "Team"
+                }
+            ],
+            "sortOrder": 1002
+        },
+        {
+            "id": "0QA195641715#1831412148_13L88808Q12034970Q2-1",
+            "marketId": "195641715",
+            "label": "Under 2800.5",
+            "displayOdds": {
+                "american": "\u2212135",
+                "decimal": "1.74",
+                "fractional": "20/27"
+            },
+            "trueOdds": 1.74074075,
+            "outcomeType": "Under",
+            "participants": [
+                {
+                    "name": "Under 2800.5",
+                    "type": "Team"
+                }
+            ],
+            "sortOrder": 1002
+        },
+        {
+            "id": "0QA195641355#1812871988_13L88808Q11185908Q2-1",
+            "marketId": "195641355",
+            "label": "Under 4050.5",
+            "displayOdds": {
+                "american": "\u2212110",
+                "decimal": "1.90",
+                "fractional": "10/11"
+            },
+            "trueOdds": 1.90909091,
+            "outcomeType": "Under",
+            "participants": [
+                {
+                    "name": "Under 4050.5",
+                    "type": "Team"
+                }
+            ],
+            "sortOrder": 1002
+        },
+        {
+            "id": "0QA186797414#1762305285_13L88808Q11185832Q2-1",
+            "marketId": "186797414",
+            "label": "Under 4150.5",
+            "displayOdds": {
+                "american": "\u002B105",
+                "decimal": "2.05",
+                "fractional": "21/20"
+            },
+            "trueOdds": 2.05,
+            "outcomeType": "Under",
+            "participants": [
+                {
+                    "name": "Under 4150.5",
+                    "type": "Team"
+                }
+            ],
+            "sortOrder": 1002
+        },
+        {
+            "id": "0QA193832236#1790138609_13L88808Q1807035Q2-1",
+            "marketId": "193832236",
+            "label": "Under 3150.5",
+            "displayOdds": {
+                "american": "\u2212135",
+                "decimal": "1.74",
+                "fractional": "20/27"
+            },
+            "trueOdds": 1.74074075,
+            "outcomeType": "Under",
+            "participants": [
+                {
+                    "name": "Under 3150.5",
+                    "type": "Team"
+                }
+            ],
+            "sortOrder": 1002
+        },
+        {
+            "id": "0QA195641324#1817205213_13L88808Q11232032Q2-1",
+            "marketId": "195641324",
+            "label": "Under 3750.5",
+            "displayOdds": {
+                "american": "\u002B100",
+                "decimal": "2.00",
+                "fractional": "1/1"
+            },
+            "trueOdds": 2,
+            "outcomeType": "Under",
+            "participants": [
+                {
+                    "name": "Under 3750.5",
+                    "type": "Team"
+                }
+            ],
+            "sortOrder": 1002
+        },
+        {
+            "id": "0QA195641425#1812393740_13L88808Q12279872Q2-1",
+            "marketId": "195641425",
+            "label": "Under 3250.5",
+            "displayOdds": {
+                "american": "\u2212110",
+                "decimal": "1.90",
+                "fractional": "10/11"
+            },
+            "trueOdds": 1.90909091,
+            "outcomeType": "Under",
+            "participants": [
+                {
+                    "name": "Under 3250.5",
+                    "type": "Team"
+                }
+            ],
+            "sortOrder": 1002
+        },
+        {
+            "id": "0QA195641605#1832550224_13L88808Q11619275Q2-1",
+            "marketId": "195641605",
+            "label": "Under 3350.5",
+            "displayOdds": {
+                "american": "\u2212115",
+                "decimal": "1.86",
+                "fractional": "20/23"
+            },
+            "trueOdds": 1.86956522,
+            "outcomeType": "Under",
+            "participants": [
+                {
+                    "name": "Under 3350.5",
+                    "type": "Team"
+                }
+            ],
+            "sortOrder": 1002
+        },
+        {
+            "id": "0QA195641049#6782764_13L88808Q11217411Q2-1",
+            "marketId": "195641049",
+            "label": "Under 3650.5",
+            "displayOdds": {
+                "american": "\u002B110",
+                "decimal": "2.10",
+                "fractional": "11/10"
+            },
+            "trueOdds": 2.1,
+            "outcomeType": "Under",
+            "participants": [
+                {
+                    "name": "Under 3650.5",
+                    "type": "Team"
+                }
+            ],
+            "sortOrder": 1002
+        },
+        {
+            "id": "0QA187316828#1743829748_13L88808Q11217411Q2-1",
+            "marketId": "187316828",
+            "label": "Under 3650.5",
+            "displayOdds": {
+                "american": "\u2212125",
+                "decimal": "1.80",
+                "fractional": "4/5"
+            },
+            "trueOdds": 1.8,
+            "outcomeType": "Under",
+            "participants": [
+                {
+                    "name": "Under 3650.5",
+                    "type": "Team"
+                }
+            ],
+            "sortOrder": 1002
+        },
+        {
+            "id": "0QA195641150#1789967099_13L88808Q11619916Q2-1",
+            "marketId": "195641150",
+            "label": "Under 3600.5",
+            "displayOdds": {
+                "american": "\u2212130",
+                "decimal": "1.76",
+                "fractional": "10/13"
+            },
+            "trueOdds": 1.76923077,
+            "outcomeType": "Under",
+            "participants": [
+                {
+                    "name": "Under 3600.5",
+                    "type": "Team"
+                }
+            ],
+            "sortOrder": 1002
+        },
+        {
+            "id": "0QA195641530#1789967209_13L88808Q11965748Q2-1",
+            "marketId": "195641530",
+            "label": "Under 3400.5",
+            "displayOdds": {
+                "american": "\u2212110",
+                "decimal": "1.90",
+                "fractional": "10/11"
+            },
+            "trueOdds": 1.90909091,
+            "outcomeType": "Under",
+            "participants": [
+                {
+                    "name": "Under 3400.5",
+                    "type": "Team"
+                }
+            ],
+            "sortOrder": 1002
+        },
+        {
+            "id": "0QA195641631#1812493194_13L88808Q11965752Q2-1",
+            "marketId": "195641631",
+            "label": "Under 3300.5",
+            "displayOdds": {
+                "american": "\u2212120",
+                "decimal": "1.83",
+                "fractional": "5/6"
+            },
+            "trueOdds": 1.83333334,
+            "outcomeType": "Under",
+            "participants": [
+                {
+                    "name": "Under 3300.5",
+                    "type": "Team"
+                }
+            ],
+            "sortOrder": 1002
+        },
+        {
+            "id": "0QA195641476#1789967173_13L88808Q11185947Q2-1",
+            "marketId": "195641476",
+            "label": "Under 3900.5",
+            "displayOdds": {
+                "american": "\u2212125",
+                "decimal": "1.80",
+                "fractional": "4/5"
+            },
+            "trueOdds": 1.8,
+            "outcomeType": "Under",
+            "participants": [
+                {
+                    "name": "Under 3900.5",
+                    "type": "Team"
+                }
+            ],
+            "sortOrder": 1002
+        },
+        {
+            "id": "0QA209277166#21993042_13L88808Q11628319Q2-1",
+            "marketId": "209277166",
+            "label": "Under 3500.5",
+            "displayOdds": {
+                "american": "\u2212125",
+                "decimal": "1.80",
+                "fractional": "4/5"
+            },
+            "trueOdds": 1.8,
+            "outcomeType": "Under",
+            "participants": [
+                {
+                    "name": "Under 3500.5",
+                    "type": "Team"
+                }
+            ],
+            "sortOrder": 1002
+        },
+        {
+            "id": "0QA195641480#1789967185_13L88808Q11172472Q2-1",
+            "marketId": "195641480",
+            "label": "Under 3800.5",
+            "displayOdds": {
+                "american": "\u2212125",
+                "decimal": "1.80",
+                "fractional": "4/5"
+            },
+            "trueOdds": 1.8,
+            "outcomeType": "Under",
+            "participants": [
+                {
+                    "name": "Under 3800.5",
+                    "type": "Team"
+                }
+            ],
+            "sortOrder": 1002
+        },
+        {
+            "id": "0QA187353442#19074373_13L88808Q11172472Q2-1",
+            "marketId": "187353442",
+            "label": "Under 3800.5",
+            "displayOdds": {
+                "american": "\u2212115",
+                "decimal": "1.86",
+                "fractional": "20/23"
+            },
+            "trueOdds": 1.86956522,
+            "outcomeType": "Under",
+            "participants": [
+                {
+                    "name": "Under 3800.5",
+                    "type": "Team"
+                }
+            ],
+            "sortOrder": 1002
+        },
+        {
+            "id": "0QA195641076#1789967075_13L88808Q11185947Q2-1",
+            "marketId": "195641076",
+            "label": "Under 3900.5",
+            "displayOdds": {
+                "american": "\u2212110",
+                "decimal": "1.90",
+                "fractional": "10/11"
+            },
+            "trueOdds": 1.90909091,
+            "outcomeType": "Under",
+            "participants": [
+                {
+                    "name": "Under 3900.5",
+                    "type": "Team"
+                }
+            ],
+            "sortOrder": 1002
+        },
+        {
+            "id": "0QA186797368#1740490209_13L88808Q11625406Q2-1",
+            "marketId": "186797368",
+            "label": "Under 4350.5",
+            "displayOdds": {
+                "american": "\u2212135",
+                "decimal": "1.74",
+                "fractional": "20/27"
+            },
+            "trueOdds": 1.74074075,
+            "outcomeType": "Under",
+            "participants": [
+                {
+                    "name": "Under 4350.5",
+                    "type": "Team"
+                }
+            ],
+            "sortOrder": 1002
+        },
+        {
+            "id": "0QA195641285#19582427_13L88808Q11172470Q2-1",
+            "marketId": "195641285",
+            "label": "Under 4100.5",
+            "displayOdds": {
+                "american": "\u2212110",
+                "decimal": "1.90",
+                "fractional": "10/11"
+            },
+            "trueOdds": 1.90909091,
+            "outcomeType": "Under",
+            "participants": [
+                {
+                    "name": "Under 4100.5",
+                    "type": "Team"
+                }
+            ],
+            "sortOrder": 1002
+        },
+        {
+            "id": "0QA195641436#1789967159_13L88808Q11172470Q2-1",
+            "marketId": "195641436",
+            "label": "Under 4100.5",
+            "displayOdds": {
+                "american": "\u2212125",
+                "decimal": "1.80",
+                "fractional": "4/5"
+            },
+            "trueOdds": 1.8,
+            "outcomeType": "Under",
+            "participants": [
+                {
+                    "name": "Under 4100.5",
+                    "type": "Team"
+                }
+            ],
+            "sortOrder": 1002
+        }
+    ],
+    "categories": [
+        {
+            "id": 492,
+            "name": "Game Lines",
+            "sortOrder": 492,
+            "tags": [
+                "SGP"
+            ]
+        },
+        {
+            "id": 1003,
+            "name": "TD Scorers",
+            "sortOrder": 525,
+            "tags": [
+                "SGP"
+            ]
+        },
+        {
+            "id": 529,
+            "name": "Futures",
+            "sortOrder": 526
+        },
+        {
+            "id": 787,
+            "name": "Awards",
+            "sortOrder": 527
+        },
+        {
+            "id": 1076,
+            "name": "Playoff Parlays",
+            "sortOrder": 528
+        },
+        {
+            "id": 1651,
+            "name": "RB/WR Milestones",
+            "sortOrder": 532
+        },
+        {
+            "id": 1631,
+            "name": "QB Milestones",
+            "sortOrder": 535
+        },
+        {
+            "id": 1286,
+            "name": "Wins",
+            "sortOrder": 540
+        },
+        {
+            "id": 863,
+            "name": "Team Specials",
+            "sortOrder": 545
+        },
+        {
+            "id": 1595,
+            "name": "Stat Leaders",
+            "sortOrder": 550
+        },
+        {
+            "id": 634,
+            "name": "Rookie Leaders",
+            "sortOrder": 639
+        },
+        {
+            "id": 782,
+            "name": "Player Stats",
+            "sortOrder": 645
+        },
+        {
+            "id": 1643,
+            "name": "Next Player To Record",
+            "sortOrder": 669
+        },
+        {
+            "id": 1600,
+            "name": "Drive For Week 5",
+            "sortOrder": 742
+        },
+        {
+            "id": 820,
+            "name": "Division Specials",
+            "sortOrder": 771
+        },
+        {
+            "id": 786,
+            "name": "Season Specials",
+            "sortOrder": 780
+        },
+        {
+            "id": 1635,
+            "name": "Receiver",
+            "sortOrder": 785
+        },
+        {
+            "id": 1559,
+            "name": "1st of Game",
+            "sortOrder": 978,
+            "tags": [
+                "SGP"
+            ]
+        },
+        {
+            "id": 527,
+            "name": "Quarters",
+            "sortOrder": 999
+        },
+        {
+            "id": 528,
+            "name": "Game Props",
+            "sortOrder": 1024,
+            "tags": [
+                "SGP"
+            ]
+        },
+        {
+            "id": 530,
+            "name": "Team Props",
+            "sortOrder": 1030
+        },
+        {
+            "id": 862,
+            "name": "Player Specials",
+            "sortOrder": 1056
+        },
+        {
+            "id": 1287,
+            "name": "Scoring Specials",
+            "sortOrder": 1066
+        },
+        {
+            "id": 994,
+            "name": "Player Matchups",
+            "sortOrder": 1215
+        },
+        {
+            "id": 1627,
+            "name": "Season High Totals",
+            "sortOrder": 1628
+        }
+    ],
+    "subcategories": [
+        {
+            "id": 7276,
+            "categoryId": 782,
+            "name": "Receiving Yards",
+            "componentId": 29,
+            "sortOrder": 7191,
+            "tags": []
+        },
+        {
+            "id": 7239,
+            "categoryId": 782,
+            "name": "Receiving TDs",
+            "componentId": 29,
+            "sortOrder": 7192,
+            "tags": []
+        },
+        {
+            "id": 13405,
+            "categoryId": 782,
+            "name": "Receptions",
+            "componentId": 12,
+            "sortOrder": 8407,
+            "tags": []
+        },
+        {
+            "id": 8516,
+            "categoryId": 863,
+            "name": "PIT Steelers",
+            "componentId": 204,
+            "sortOrder": 8485,
+            "tags": []
+        },
+        {
+            "id": 13354,
+            "categoryId": 1286,
+            "name": "Regular Season Wins",
+            "componentId": 240,
+            "sortOrder": 13314,
+            "tags": []
+        },
+        {
+            "id": 4652,
+            "categoryId": 529,
+            "name": "To Make the Playoffs",
+            "componentId": 12,
+            "sortOrder": 4976,
+            "tags": []
+        },
+        {
+            "id": 15438,
+            "categoryId": 1600,
+            "name": "Record After 5 Games",
+            "componentId": 29,
+            "sortOrder": 15395,
+            "tags": []
+        },
+        {
+            "id": 7624,
+            "categoryId": 820,
+            "name": "Division Wins",
+            "componentId": 29,
+            "sortOrder": 7616,
+            "tags": []
+        },
+        {
+            "id": 13381,
+            "categoryId": 1287,
+            "name": "Team Scoring",
+            "componentId": 29,
+            "sortOrder": 13423,
+            "tags": []
+        },
+        {
+            "id": 13356,
+            "categoryId": 1286,
+            "name": "Exact Wins",
+            "componentId": 12,
+            "sortOrder": 13317,
+            "tags": []
+        },
+        {
+            "id": 15783,
+            "categoryId": 786,
+            "name": "Team Sacks",
+            "componentId": 29,
+            "sortOrder": 14450,
+            "tags": []
+        },
+        {
+            "id": 9159,
+            "categoryId": 529,
+            "name": "Stage of Elimination",
+            "componentId": 29,
+            "sortOrder": 11330,
+            "tags": []
+        },
+        {
+            "id": 8495,
+            "categoryId": 863,
+            "name": "BAL Ravens",
+            "componentId": 204,
+            "sortOrder": 8151,
+            "tags": []
+        },
+        {
+            "id": 15902,
+            "categoryId": 529,
+            "name": "Team Exact Seed",
+            "componentId": 29,
+            "sortOrder": 11576,
+            "tags": []
+        },
+        {
+            "id": 7200,
+            "categoryId": 782,
+            "name": "Passing Yards",
+            "componentId": 29,
+            "sortOrder": 7152,
+            "tags": []
+        },
+        {
+            "id": 14770,
+            "categoryId": 782,
+            "name": "Passing TDs",
+            "componentId": 29,
+            "sortOrder": 7155,
+            "tags": []
+        },
+        {
+            "id": 13407,
+            "categoryId": 782,
+            "name": "Combined Tackles",
+            "componentId": 12,
+            "sortOrder": 13384,
+            "tags": []
+        },
+        {
+            "id": 13366,
+            "categoryId": 820,
+            "name": "Reg Season H2H",
+            "componentId": 29,
+            "sortOrder": 13326,
+            "tags": []
+        },
+        {
+            "id": 13357,
+            "categoryId": 1286,
+            "name": "Matchups",
+            "componentId": 29,
+            "sortOrder": 13319,
+            "tags": []
+        },
+        {
+            "id": 13352,
+            "categoryId": 782,
+            "name": "Sacks",
+            "componentId": 12,
+            "sortOrder": 7194,
+            "tags": []
+        },
+        {
+            "id": 15665,
+            "categoryId": 1600,
+            "name": "Most Wins After 5 Games",
+            "componentId": 30,
+            "sortOrder": 15622,
+            "tags": []
+        },
+        {
+            "id": 5629,
+            "categoryId": 529,
+            "name": "Division Winner",
+            "componentId": 12,
+            "sortOrder": 5714,
+            "tags": []
+        },
+        {
+            "id": 13141,
+            "categoryId": 820,
+            "name": "1-2 Exact",
+            "componentId": 214,
+            "sortOrder": 7622,
+            "tags": []
+        },
+        {
+            "id": 11781,
+            "categoryId": 820,
+            "name": "Top 2",
+            "componentId": 204,
+            "sortOrder": 11745,
+            "tags": []
+        },
+        {
+            "id": 13163,
+            "categoryId": 820,
+            "name": "Exact Order",
+            "componentId": 214,
+            "sortOrder": 11744,
+            "tags": []
+        },
+        {
+            "id": 13206,
+            "categoryId": 820,
+            "name": "Pass Leaders",
+            "componentId": 29,
+            "sortOrder": 13123,
+            "tags": []
+        },
+        {
+            "id": 13301,
+            "categoryId": 820,
+            "name": "Rec Leaders",
+            "componentId": 30,
+            "sortOrder": 13259,
+            "tags": []
+        },
+        {
+            "id": 7277,
+            "categoryId": 782,
+            "name": "Rushing Yards",
+            "componentId": 29,
+            "sortOrder": 7193,
+            "tags": []
+        },
+        {
+            "id": 7694,
+            "categoryId": 782,
+            "name": "Rushing TDs",
+            "componentId": 29,
+            "sortOrder": 7193,
+            "tags": []
+        },
+        {
+            "id": 13351,
+            "categoryId": 782,
+            "name": "DEF INTs",
+            "componentId": 12,
+            "sortOrder": 13367,
+            "tags": []
+        },
+        {
+            "id": 4651,
+            "categoryId": 529,
+            "name": "Conference Winner",
+            "componentId": 12,
+            "sortOrder": 5078,
+            "tags": []
+        },
+        {
+            "id": 10107,
+            "categoryId": 529,
+            "name": "Number 1 Seed",
+            "componentId": 29,
+            "sortOrder": 11574,
+            "tags": []
+        },
+        {
+            "id": 10108,
+            "categoryId": 529,
+            "name": "Wildcard Seed",
+            "componentId": 29,
+            "sortOrder": 11575,
+            "tags": []
+        },
+        {
+            "id": 13360,
+            "categoryId": 1286,
+            "name": "Undefeated",
+            "componentId": 29,
+            "sortOrder": 13322,
+            "tags": []
+        },
+        {
+            "id": 13368,
+            "categoryId": 1286,
+            "name": "0-17",
+            "componentId": 29,
+            "sortOrder": 13348,
+            "tags": []
+        },
+        {
+            "id": 13378,
+            "categoryId": 1287,
+            "name": "Most Points",
+            "componentId": 29,
+            "sortOrder": 13343,
+            "tags": []
+        },
+        {
+            "id": 13379,
+            "categoryId": 1287,
+            "name": "Least Points",
+            "componentId": 29,
+            "sortOrder": 13416,
+            "tags": []
+        },
+        {
+            "id": 15635,
+            "categoryId": 1287,
+            "name": "Points Milestones",
+            "componentId": 29,
+            "sortOrder": 15833,
+            "tags": []
+        },
+        {
+            "id": 11640,
+            "categoryId": 863,
+            "name": "Mixed",
+            "componentId": 204,
+            "sortOrder": 8126,
+            "tags": []
+        },
+        {
+            "id": 15694,
+            "categoryId": 1595,
+            "name": "Team Sacks",
+            "componentId": 29,
+            "sortOrder": 15628,
+            "tags": []
+        },
+        {
+            "id": 8503,
+            "categoryId": 863,
+            "name": "DET Lions",
+            "componentId": 204,
+            "sortOrder": 8187,
+            "tags": []
+        },
+        {
+            "id": 13369,
+            "categoryId": 1286,
+            "name": "First Loss",
+            "componentId": 29,
+            "sortOrder": 13329,
+            "tags": []
+        },
+        {
+            "id": 13350,
+            "categoryId": 782,
+            "name": "QB INTs",
+            "componentId": 12,
+            "sortOrder": 13365,
+            "tags": []
+        },
+        {
+            "id": 8502,
+            "categoryId": 863,
+            "name": "DEN Broncos",
+            "componentId": 204,
+            "sortOrder": 8186,
+            "tags": []
+        },
+        {
+            "id": 10508,
+            "categoryId": 530,
+            "name": "To Score 1st \u0026 Win/Lose",
+            "componentId": 29,
+            "sortOrder": 10478,
+            "tags": []
+        },
+        {
+            "id": 12438,
+            "categoryId": 1003,
+            "name": "TD Scorer",
+            "componentId": 18,
+            "sortOrder": 9512,
+            "tags": [
+                "Featured",
+                "SGP"
+            ]
+        },
+        {
+            "id": 15052,
+            "categoryId": 1559,
+            "name": "1st Score",
+            "componentId": 29,
+            "sortOrder": 15016,
+            "tags": []
+        },
+        {
+            "id": 15066,
+            "categoryId": 1559,
+            "name": "1st to Score",
+            "componentId": 29,
+            "sortOrder": 15009,
+            "tags": [
+                "SGP"
+            ]
+        },
+        {
+            "id": 15649,
+            "categoryId": 1003,
+            "name": "Either Player to Score",
+            "componentId": 204,
+            "sortOrder": 9658,
+            "tags": []
+        },
+        {
+            "id": 4518,
+            "categoryId": 492,
+            "name": "Game",
+            "componentId": 210,
+            "sortOrder": 4513,
+            "tags": [
+                "Featured",
+                "SGP"
+            ]
+        },
+        {
+            "id": 5873,
+            "categoryId": 528,
+            "name": "Winning Margin",
+            "componentId": 202,
+            "sortOrder": 4660,
+            "tags": [
+                "Featured",
+                "SGP"
+            ]
+        },
+        {
+            "id": 9816,
+            "categoryId": 862,
+            "name": "QB Parlays",
+            "componentId": 214,
+            "sortOrder": 9775,
+            "tags": [
+                "Featured"
+            ]
+        },
+        {
+            "id": 9818,
+            "categoryId": 862,
+            "name": "WR/TE Parlays",
+            "componentId": 214,
+            "sortOrder": 9777,
+            "tags": [
+                "Featured"
+            ]
+        },
+        {
+            "id": 9820,
+            "categoryId": 862,
+            "name": "Hybrid Parlays",
+            "componentId": 214,
+            "sortOrder": 9778,
+            "tags": [
+                "Featured"
+            ]
+        },
+        {
+            "id": 12635,
+            "categoryId": 527,
+            "name": "Correct Score - 1st Quarter",
+            "componentId": 204,
+            "sortOrder": 4644,
+            "tags": []
+        },
+        {
+            "id": 9817,
+            "categoryId": 862,
+            "name": "RB Parlays",
+            "componentId": 214,
+            "sortOrder": 9776,
+            "tags": [
+                "Featured"
+            ]
+        },
+        {
+            "id": 13297,
+            "categoryId": 820,
+            "name": "Rush Leaders",
+            "componentId": 29,
+            "sortOrder": 13166,
+            "tags": []
+        },
+        {
+            "id": 8992,
+            "categoryId": 863,
+            "name": "GB Packers",
+            "componentId": 204,
+            "sortOrder": 8189,
+            "tags": []
+        },
+        {
+            "id": 8505,
+            "categoryId": 863,
+            "name": "JAX Jaguars",
+            "componentId": 204,
+            "sortOrder": 8261,
+            "tags": []
+        },
+        {
+            "id": 8496,
+            "categoryId": 863,
+            "name": "BUF Bills",
+            "componentId": 204,
+            "sortOrder": 8152,
+            "tags": []
+        },
+        {
+            "id": 8522,
+            "categoryId": 863,
+            "name": "WAS Commanders",
+            "componentId": 204,
+            "sortOrder": 8490,
+            "tags": []
+        },
+        {
+            "id": 7512,
+            "categoryId": 634,
+            "name": "Pass Yards",
+            "componentId": 29,
+            "sortOrder": 7600,
+            "tags": []
+        },
+        {
+            "id": 15379,
+            "categoryId": 1595,
+            "name": "Pass Yards",
+            "componentId": 29,
+            "sortOrder": 15336,
+            "tags": []
+        },
+        {
+            "id": 15381,
+            "categoryId": 1595,
+            "name": "Rec Yards",
+            "componentId": 29,
+            "sortOrder": 15608,
+            "tags": []
+        },
+        {
+            "id": 15380,
+            "categoryId": 1595,
+            "name": "Rush Yards",
+            "componentId": 29,
+            "sortOrder": 15338,
+            "tags": []
+        },
+        {
+            "id": 7725,
+            "categoryId": 634,
+            "name": "Rec Yards",
+            "componentId": 29,
+            "sortOrder": 8154,
+            "tags": []
+        },
+        {
+            "id": 15650,
+            "categoryId": 1595,
+            "name": "Pass TDs",
+            "componentId": 29,
+            "sortOrder": 15337,
+            "tags": []
+        },
+        {
+            "id": 15651,
+            "categoryId": 1595,
+            "name": "Most Rec TDs",
+            "componentId": 29,
+            "sortOrder": 15618,
+            "tags": []
+        },
+        {
+            "id": 15661,
+            "categoryId": 1595,
+            "name": "Sacks",
+            "componentId": 29,
+            "sortOrder": 15627,
+            "tags": []
+        },
+        {
+            "id": 15662,
+            "categoryId": 1595,
+            "name": "Most Tackles \u0026 Assists",
+            "componentId": 29,
+            "sortOrder": 15773,
+            "tags": []
+        },
+        {
+            "id": 15670,
+            "categoryId": 1595,
+            "name": "Most Rush TDs",
+            "componentId": 29,
+            "sortOrder": 15607,
+            "tags": []
+        },
+        {
+            "id": 15671,
+            "categoryId": 1595,
+            "name": "Most Rush \u002B Rec TDs",
+            "componentId": 29,
+            "sortOrder": 15619,
+            "tags": []
+        },
+        {
+            "id": 15733,
+            "categoryId": 1631,
+            "name": "Pass Yards",
+            "componentId": 29,
+            "sortOrder": 15690,
+            "tags": []
+        },
+        {
+            "id": 15734,
+            "categoryId": 1631,
+            "name": "Pass TDs",
+            "componentId": 29,
+            "sortOrder": 15691,
+            "tags": []
+        },
+        {
+            "id": 15898,
+            "categoryId": 1651,
+            "name": "Rec Yards",
+            "componentId": 29,
+            "sortOrder": 15857,
+            "tags": []
+        },
+        {
+            "id": 15897,
+            "categoryId": 1651,
+            "name": "Rush Yards",
+            "componentId": 29,
+            "sortOrder": 15856,
+            "tags": []
+        },
+        {
+            "id": 15899,
+            "categoryId": 1651,
+            "name": "Rush TDs",
+            "componentId": 29,
+            "sortOrder": 15854,
+            "tags": []
+        },
+        {
+            "id": 15900,
+            "categoryId": 1651,
+            "name": "Rec TDs",
+            "componentId": 29,
+            "sortOrder": 15855,
+            "tags": []
+        },
+        {
+            "id": 15742,
+            "categoryId": 1635,
+            "name": "Most TDs",
+            "componentId": 29,
+            "sortOrder": 15701,
+            "tags": []
+        },
+        {
+            "id": 15744,
+            "categoryId": 1635,
+            "name": "Most Yards",
+            "componentId": 29,
+            "sortOrder": 15699,
+            "tags": []
+        },
+        {
+            "id": 15743,
+            "categoryId": 1635,
+            "name": "Most TDs Hcap",
+            "componentId": 29,
+            "sortOrder": 15702,
+            "tags": []
+        },
+        {
+            "id": 15745,
+            "categoryId": 1635,
+            "name": "Most Yards Hcap",
+            "componentId": 29,
+            "sortOrder": 15700,
+            "tags": []
+        },
+        {
+            "id": 15747,
+            "categoryId": 1635,
+            "name": "Specials",
+            "componentId": 204,
+            "sortOrder": 15704,
+            "tags": []
+        },
+        {
+            "id": 14452,
+            "categoryId": 786,
+            "name": "Record Breaker",
+            "componentId": 29,
+            "sortOrder": 13307,
+            "tags": []
+        },
+        {
+            "id": 13383,
+            "categoryId": 1287,
+            "name": "OT/Tie",
+            "componentId": 29,
+            "sortOrder": 15592,
+            "tags": []
+        },
+        {
+            "id": 9433,
+            "categoryId": 994,
+            "name": "Rushing Yards",
+            "componentId": 29,
+            "sortOrder": 9401,
+            "tags": []
+        },
+        {
+            "id": 9436,
+            "categoryId": 994,
+            "name": "Rushing TDs",
+            "componentId": 29,
+            "sortOrder": 9402,
+            "tags": []
+        },
+        {
+            "id": 9434,
+            "categoryId": 994,
+            "name": "Passing Yards",
+            "componentId": 29,
+            "sortOrder": 9399,
+            "tags": []
+        },
+        {
+            "id": 9435,
+            "categoryId": 994,
+            "name": "Passing TDs",
+            "componentId": 29,
+            "sortOrder": 9400,
+            "tags": []
+        },
+        {
+            "id": 9437,
+            "categoryId": 994,
+            "name": "Receiving Yards",
+            "componentId": 29,
+            "sortOrder": 9403,
+            "tags": []
+        },
+        {
+            "id": 9438,
+            "categoryId": 994,
+            "name": "Receiving TDs",
+            "componentId": 29,
+            "sortOrder": 9404,
+            "tags": []
+        },
+        {
+            "id": 15820,
+            "categoryId": 1595,
+            "name": "QB INTs",
+            "componentId": 29,
+            "sortOrder": 15834,
+            "tags": []
+        },
+        {
+            "id": 15885,
+            "categoryId": 1595,
+            "name": "Receptions",
+            "componentId": 29,
+            "sortOrder": 15842,
+            "tags": []
+        },
+        {
+            "id": 15854,
+            "categoryId": 1643,
+            "name": "Passing",
+            "componentId": 29,
+            "sortOrder": 15811,
+            "tags": []
+        },
+        {
+            "id": 15856,
+            "categoryId": 1643,
+            "name": "Receiving",
+            "componentId": 29,
+            "sortOrder": 15813,
+            "tags": []
+        },
+        {
+            "id": 7562,
+            "categoryId": 634,
+            "name": "Rush Yards",
+            "componentId": 29,
+            "sortOrder": 8122,
+            "tags": []
+        },
+        {
+            "id": 7608,
+            "categoryId": 634,
+            "name": "Rush TDs",
+            "componentId": 29,
+            "sortOrder": 8153,
+            "tags": []
+        },
+        {
+            "id": 8130,
+            "categoryId": 634,
+            "name": "Rec TDs",
+            "componentId": 29,
+            "sortOrder": 8155,
+            "tags": []
+        },
+        {
+            "id": 8627,
+            "categoryId": 634,
+            "name": "Receptions",
+            "componentId": 29,
+            "sortOrder": 8156,
+            "tags": []
+        },
+        {
+            "id": 13365,
+            "categoryId": 1286,
+            "name": "Most Wins",
+            "componentId": 29,
+            "sortOrder": 13321,
+            "tags": []
+        },
+        {
+            "id": 13367,
+            "categoryId": 1286,
+            "name": "Fewest Wins",
+            "componentId": 29,
+            "sortOrder": 13330,
+            "tags": []
+        },
+        {
+            "id": 15399,
+            "categoryId": 1076,
+            "name": "To Make the Playoffs",
+            "componentId": 12,
+            "sortOrder": 15355,
+            "tags": []
+        },
+        {
+            "id": 15398,
+            "categoryId": 1076,
+            "name": "To Miss the Playoffs",
+            "componentId": 12,
+            "sortOrder": 15356,
+            "tags": []
+        },
+        {
+            "id": 13370,
+            "categoryId": 1286,
+            "name": "Last Winless Team",
+            "componentId": 29,
+            "sortOrder": 13349,
+            "tags": []
+        },
+        {
+            "id": 13363,
+            "categoryId": 1286,
+            "name": "Last Undefeated",
+            "componentId": 29,
+            "sortOrder": 13323,
+            "tags": []
+        },
+        {
+            "id": 15437,
+            "categoryId": 820,
+            "name": "Division Most Wins",
+            "componentId": 29,
+            "sortOrder": 15394,
+            "tags": []
+        },
+        {
+            "id": 15691,
+            "categoryId": 1627,
+            "name": "Field Goals",
+            "componentId": 29,
+            "sortOrder": 15633,
+            "tags": []
+        },
+        {
+            "id": 15686,
+            "categoryId": 1627,
+            "name": "Receiving",
+            "componentId": 29,
+            "sortOrder": 15631,
+            "tags": []
+        },
+        {
+            "id": 15687,
+            "categoryId": 1627,
+            "name": "Rushing",
+            "componentId": 29,
+            "sortOrder": 15630,
+            "tags": []
+        },
+        {
+            "id": 15689,
+            "categoryId": 1627,
+            "name": "Passing",
+            "componentId": 29,
+            "sortOrder": 15629,
+            "tags": []
+        },
+        {
+            "id": 15690,
+            "categoryId": 1627,
+            "name": "Defense",
+            "componentId": 29,
+            "sortOrder": 15632,
+            "tags": []
+        },
+        {
+            "id": 15688,
+            "categoryId": 1627,
+            "name": "Longest TD",
+            "componentId": 29,
+            "sortOrder": 15634,
+            "tags": []
+        },
+        {
+            "id": 15852,
+            "categoryId": 1600,
+            "name": "Race to Regular Season Points",
+            "componentId": 29,
+            "sortOrder": 15809,
+            "tags": []
+        },
+        {
+            "id": 15853,
+            "categoryId": 1600,
+            "name": "Race to Regular Season TDs",
+            "componentId": 29,
+            "sortOrder": 15810,
+            "tags": []
+        },
+        {
+            "id": 15877,
+            "categoryId": 1595,
+            "name": "Kickoff Return TDs",
+            "componentId": 29,
+            "sortOrder": 15651,
+            "tags": []
+        },
+        {
+            "id": 15875,
+            "categoryId": 1287,
+            "name": "1\u002B TD Every Game",
+            "componentId": 29,
+            "sortOrder": 13338,
+            "tags": []
+        },
+        {
+            "id": 15876,
+            "categoryId": 1287,
+            "name": "1\u002B Pass TD Every Game",
+            "componentId": 29,
+            "sortOrder": 13339,
+            "tags": []
+        },
+        {
+            "id": 15874,
+            "categoryId": 1287,
+            "name": "1\u002B Rush TD Every Game",
+            "componentId": 29,
+            "sortOrder": 13340,
+            "tags": []
+        },
+        {
+            "id": 15911,
+            "categoryId": 786,
+            "name": "Octopus",
+            "componentId": 29,
+            "sortOrder": 15868,
+            "tags": []
+        },
+        {
+            "id": 8520,
+            "categoryId": 863,
+            "name": "TB Buccaneers",
+            "componentId": 204,
+            "sortOrder": 8488,
+            "tags": []
+        },
+        {
+            "id": 7198,
+            "categoryId": 786,
+            "name": "Starting QB",
+            "componentId": 29,
+            "sortOrder": 7260,
+            "tags": []
+        },
+        {
+            "id": 8517,
+            "categoryId": 863,
+            "name": "PHI Eagles",
+            "componentId": 204,
+            "sortOrder": 8477,
+            "tags": []
+        },
+        {
+            "id": 8518,
+            "categoryId": 863,
+            "name": "SEA Seahawks",
+            "componentId": 204,
+            "sortOrder": 8486,
+            "tags": []
+        },
+        {
+            "id": 8515,
+            "categoryId": 863,
+            "name": "NY Giants",
+            "componentId": 204,
+            "sortOrder": 8348,
+            "tags": []
+        },
+        {
+            "id": 8508,
+            "categoryId": 863,
+            "name": "LA Rams",
+            "componentId": 204,
+            "sortOrder": 8296,
+            "tags": []
+        },
+        {
+            "id": 8507,
+            "categoryId": 863,
+            "name": "LA Chargers",
+            "componentId": 204,
+            "sortOrder": 8263,
+            "tags": []
+        },
+        {
+            "id": 8512,
+            "categoryId": 863,
+            "name": "NE Patriots",
+            "componentId": 204,
+            "sortOrder": 8346,
+            "tags": []
+        },
+        {
+            "id": 8504,
+            "categoryId": 863,
+            "name": "HOU Texans",
+            "componentId": 204,
+            "sortOrder": 8259,
+            "tags": []
+        },
+        {
+            "id": 13339,
+            "categoryId": 787,
+            "name": "MVP",
+            "componentId": 29,
+            "sortOrder": 7205,
+            "tags": []
+        },
+        {
+            "id": 13340,
+            "categoryId": 787,
+            "name": "OPOY",
+            "componentId": 29,
+            "sortOrder": 7211,
+            "tags": []
+        },
+        {
+            "id": 13341,
+            "categoryId": 787,
+            "name": "DPOY",
+            "componentId": 29,
+            "sortOrder": 7212,
+            "tags": []
+        },
+        {
+            "id": 13344,
+            "categoryId": 787,
+            "name": "Coach",
+            "componentId": 29,
+            "sortOrder": 7213,
+            "tags": []
+        },
+        {
+            "id": 13342,
+            "categoryId": 787,
+            "name": "OROY",
+            "componentId": 29,
+            "sortOrder": 7206,
+            "tags": []
+        },
+        {
+            "id": 13343,
+            "categoryId": 787,
+            "name": "DROY",
+            "componentId": 29,
+            "sortOrder": 7210,
+            "tags": []
+        },
+        {
+            "id": 13345,
+            "categoryId": 787,
+            "name": "Comeback",
+            "componentId": 29,
+            "sortOrder": 8205,
+            "tags": []
+        },
+        {
+            "id": 8500,
+            "categoryId": 863,
+            "name": "CLE Browns",
+            "componentId": 204,
+            "sortOrder": 8180,
+            "tags": []
+        },
+        {
+            "id": 8497,
+            "categoryId": 863,
+            "name": "CAR Panthers",
+            "componentId": 204,
+            "sortOrder": 8177,
+            "tags": []
+        },
+        {
+            "id": 8506,
+            "categoryId": 863,
+            "name": "KC Chiefs",
+            "componentId": 204,
+            "sortOrder": 8262,
+            "tags": []
+        },
+        {
+            "id": 8494,
+            "categoryId": 863,
+            "name": "ATL Falcons",
+            "componentId": 204,
+            "sortOrder": 8128,
+            "tags": []
+        },
+        {
+            "id": 8485,
+            "categoryId": 863,
+            "name": "IND Colts",
+            "componentId": 204,
+            "sortOrder": 8260,
+            "tags": []
+        },
+        {
+            "id": 8510,
+            "categoryId": 863,
+            "name": "MIA Dolphins",
+            "componentId": 204,
+            "sortOrder": 8298,
+            "tags": []
+        },
+        {
+            "id": 8501,
+            "categoryId": 863,
+            "name": "DAL Cowboys",
+            "componentId": 204,
+            "sortOrder": 8181,
+            "tags": []
+        },
+        {
+            "id": 8519,
+            "categoryId": 863,
+            "name": "SF 49ers",
+            "componentId": 204,
+            "sortOrder": 8487,
+            "tags": []
+        },
+        {
+            "id": 8514,
+            "categoryId": 863,
+            "name": "NY Jets",
+            "componentId": 204,
+            "sortOrder": 8349,
+            "tags": []
+        },
+        {
+            "id": 8493,
+            "categoryId": 863,
+            "name": "ARI Cardinals",
+            "componentId": 204,
+            "sortOrder": 8127,
+            "tags": []
+        },
+        {
+            "id": 8509,
+            "categoryId": 863,
+            "name": "LV Raiders",
+            "componentId": 204,
+            "sortOrder": 8297,
+            "tags": []
+        },
+        {
+            "id": 8499,
+            "categoryId": 863,
+            "name": "CIN Bengals",
+            "componentId": 204,
+            "sortOrder": 8179,
+            "tags": []
+        },
+        {
+            "id": 8513,
+            "categoryId": 863,
+            "name": "NO Saints",
+            "componentId": 204,
+            "sortOrder": 8347,
+            "tags": []
+        },
+        {
+            "id": 8498,
+            "categoryId": 863,
+            "name": "CHI Bears",
+            "componentId": 204,
+            "sortOrder": 8178,
+            "tags": []
+        },
+        {
+            "id": 10500,
+            "categoryId": 529,
+            "name": "Champion",
+            "componentId": 212,
+            "sortOrder": 4646,
+            "tags": []
+        },
+        {
+            "id": 6447,
+            "categoryId": 529,
+            "name": "Champion Specials",
+            "componentId": 29,
+            "sortOrder": 14433,
+            "tags": []
+        },
+        {
+            "id": 15901,
+            "categoryId": 529,
+            "name": "Winning Conference",
+            "componentId": 29,
+            "sortOrder": 15859,
+            "tags": []
+        },
+        {
+            "id": 7302,
+            "categoryId": 529,
+            "name": "Name the Finalists",
+            "componentId": 29,
+            "sortOrder": 7395,
+            "tags": []
+        },
+        {
+            "id": 10249,
+            "categoryId": 529,
+            "name": "Exact Result",
+            "componentId": 29,
+            "sortOrder": 11617,
+            "tags": []
+        },
+        {
+            "id": 15907,
+            "categoryId": 787,
+            "name": "MVP \u002B SB Winner",
+            "componentId": 12,
+            "sortOrder": 15864,
+            "tags": []
+        },
+        {
+            "id": 8511,
+            "categoryId": 863,
+            "name": "MIN Vikings",
+            "componentId": 204,
+            "sortOrder": 8299,
+            "tags": []
+        },
+        {
+            "id": 8521,
+            "categoryId": 863,
+            "name": "TEN Titans",
+            "componentId": 204,
+            "sortOrder": 8489,
+            "tags": []
+        }
+    ],
+    "subscriptionPartials": {
+        "league-events-88808": {
+            "entity": "events",
+            "query": "$filter=leagueId eq \u002788808\u0027 and clientMetadata/Subcategories/any(s: s/Id eq \u00277200\u0027)\u0026$orderBy=startEventDate asc",
+            "includeMarkets": "$filter=tags/all(t: t ne \u0027SportcastBetBuilder\u0027) and clientMetadata/subCategoryId eq \u00277200\u0027"
+        }
+    }
+}
