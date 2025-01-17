@@ -85,8 +85,8 @@ Both of the Sofascore and Draftkings APIs were essentially reversed engingeered 
 The API endpoints and parameters for the desired data on all sport / league / category levels were configured, in addition to mapping exercises between the two data sources on both the match and streak / bet level. 
 
 *Note: 
-This project originally started as a local web app, involving a local postgres database with designed schemas, DDL, and CDC scripts for each table and category, and FastAPI endpoints to connect to a React front end. 
-JSON files from API calls that were parsed and SQL files for ETL are available in the GitHub repo for reference.
+This project originally started as a local web app, involving a local postgres database with designed schemas, DDL, and CDC scripts for each table and category. FastAPI endpoints were also created to connect to a React front end. 
+JSON files from API calls that were parsed and SQL files for ETL and CDC operations are available in the GitHub repo for reference, as an API version that was used in development of this is now deprecated.
 
 ---
 
