@@ -22,7 +22,9 @@ st.markdown("""
 
 ---
 
+*Page is currently suspended until 2025 season when the new endpoint on ESPN will be available
+
 """)
 
 
-espnAdpValues()
+#espnAdpValues()
