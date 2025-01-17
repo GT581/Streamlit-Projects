@@ -23,7 +23,9 @@ st.markdown("""
 
 ---
 
+*Page is currently suspended due to changes in the Draftkings API
+
 """)
 
 
-sportsStreaksOdds()
+#sportsStreaksOdds()
