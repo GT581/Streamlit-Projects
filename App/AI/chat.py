@@ -69,7 +69,7 @@ def writeChat():
 
     for message in st.session_state.messages:
         with st.chat_message(message["role"]):
-            st.markdown(message["content"])
+            st.write(message["content"])
 
 
 def userPromptGeminiChat():
@@ -88,10 +88,10 @@ def userPromptGeminiChat():
         st.session_state.messages.append({"role": "assistant", "content": answer})
 
         with st.chat_message("user"):
-            st.markdown(prompt)
+            st.write(prompt)
         
         with st.chat_message("assistant"):
-            st.markdown(answer)
+            st.write(answer)
 
 
 def groqChat(modelVersion, genai):
@@ -118,10 +118,10 @@ def groqChat(modelVersion, genai):
         st.session_state.messages.append({"role": "assistant", "content": answer})
 
         with st.chat_message("user"):
-            st.markdown(prompt)
+            st.write(prompt)
         
         with st.chat_message("assistant"):
-            st.markdown(answer)
+            st.write(answer)
 
 
 def AI_Gemini_Chat(apiSelection):

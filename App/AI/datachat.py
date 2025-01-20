@@ -3,6 +3,8 @@ from App.AI import common, chat
 import pandas as pd
 from pandasai import Agent
 from pandasai.responses.streamlit_response import StreamlitResponse
+import matplotlib.pyplot as plt
+import os
 
 
 def loadCsv():
@@ -82,7 +84,8 @@ def createPandasAgent(df, llm):
 
     '''
 
-    dfAgent = Agent(df, config={"llm": llm, "response_parser": StreamlitResponse}, memory_size=25)
+    #dfAgent = Agent(df, config={"llm": llm, "response_parser": StreamlitResponse}, memory_size=25)
+    dfAgent = Agent(df, config={"llm": llm}, memory_size=25)
 
     return dfAgent
 
@@ -155,7 +158,12 @@ def writeDataChat():
 
     for message in st.session_state.datamessages:
         with st.chat_message(message["role"]):
-            st.markdown(message["content"])
+            if os.path.exists("/mount/src/streamlit-projects/exports/charts/temp_chart.png"):
+                im = plt.imread("/mount/src/streamlit-projects/exports/charts/temp_chart.png")
+                st.image(im)
+                os.remove("/mount/src/streamlit-projects/exports/charts/temp_chart.png")
+            else:
+                st.write(message["content"])
 
 
 def userPromptDataChat():
@@ -173,10 +181,15 @@ def userPromptDataChat():
         st.session_state.datamessages.append({"role": "AI", "content": answer})
 
         with st.chat_message("You"):
-            st.markdown(prompt)
+            st.write(prompt)
         
         with st.chat_message("AI"):
-            st.markdown(answer)
+            if os.path.exists("/mount/src/streamlit-projects/exports/charts/temp_chart.png"):
+                im = plt.imread("/mount/src/streamlit-projects/exports/charts/temp_chart.png")
+                st.image(im)
+                os.remove("/mount/src/streamlit-projects/exports/charts/temp_chart.png")
+            else:
+                st.write(answer)
 
 
 def AI_Gemini_Data_Chat(apiSelection):
