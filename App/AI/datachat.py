@@ -1,7 +1,5 @@
 import streamlit as st
 from App.AI import common, chat
-from langchain_google_genai import GoogleGenerativeAI
-from langchain_groq import ChatGroq
 import pandas as pd
 from pandasai import Agent
 from pandasai.responses.streamlit_response import StreamlitResponse
@@ -71,29 +69,6 @@ def readCsvEncoded(uploadedCsv):
     raise UnicodeDecodeError("Unable to read CSV file with any encoding")
 
 
-def createLangchainModel(modelVersion, apiKey, apiSelection):
-    '''
-    Creates langchain model instance based on selected platform
-
-    Args:
-        modelVersion: string of selected model key
-        apiKey: string of API Key for selected platform
-        apiSelection: string of API platform selected
-    
-    Returns:
-        llm: langchain model instance
-    '''
-
-    if apiSelection == 'Gemini':
-        safe = common.configLangchainSafety()
-        llm = GoogleGenerativeAI(model=modelVersion, google_api_key=apiKey, safety_settings=safe)
-    
-    if apiSelection == 'Groq':
-        llm = ChatGroq(temperature=1, groq_api_key=apiKey, model_name=modelVersion)
-    
-    return llm
-
-
 def createPandasAgent(df, llm):
     '''
     Create PandasAI agent with dataframe and langchain model instance configured for streamlit outputs
@@ -123,7 +98,7 @@ def startDataChat(modelVersion, apiKey, apiSelection):
     '''
 
     df = st.session_state.csv
-    llm = createLangchainModel(modelVersion, apiKey, apiSelection)
+    llm = common.createLangchainModel(modelVersion, apiKey, apiSelection)
     dfAgent = createPandasAgent(df, llm)
 
     st.session_state.datachat = dfAgent
@@ -158,10 +133,10 @@ def checkDataChange(modelVersion, apiKey, df, apiSelection):
     and starts a new data chat with the new file
 
     Args:
-        modelVersion:
-        apiKey:
-        df:
-        apiSelection:
+        modelVersion: string of selected model key
+        apiKey: string of API Key for selected platform
+        df: dataframe of uploaded CSV file
+        apiSelection: string of API platform selected
     '''
 
     dfState = st.session_state.csv

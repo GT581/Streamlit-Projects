@@ -4,10 +4,10 @@
  The Home page on Streamlit describes each project in more detail, but at a high level here is what the code in each folder in this repo contains:
 
  App:  
- Contains all frontend / Streamlit code
+ Contains all Streamlit and execution logic code
 
  Pipelines:  
- Contains all backend / ETL code
+ Contains all ETL code that pulls data from external sources (APIs, Web Scraping, etc.) used in the apps
 
  Pages:  
  Executes each project within the app in a separate page

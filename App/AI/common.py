@@ -1,7 +1,8 @@
 import streamlit as st
 import google.generativeai as genai
-from langchain_google_genai import HarmBlockThreshold, HarmCategory
+from langchain_google_genai import GoogleGenerativeAI, HarmBlockThreshold, HarmCategory
 from groq import Groq
+from langchain_groq import ChatGroq
 
 
 def selectApi():
@@ -234,3 +235,26 @@ def checkModelChange(modelVersion):
         return True
     else:
         return False
+    
+
+def createLangchainModel(modelVersion, apiKey, apiSelection):
+    '''
+    Creates langchain model instance based on selected platform
+
+    Args:
+        modelVersion: string of selected model key
+        apiKey: string of API Key for selected platform
+        apiSelection: string of API platform selected
+    
+    Returns:
+        llm: langchain model instance
+    '''
+
+    if apiSelection == 'Gemini':
+        safe = configLangchainSafety()
+        llm = GoogleGenerativeAI(model=modelVersion, google_api_key=apiKey, safety_settings=safe)
+    
+    if apiSelection == 'Groq':
+        llm = ChatGroq(temperature=1, groq_api_key=apiKey, model_name=modelVersion)
+    
+    return llm
