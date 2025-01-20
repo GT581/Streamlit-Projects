@@ -156,10 +156,10 @@ def writeDataChat():
 
     for message in st.session_state.datamessages:
         with st.chat_message(message["role"]):
-            if os.path.exists("exports\charts\temp_chart.png"):
-                im = plt.imread("exports\charts\temp_chart.png")
+            if os.path.exists("exports/charts/temp_chart.png"):
+                im = plt.imread("exports/charts/temp_chart.png")
                 st.image(im)
-                os.remove("exports\charts\temp_chart.png")
+                os.remove("exports/charts/temp_chart.png")
             else:
                 st.write(message["content"])
 
@@ -182,10 +182,10 @@ def userPromptDataChat():
             st.write(prompt)
         
         with st.chat_message("AI"):
-            if os.path.exists("exports\charts\temp_chart.png"):
-                im = plt.imread("exports\charts\temp_chart.png")
+            if os.path.exists("exports/charts/temp_chart.png"):
+                im = plt.imread("exports/charts/temp_chart.png")
                 st.image(im)
-                os.remove("exports\charts\temp_chart.png")
+                os.remove("exports/charts/temp_chart.png")
             else:
                 st.write(answer)
 
