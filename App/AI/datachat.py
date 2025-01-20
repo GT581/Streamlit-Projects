@@ -2,7 +2,6 @@ import streamlit as st
 from App.AI import common, chat
 import pandas as pd
 from pandasai import Agent
-from pandasai.responses.streamlit_response import StreamlitResponse
 import matplotlib.pyplot as plt
 import os
 
@@ -84,7 +83,6 @@ def createPandasAgent(df, llm):
 
     '''
 
-    #dfAgent = Agent(df, config={"llm": llm, "response_parser": StreamlitResponse}, memory_size=25)
     dfAgent = Agent(df, config={"llm": llm}, memory_size=25)
 
     return dfAgent
@@ -158,10 +156,10 @@ def writeDataChat():
 
     for message in st.session_state.datamessages:
         with st.chat_message(message["role"]):
-            if os.path.exists("/mount/src/streamlit-projects/exports/charts/temp_chart.png"):
-                im = plt.imread("/mount/src/streamlit-projects/exports/charts/temp_chart.png")
+            if os.path.exists("exports\charts\temp_chart.png"):
+                im = plt.imread("exports\charts\temp_chart.png")
                 st.image(im)
-                os.remove("/mount/src/streamlit-projects/exports/charts/temp_chart.png")
+                os.remove("exports\charts\temp_chart.png")
             else:
                 st.write(message["content"])
 
@@ -184,10 +182,10 @@ def userPromptDataChat():
             st.write(prompt)
         
         with st.chat_message("AI"):
-            if os.path.exists("/mount/src/streamlit-projects/exports/charts/temp_chart.png"):
-                im = plt.imread("/mount/src/streamlit-projects/exports/charts/temp_chart.png")
+            if os.path.exists("exports\charts\temp_chart.png"):
+                im = plt.imread("exports\charts\temp_chart.png")
                 st.image(im)
-                os.remove("/mount/src/streamlit-projects/exports/charts/temp_chart.png")
+                os.remove("exports\charts\temp_chart.png")
             else:
                 st.write(answer)
 
