@@ -6,8 +6,6 @@ pagesarch/
 Pipelines/ETL/
 notes.txt
 pandasai.log
-test.py
 *.png
 *.ipynb
-.DS_Store
-fpstats.py
+faiss_index/
